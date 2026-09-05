@@ -1,80 +1,150 @@
 # Migration to Micro.blog
 
-The intended long-term direction is to move `smtop100.blog` from WordPress.com to Micro.blog once the remaining WordPress subscription period is close to ending and the replacement has been tested properly.
+The active plan is now to build and test the replacement directly in Micro.blog at `https://smtop100.micro.blog/`, rather than redesigning WordPress first.
 
-This is not a reason to leave the WordPress site untouched for the next 16 months. The redesign period should make the eventual migration easier.
+WordPress remains the live production site until the replacement is proven. It is now a source system and safety net, not the target architecture.
 
 ## Strategy
 
-Use WordPress as the live publishing platform for now, while treating Micro.blog as the target architecture.
+Use the Micro.blog prototype to implement the future site directly:
 
-That means:
+- editorial/community front door on `smtop100.blog`;
+- structured history in Archive;
+- competitions in Tournaments;
+- voting/recognition in Awards;
+- governance in Rules;
+- sister-world identity for Top 100 Regen, preferably at `regen.smtop100.blog`.
 
-- simplify rather than deepen WordPress-specific structure;
-- avoid new plugin/block dependencies that cannot migrate cleanly;
-- keep structured functions in the specialist subdomain apps;
-- clean taxonomy deliberately;
-- preserve URL knowledge;
-- maintain independent backups of content and media;
-- build and test a parallel Micro.blog prototype before cutover.
+The working ecosystem navigation is:
 
-## What needs testing
+`Top 100 · Archive · Tournaments · Awards · Rules · Regen`
 
-### Content import
+The migration should be selective and deliberate. Preserve history, but do not recreate WordPress's accumulated taxonomy, page and media clutter unless it still serves a purpose.
 
-Test representative samples from:
+## What has already been decided
 
-- original Blogger-era posts;
-- early WordPress posts;
-- recent block-editor posts;
-- image-heavy posts;
-- posts with embedded media;
-- longform editorial pieces;
-- routine announcements/results;
-- pages.
+- The WordPress WXR content export is preserved.
+- A separate WordPress media/attachment export manifest is preserved.
+- All 86 categories have been triaged.
+- All 105 pages have been triaged; only a small set needs to survive in a live/redirected/merged form.
+- Dormant club categories remain reusable club records rather than disposable taxonomy.
+- The main blog should stop duplicating repetitive structured information when a dedicated app handles it better.
+- The Micro.blog prototype site has been created.
 
-### Permalinks and redirects
+## Prototype import plan
 
-The migration should aim to preserve existing post URLs where Micro.blog permits it. Where paths cannot be reproduced exactly, record explicit redirects.
+Do not begin by trying to make the whole eleven-year archive perfect.
+
+Start with a representative sample containing:
+
+1. a recent normal editorial post;
+2. an active club-record post;
+3. a current tournament post;
+4. a Season Predictions and Reviews post;
+5. a Blogger-era historical post;
+6. an image-heavy post;
+7. a post with embeds or unusual HTML;
+8. one or two pages that we intend to keep.
+
+For each sample, verify:
+
+- title and body formatting;
+- author/date preservation;
+- categories/tags;
+- images and media URLs;
+- internal links;
+- resulting permalink;
+- feed output and social metadata where relevant.
+
+Once the representative sample behaves well, test a much larger/full import.
+
+## Permalinks and redirects
+
+The migration should preserve existing post URLs where Micro.blog permits it. Where paths cannot be reproduced exactly, record explicit redirects.
 
 Special attention should be paid to:
 
 - old Blogger-derived slugs;
-- WordPress date-based URLs, if present;
+- WordPress date-based URLs and other historical path patterns;
 - pages linked externally;
-- category/tag archives;
-- attachment/media URLs;
-- links from Archive, Awards, Tournaments and Rules back into the main site.
+- active club archives;
+- high-value historical posts;
+- links from Archive, Awards, Tournaments, Rules and Regen back into the main site;
+- attachment/media URLs that matter to migrated content.
 
-### Media
+We do not need to preserve every category/tag archive URL if the taxonomy itself is being intentionally retired, but important inbound URLs should be redirected sensibly rather than simply abandoned.
 
-Confirm whether imported posts reference WordPress-hosted media or copy it into the new Micro.blog media library. The preferred launch state is not dependent on an expiring WordPress account for essential images.
+## Media
 
-### Taxonomy
+The WordPress media export contains roughly 7,000 attachment records. Treat it as an inventory, not a mandate to migrate every file.
 
-Only the cleaned editorial taxonomy should be reproduced. Do not migrate hundreds of legacy tags solely for completeness if they provide no reader value.
+The media audit should identify:
 
-### Theme and navigation
+- media referenced by live/current content;
+- media referenced only by archive content;
+- apparently unreferenced media;
+- duplicate or derivative files;
+- current branding/logos;
+- recent active-content media.
 
-The Micro.blog prototype should implement the target ecosystem model directly:
+The preferred launch state is not dependent on the WordPress account for essential media, but low-value unused media-library material should not be moved merely for completeness.
 
-`Top 100 · Archive · Tournaments · Awards · Rules`
+## Taxonomy
 
-It should be designed as the editorial front door rather than an imitation of the current WordPress theme.
+Recreate only the taxonomy needed by the future site.
 
-## Suggested timeline
+Key principles:
 
-### Now
+- active club records remain visible and dormant club records remain revivable;
+- season and division can survive as useful metadata without becoming navigation clutter;
+- live editorial categories should be few and meaningful;
+- structured tournament, awards and archive data belongs primarily in the relevant apps;
+- `Uncategorized` is not a meaningful destination and should not be reproduced as a first-class category.
 
-Audit, redesign the WordPress information architecture, reduce clutter and map URLs.
+## Pages
 
-### During the remaining subscription period
+Only pages explicitly marked to keep need a live future treatment. The current keep set is small and should be consolidated where sensible.
 
-Build a private/test Micro.blog version and repeatedly test representative imports and theme/navigation work.
+Likely future functions include:
 
-### Near subscription end
+- About;
+- Contact;
+- Archive gateway;
+- Rules gateway/summary;
+- Support;
+- Ask Me Anything/help;
+- Transfer Bans/admin tooling until superseded by something better.
 
-Run a full migration rehearsal, verify redirects and media, then schedule final cutover only when the test site is proven.
+Everything else can remain preserved as archive material without rebuilding 100+ WordPress pages.
+
+## Theme and navigation
+
+Build the Micro.blog theme for the target architecture, not as an imitation of WordPress.
+
+The homepage should prioritise:
+
+- current Top 100 identity and important admin notices;
+- latest meaningful editorial;
+- obvious access to Archive, Tournaments, Awards, Rules and Regen;
+- current competitions;
+- active club records;
+- current season analysis;
+- selectively resurfaced history.
+
+## Cutover principle
+
+There is no longer any strategic need to wait until the WordPress.com subscription is nearly finished.
+
+Cut over when:
+
+- the Micro.blog prototype is stable;
+- important historical URLs are mapped;
+- essential media works independently of WordPress;
+- the target navigation/theme is clearly better;
+- publishing and feeds work reliably;
+- a final backup and migration rehearsal have succeeded.
+
+Until then, leave the live WordPress site alone and use it as the authoritative production copy.
 
 ## Success criteria
 
@@ -83,6 +153,7 @@ The migration is successful when:
 - readers can find current Top 100 activity quickly;
 - important historical posts remain available at their old or redirected URLs;
 - essential media is under the new site's control;
-- Archive/Tournaments/Awards/Rules are clearly integrated as one ecosystem;
+- Archive, Tournaments, Awards, Rules and Regen feel like one ecosystem;
 - the blog no longer carries structured functions better handled by those apps;
+- dormant club records remain available for future revival;
 - publishing on Micro.blog is simpler than maintaining the old WordPress structure.
