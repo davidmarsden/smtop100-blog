@@ -6,12 +6,12 @@ Completed human classification of the 86 WordPress categories from the September
 
 - **LIVE:** 21
 - **APP:** 8
-- **ARCHIVE:** 67
+- **ARCHIVE:** 69
 - **METADATA:** 3
 - **REVIEW:** 3
 - **Active club records:** 10
-- **Dormant club records:** 41
-- **Unclassified:** Levante, Twente
+- **Dormant club records:** 43
+- **Unclassified:** none
 
 Statuses are intentionally non-exclusive: a category can be LIVE + APP + ARCHIVE, for example.
 
@@ -31,7 +31,7 @@ Statuses are intentionally non-exclusive: a category can be LIVE + APP + ARCHIVE
 | Future Transfers | 37 | ARCHIVE |  |  |
 | Manager Awards | 37 | LIVE + APP + ARCHIVE |  | Now largely organiser announcements/signposts to the Awards app; preserve historical posts. |
 | Hamburger | 31 | LIVE + ARCHIVE | ACTIVE CLUB RECORD | Active, long-running club record across seasons. |
-| Levante | 30 |  |  |  |
+| Levante | 30 | ARCHIVE | DORMANT CLUB RECORD |  |
 | World Club Shield | 29 | ARCHIVE |  |  |
 | AC Milan | 26 | ARCHIVE | DORMANT CLUB RECORD |  |
 | Admin | 26 | LIVE |  | Occasional important game-world news from the administrator. |
@@ -100,7 +100,7 @@ Statuses are intentionally non-exclusive: a category can be LIVE + APP + ARCHIVE
 | Shakhtar Donetsk | 1 | ARCHIVE | DORMANT CLUB RECORD |  |
 | Standard Liege | 1 | ARCHIVE | DORMANT CLUB RECORD |  |
 | Top 100 News | 1 | METADATA + REVIEW |  | Parent category for tournament news? |
-| Twente | 1 |  |  |  |
+| Twente | 1 | ARCHIVE | DORMANT CLUB RECORD |  |
 | VfL Wolfsburg | 1 | ARCHIVE | DORMANT CLUB RECORD |  |
 | West Brom | 1 | ARCHIVE | DORMANT CLUB RECORD |  |
 | Tournament Reports | 1 | ARCHIVE |  |  |
