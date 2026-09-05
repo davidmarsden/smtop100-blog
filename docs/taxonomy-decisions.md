@@ -29,19 +29,26 @@ The redesign should distinguish between:
 
 ## Important distinction: club records
 
-Club-specific categories are not all equivalent.
+Club-specific categories are not disposable just because they are currently dormant.
 
-Some may be abandoned historical residue; others are actively maintained long-running records written by managers. The audit must therefore classify club categories by **actual use and recency**, not assume that club names should be retired as taxonomy.
+A club category may be inactive because the manager who maintained it stopped writing, changed club, or left the game. A future manager could revive that same club record. We should therefore preserve club categories as reusable community infrastructure, not treat inactivity as a reason to delete them.
 
 For each club category we should determine:
 
-1. Is it still being updated?
+1. Is it currently being updated?
 2. Is it written as an ongoing club diary / record?
 3. Does it have a consistent author or manager identity?
-4. Does it deserve a permanent landing page or archive view?
-5. Should it remain on the main site, move into Archive, or be represented in both places?
+4. Is it dormant but potentially reusable by a future manager?
+5. Does it deserve a permanent landing page or archive view?
+6. Should it remain on the main site, move into Archive, or be represented in both places?
 
-Espanyol and Hamburger are confirmed examples of club records that must be retained prominently in some form.
+This suggests three useful club states rather than simply live/dead:
+
+- **ACTIVE CLUB RECORD** — currently maintained and visibly accessible.
+- **DORMANT CLUB RECORD** — preserved, not prominent, but explicitly available for revival by a future manager.
+- **HISTORICAL CLUB ARCHIVE** — historical material that should remain retrievable even if the club no longer has a continuing editorial record.
+
+Espanyol and Hamburger are confirmed examples of active club records that must be retained prominently in some form. Dormant club categories should remain recoverable and capable of becoming active again without creating a parallel duplicate category.
 
 ## Archive strategy
 
@@ -53,9 +60,10 @@ The preferred model is:
 - remove dormant series from primary navigation;
 - surface them through a dedicated archive/search/browse experience;
 - retain metadata such as season, division, competition and club;
+- preserve dormant club records in a form that can be reactivated;
 - avoid forcing every historical category to remain a first-class live-site navigation item.
 
-This gives us a cleaner present-day site without sacrificing eleven years of community history.
+This gives us a cleaner present-day site without sacrificing eleven years of community history or closing off future revival of old club records.
 
 ## Next audit step
 
@@ -67,4 +75,4 @@ The next taxonomy pass should classify all significant categories into these sta
 - **METADATA** — retain as a useful historical dimension rather than a main editorial category;
 - **REVIEW** — unclear and requires human judgement.
 
-Club-specific categories should be reviewed individually rather than bulk-retired.
+Club-specific categories should be reviewed individually and additionally marked as **ACTIVE CLUB RECORD**, **DORMANT CLUB RECORD**, or **HISTORICAL CLUB ARCHIVE** rather than bulk-retired.
