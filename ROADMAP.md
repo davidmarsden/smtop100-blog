@@ -48,7 +48,7 @@ Prototype site: `https://smtop100.micro.blog/`
 - [x] Test image-heavy and embedded-media posts.
 - [x] Confirm Micro.blog copies referenced media into its own media library.
 - [x] Confirm extensionless permalink mode and retain it as the target setting.
-- [ ] Run the full WordPress import rehearsal.
+- [ ] Run the curated full WordPress import rehearsal.
 - [ ] Build the target navigation directly in Micro.blog.
 - [ ] Build the new homepage around current activity and the wider ecosystem.
 - [ ] Implement the minimal live taxonomy rather than reproducing WordPress category/tag sprawl.
@@ -76,19 +76,38 @@ The WordPress export contains 7,009 attachment records. The automatic audit now 
 
 - Keep/migrate 1,054 items used by live content.
 - Keep/migrate 2,630 items used by archive content.
-- Keep/migrate 201 items attached to live-parent content.
+- Keep/migrate 201 records attached to live-parent content.
 - Skip 151 old draft/pending-only items dated before 1 August 2026.
 - Treat 2,874 unreferenced items as skip candidates.
 - Treat 99 archive-parent-only items with no direct body reference as low priority / skip unless later shown to be needed.
 
-## Phase 5 — Full migration rehearsal
+The three keep buckets contain 3,885 audit records representing 3,884 unique attachment IDs.
 
-**Status: next**
+## Phase 5 — Curated full migration rehearsal
+
+**Status: ready to import**
 
 See `docs/full-migration-launch-plan.md` for the operational sequence.
 
-- [ ] Run the full WordPress import into `smtop100.micro.blog`.
-- [ ] Compare post volume with the WordPress export.
+A curated WXR rehearsal package has now been generated from the original WordPress export. It deliberately preserves the published history without carrying across discarded drafts, obsolete pages, plugin/custom-post-type debris, tag sprawl or low-value media-library cruft.
+
+**Curated rehearsal package:**
+
+- 2,262 published posts.
+- 9 keeper pages.
+- 3,884 unique selected media attachment records.
+- 83 explicitly approved categories.
+- 0 legacy WordPress tags.
+- Draft/pending posts excluded.
+- 96 non-keeper pages excluded.
+- `Uncategorized` excluded.
+- Metadata-only/review-only category parents excluded.
+- Obsolete WordPress/plugin/custom post types excluded.
+- Old-draft, unreferenced and low-priority archive-parent-only media excluded.
+
+- [x] Generate the curated rehearsal WXR from the completed content, page, category and media decisions.
+- [ ] Import the curated WXR into `smtop100.micro.blog`.
+- [ ] Compare post volume with the curated migration manifest.
 - [ ] Verify representative recent, Blogger-era, club, tournament and season-analysis posts.
 - [ ] Verify keeper pages.
 - [ ] Verify essential media is served independently of WordPress.
