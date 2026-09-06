@@ -38,7 +38,7 @@ The live WordPress site remains untouched while the replacement is built and tes
 
 ## Phase 3 — Build the Micro.blog prototype
 
-**Status: prototype import proven**
+**Status: full curated import complete**
 
 Prototype site: `https://smtop100.micro.blog/`
 
@@ -48,7 +48,7 @@ Prototype site: `https://smtop100.micro.blog/`
 - [x] Test image-heavy and embedded-media posts.
 - [x] Confirm Micro.blog copies referenced media into its own media library.
 - [x] Confirm extensionless permalink mode and retain it as the target setting.
-- [ ] Run the curated full WordPress import rehearsal.
+- [x] Run the curated full WordPress import rehearsal.
 - [ ] Build the target navigation directly in Micro.blog.
 - [ ] Build the new homepage around current activity and the wider ecosystem.
 - [ ] Implement the minimal live taxonomy rather than reproducing WordPress category/tag sprawl.
@@ -85,11 +85,11 @@ The three keep buckets contain 3,885 audit records representing 3,884 unique att
 
 ## Phase 5 — Curated full migration rehearsal
 
-**Status: ready to import**
+**Status: complete enough to design on top of**
 
 See `docs/full-migration-launch-plan.md` for the operational sequence.
 
-A curated WXR rehearsal package has now been generated from the original WordPress export. It deliberately preserves the published history without carrying across discarded drafts, obsolete pages, plugin/custom-post-type debris, tag sprawl or low-value media-library cruft.
+A curated WXR rehearsal package was generated from the original WordPress export. It preserves the published history without carrying across discarded drafts, obsolete pages, plugin/custom-post-type debris, tag sprawl or low-value media-library cruft.
 
 **Curated rehearsal package:**
 
@@ -106,15 +106,34 @@ A curated WXR rehearsal package has now been generated from the original WordPre
 - Old-draft, unreferenced and low-priority archive-parent-only media excluded.
 
 - [x] Generate the curated rehearsal WXR from the completed content, page, category and media decisions.
-- [ ] Import the curated WXR into `smtop100.micro.blog`.
-- [ ] Compare post volume with the curated migration manifest.
-- [ ] Verify representative recent, Blogger-era, club, tournament and season-analysis posts.
-- [ ] Verify keeper pages.
-- [ ] Verify essential media is served independently of WordPress.
+- [x] Import the curated WXR into `smtop100.micro.blog`.
+- [x] Confirm imported posts and media render correctly across old and recent material.
+- [x] Confirm essential media is copied to and served independently by Micro.blog.
+- [ ] Compare post/page volume with the curated migration manifest in a final sanity check.
+- [ ] Verify keeper pages as part of the new navigation build.
 - [ ] Record representative old/new URL pairs.
 - [ ] Finalise homepage, navigation and minimal live taxonomy on top of the imported corpus.
 - [ ] Check links from Archive, Tournaments, Awards, Rules and Regen back to the main site.
 - [ ] Identify anything that genuinely blocks migration.
+
+## Phase 5A — Restore authorship and design contribution workflow
+
+**Status: legacy data recovered; theme integration pending**
+
+Micro.blog imported historical WordPress content under the site owner account, so rendered posts no longer expose the original contributor byline. The source WXR still contains that data.
+
+- [x] Recover original WordPress creator metadata for all 2,262 published migrated posts.
+- [x] Identify 77 distinct historical WordPress contributors.
+- [x] Generate a date/title author lookup for Hugo/Micro.blog.
+- [x] Add a prototype legacy-author byline partial.
+- [x] Add a contributor audit without storing WordPress email addresses.
+- [ ] Integrate recovered bylines into the actual Micro.blog theme.
+- [ ] Curate friendly contributor names where the old WordPress display name is only a username.
+- [ ] Decide whether any trusted regular contributors justify Micro.blog Family/team-author access.
+- [ ] Design a submission → automated cleanup → review → publish workflow for occasional manager contributions.
+- [ ] Ensure submitted posts retain an explicit contributor byline independent of the publishing account.
+
+See `docs/legacy-author-recovery.md`.
 
 ## Phase 6 — Cutover to `smtop100.blog`
 
