@@ -1,12 +1,12 @@
 # Target architecture
 
-The long-term Top 100 ecosystem should behave like one platform with specialist destinations, rather than a collection of unrelated subdomains.
+The long-term Top 100 ecosystem should behave like one platform with a clear editorial home, a small number of specialist tools, and a distinct sister game world.
 
-## Six core destinations
+## Core destinations
 
 ### 1. Top 100 — `smtop100.blog`
 
-Role: **front door, editorial layer and historical blog archive**.
+Role: **front door, editorial layer, current rules and historical blog archive**.
 
 Primary content:
 
@@ -15,20 +15,26 @@ Primary content:
 - opinion and community writing;
 - active club records and manager-written team news;
 - selected historical features;
-- clear navigation into the specialist apps and sister world.
+- current Rules;
+- About, Contact and Support;
+- access to the Micro.blog chronological post archive at `/archive/`;
+- clear navigation into specialist apps and the sister Regen world.
 
 The main site should not duplicate structured functionality already provided elsewhere.
 
-### 2. Archive — `archive.smtop100.blog`
+### 2. Top 100 Stats & History — `archive.smtop100.blog`
 
-Role: **history and structured data**.
+Role: **structured history and statistical record**.
 
 Primary content/functions:
 
 - seasons and league history;
 - clubs and honours;
 - manager careers and profiles;
-- historical tables, records and comparisons.
+- historical tables, records and comparisons;
+- Roll of Honour and other structured historical data.
+
+This destination should be labelled **Top 100 Stats & History** or **Top 100 History** in the UI, not simply “Archive”, so it is clearly distinct from Micro.blog's `/archive/` chronological post archive.
 
 Manager material from `managers.smtop100.blog` should migrate here where practical.
 
@@ -36,11 +42,11 @@ Manager material from `managers.smtop100.blog` should migrate here where practic
 
 Role: **competition management and tournament history**.
 
-This replaces the narrower `youth-cup.smtop100.blog` identity and should support Youth Cup, World Club Cup, Top 100 Regen competitions and future tournaments without each competition needing its own separate operational site.
+This replaces the narrower `youth-cup.smtop100.blog` identity and should support Youth Cup, World Club Cup, Top 100 Regen competitions and future tournaments without each competition needing its own operational site.
 
 ### 4. Awards — `awards.smtop100.blog`
 
-Role: **recognition and voting**.
+Role: **recognition, voting and award history**.
 
 Primary content/functions:
 
@@ -49,46 +55,112 @@ Primary content/functions:
 - manager award cabinets;
 - historical award records.
 
-### 5. Rules — `rules.smtop100.blog`
+Long-term direction: Awards voting should authenticate against the same manager-account identity used elsewhere in the Top 100 ecosystem, rather than relying on loose public forms or separate identities.
 
-Role: **canonical governance**.
+### 5. Regen — proposed `regen.smtop100.blog`
 
-Primary content/functions:
-
-- game rules;
-- competition and conduct rules where appropriate;
-- governance documentation;
-- authoritative reference links from the other destinations.
-
-### 6. Regen — proposed `regen.smtop100.blog`
-
-Role: **sister game world within the Top 100 family**.
+Role: **separate sister game-world website within the Top 100 family**.
 
 Current site: `top100regen.website`.
 
-The preferred long-term direction is to bring Top 100 Regen under the `smtop100.blog` umbrella at `regen.smtop100.blog`, while retaining a distinct identity and its own current-world information. Regen should feel like a sister world, not an unrelated external project.
+Top 100 Regen is not an app for the main Top 100 world. It is its own website and game world. The preferred long-term direction is to move it beneath the `smtop100.blog` umbrella at `regen.smtop100.blog`, while retaining its own identity, content and current-world information.
 
-Top 120 is the historical precedent: its archive should be preserved, but the new Regen relationship should be designed deliberately so that shared tools, branding and navigation connect the worlds without confusing them.
+Shared branding, navigation and account concepts may connect it to the original Top 100, but the two worlds must remain clearly distinguishable.
+
+Top 120 is the historical precedent: its archive should be preserved, but Regen should avoid becoming a disconnected sibling site.
+
+## Rules and governance
+
+### Current Rules — `smtop100.blog/rules/`
+
+The canonical human-readable current rules should live as a page on the main site, not as a standalone rules website.
+
+The existing `rules.smtop100.blog` should be rewritten and reformatted, then retired or redirected to `/rules/` once the new page is complete.
+
+The current Rules page should be concise and operational, with layers such as:
+
+1. short version / essentials;
+2. Top 100 and Top 100 Regen relationship and differences;
+3. current squad, transfer and conduct rules;
+4. competition rules;
+5. administration and dispute procedures;
+6. links to historical rule versions where needed.
+
+Detailed old rules are primarily **legacy/history material**. They should be preserved in a dated or versioned form so old decisions can be checked when someone argues that a rule “didn't used to be like this”.
+
+### Governance tooling
+
+Several difficult administrative jobs should become one coherent governance/admin system rather than a collection of unrelated pages:
+
+- **Transfer bans** — structured ban records, reasons, dates, expiry calculation, current/history views and automatic reminders/expiry handling.
+- **Rule adjudication** — versioned rules plus an assisted decision workflow that identifies the applicable rule and produces a reasoned proposed ruling. Human administrator confirmation remains required for contentious decisions.
+- **Manager appointments** — vacancies, applications, eligibility checks, agreed criteria, transparent scoring/assessment, recorded decisions and an audit trail.
+- **All-manager polls** — proposals, eligible voters, deadlines, one vote per eligible manager, published results and links to rule changes where relevant.
+
+The purpose is not to automate judgement out of existence, but to make repetitive administration consistent, auditable and much less painful.
+
+## Shared manager identity
+
+A common manager-account identity should increasingly power authenticated functions across the ecosystem.
+
+The Publishing Desk already reuses Tournament Manager's Supabase manager accounts. The same identity model should be reviewed for:
+
+- Awards voting;
+- all-manager polls;
+- tournament administration;
+- manager applications/appointments;
+- authenticated governance/admin functions;
+- future manager-specific tools.
+
+This should give the ecosystem a single answer to “who is this manager?” without forcing each app to invent another login system.
 
 ## Shared navigation concept
 
-A consistent ecosystem-level navigation should be used where technically practical:
+A consistent ecosystem-level navigation should be used where technically practical. A better conceptual set is:
 
-`Top 100 · Archive · Tournaments · Awards · Rules · Regen`
+`Top 100 · Stats & History · Tournaments · Awards · Regen`
 
-This is ecosystem navigation, not a demand that all six items receive equal visual weight in every context. On the main site, Top 100 remains the editorial home; Archive and Tournaments are likely to be the most-used specialist destinations, while Awards, Rules and Regen remain clearly accessible.
+Rules, About, Contact, Support and the chronological Posts Archive are part of the main Top 100 site rather than separate platform destinations.
 
-Each destination can then have its own local navigation beneath or alongside this shared layer.
+Each specialist destination can then have its own local navigation beneath or alongside this shared layer.
+
+## Support
+
+`/support/` remains part of the target main-site page set. Its current WordPress-era copy needs rewriting around the actual ongoing costs and current payment method before launch.
+
+## Design consistency across the ecosystem
+
+All existing apps and sites should be reviewed before cutover so the ecosystem has a clear family resemblance.
+
+Review areas:
+
+- shared global navigation;
+- logo/wordmark treatment;
+- typography;
+- spacing and layout conventions;
+- buttons, cards, forms and tables;
+- mobile behaviour;
+- accessibility;
+- footer/ownership language;
+- social-card treatment;
+- canonical links back to `smtop100.blog`;
+- clear cues when moving from the editorial site into an app or into Regen.
+
+The aim is a consistent Top 100 design system, not pixel-identical interfaces.
 
 ## Retire/absorb candidates
 
+### `rules.smtop100.blog`
+
+Retire after the current rules have been rewritten at `smtop100.blog/rules/`. Preserve detailed historical rule material separately and redirect useful old entry points.
+
 ### `legends.smtop100.blog`
 
-Retain the concept, not necessarily the site. Strong historical/editorial pieces can live as features on the main site, while structured historical profiles/facts belong in Archive.
+Retain the concept, not necessarily the site. Strong historical/editorial pieces can live as features on the main site, while structured historical profiles/facts belong in Stats & History.
 
 ### `managers.smtop100.blog`
 
-Retire once Archive manager pages cover the useful material. Redirect old entry points to relevant Archive destinations where possible.
+Retire once Stats & History manager pages cover the useful material. Redirect old entry points to relevant manager destinations where possible.
 
 ## Main-site homepage hierarchy
 
@@ -102,15 +174,13 @@ A first-pass hierarchy:
 
 1. **Top 100 identity / current-world status** — concise introduction and any genuinely important Admin notice.
 2. **Latest editorial** — newest meaningful posts, not a raw dump of every historical category.
-3. **Quick access to the platform** — prominent cards/links for Archive, Tournaments, Awards and Rules, with Regen visibly presented as the sister world.
+3. **Quick access to the platform** — prominent links/cards for Stats & History, Tournaments and Awards, with Regen visibly presented as the sister world.
 4. **Current competitions** — surfaced from or linked directly into Tournaments rather than requiring duplicate organiser posts.
 5. **Club records / Team News** — active club diaries such as Espanyol and Hamburger, with dormant club records discoverable but not cluttering the homepage.
-6. **Season analysis** — current prediction/review editorial where it adds interpretation; structured history points into Archive.
-7. **From the archive** — selective resurfacing of older material such as Team of the Week, Back Pages, Match Preview, Team of the Season, Top 120 and other historical series.
-8. **Community / about / governance** — concise explanation of Top 100 and links to Rules and core reference material.
-
-The homepage should therefore emphasise the living community and the specialist apps, while making the historical blog archive discoverable rather than dominant.
+6. **Season analysis** — current prediction/review editorial where it adds interpretation; structured history points into Stats & History.
+7. **From the blog archive** — selective resurfacing of older editorial material.
+8. **Community / governance** — concise links to About, Rules, Contact and Support.
 
 ## Design principle
 
-Users should not need to understand the technical history of the project. They should simply understand that Top 100 has one editorial home, a small number of specialist tools, and a sister world, all visibly part of the same ecosystem.
+Users should not need to understand the technical history of the project. They should simply understand that Top 100 has one editorial home, a small number of specialist tools, and a sister game world, all visibly part of the same ecosystem.
