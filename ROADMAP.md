@@ -116,24 +116,33 @@ A curated WXR rehearsal package was generated from the original WordPress export
 - [ ] Check links from Archive, Tournaments, Awards, Rules and Regen back to the main site.
 - [ ] Identify anything that genuinely blocks migration.
 
-## Phase 5A — Restore authorship and design contribution workflow
+## Phase 5A — Restore authorship and manager publishing
 
-**Status: legacy data recovered; theme integration pending**
+**Status: working end-to-end; manager-authenticated Publishing Desk implemented**
 
-Micro.blog imported historical WordPress content under the site owner account, so rendered posts no longer expose the original contributor byline. The source WXR still contains that data.
+Micro.blog imported historical WordPress content under the site owner account, so the migration also restores the original contributor layer rather than flattening Top 100 history into one author.
 
 - [x] Recover original WordPress creator metadata for all 2,262 published migrated posts.
 - [x] Identify 77 distinct historical WordPress contributors.
 - [x] Generate a date/title author lookup for Hugo/Micro.blog.
-- [x] Add a prototype legacy-author byline partial.
+- [x] Integrate recovered bylines into the Micro.blog theme.
 - [x] Add a contributor audit without storing WordPress email addresses.
-- [ ] Integrate recovered bylines into the actual Micro.blog theme.
-- [ ] Curate friendly contributor names where the old WordPress display name is only a username.
-- [ ] Decide whether any trusted regular contributors justify Micro.blog Family/team-author access.
-- [ ] Design a submission → automated cleanup → review → publish workflow for occasional manager contributions.
-- [ ] Ensure submitted posts retain an explicit contributor byline independent of the publishing account.
+- [x] Curate friendly contributor names where the old WordPress display name is only a username.
+- [x] Build the Top 100 Publishing Desk as a combined Submission Desk / Markdown Hand / BUM Hand workflow.
+- [x] Support private unfinished drafts and direct image uploads.
+- [x] Run a light-touch automated review and publish normal submissions automatically to Micro.blog.
+- [x] Divert exceptional/incomplete submissions to Micro.blog Drafts rather than dead-ending them.
+- [x] Keep an explicit contributor byline independent of the Micro.blog account that technically publishes the post.
+- [x] Reuse Tournament Manager's Supabase manager-account identity rather than inventing a separate login system.
+- [x] Restrict writing, drafts and media uploads to approved active Top 100 manager accounts.
+- [x] Prefill canonical manager name and current club server-side.
+- [x] Make private drafts manager-specific and available across devices after sign-in.
+- [x] Add a `Write` entry point to the custom Sumo theme navigation.
+- [ ] Verify the manager magic-link redirect and full authenticated flow on the deployed Publishing Desk.
+- [ ] Replace the temporary Netlify URL with the final Publishing Desk address after domain cutover (preferred: `submit.smtop100.blog`).
+- [ ] Decide whether any trusted regular contributors also justify native Micro.blog Family/team-author access.
 
-See `docs/legacy-author-recovery.md`.
+See `docs/legacy-author-recovery.md` and the private `smtop100-editorial` repository.
 
 ## Phase 6 — Cutover to `smtop100.blog`
 
