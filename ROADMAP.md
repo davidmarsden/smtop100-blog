@@ -1,6 +1,6 @@
 # SM Top 100 website roadmap
 
-This roadmap now treats Micro.blog as the active migration target rather than spending time redesigning WordPress first.
+This roadmap treats Micro.blog as the active migration target rather than spending time redesigning WordPress first.
 
 The live WordPress site remains untouched while the replacement is built and tested at `https://smtop100.micro.blog/`.
 
@@ -25,16 +25,23 @@ The live WordPress site remains untouched while the replacement is built and tes
 
 **Status: substantially complete**
 
-- [x] Define the main site's permanent job: front door, editorial layer, community news and historical blog archive.
+- [x] Define the main site's permanent job: front door, editorial layer, community news, current Rules and historical blog archive.
+- [x] Separate the Micro.blog chronological Posts Archive from the structured Top 100 Stats & History app.
 - [x] Separate current activity from historical archive material.
 - [x] Classify active, app-related, archive, metadata and dormant club taxonomy.
 - [x] Define how old pages should be treated: keep only a small live set; archive the rest.
-- [x] Bring Top 100 Regen under the wider Top 100 umbrella conceptually, with `regen.smtop100.blog` as the preferred future home.
+- [x] Keep `/support/` as a first-class main-site page, with rewritten current-purpose copy.
+- [x] Decide that current Rules belong at `smtop100.blog/rules/`, not on a permanent standalone rules subdomain.
+- [x] Treat detailed old rules as versioned legacy/history material rather than the main current rulebook.
+- [x] Bring Top 100 Regen under the wider Top 100 umbrella conceptually, with `regen.smtop100.blog` as the preferred future home while remaining a separate website/game world.
 - [x] Define the main-site homepage hierarchy.
+- [x] Define the preferred ecosystem mental model: Top 100, Stats & History, Tournaments, Awards and Regen.
 - [ ] Finalise the minimal live editorial taxonomy to recreate in Micro.blog.
 - [ ] Define URL-preservation and redirect rules in operational form.
 
-**Working ecosystem navigation:** `Top 100 · Archive · Tournaments · Awards · Rules · Regen`.
+**Working ecosystem navigation:** `Top 100 · Stats & History · Tournaments · Awards · Regen`.
+
+Rules, About, Contact, Support and Posts Archive belong within the Top 100 site itself.
 
 ## Phase 3 — Build the Micro.blog prototype
 
@@ -49,11 +56,12 @@ Prototype site: `https://smtop100.micro.blog/`
 - [x] Confirm Micro.blog copies referenced media into its own media library.
 - [x] Confirm extensionless permalink mode and retain it as the target setting.
 - [x] Run the curated full WordPress import rehearsal.
+- [x] Confirm WordPress Pages do not become Micro.blog Pages and switch to a deliberate page rebuild plan.
+- [ ] Create the rebuilt Micro.blog Pages: About, Rules, Contact and Support, plus any temporary operational gateways.
 - [ ] Build the target navigation directly in Micro.blog.
 - [ ] Build the new homepage around current activity and the wider ecosystem.
 - [ ] Implement the minimal live taxonomy rather than reproducing WordPress category/tag sprawl.
 - [ ] Create active/dormant club-record presentation.
-- [ ] Confirm how Archive, Tournaments, Awards, Rules and Regen are surfaced across the site.
 - [ ] Test mobile presentation, accessibility, social cards and feeds.
 
 **Goal:** prove the replacement architecture on Micro.blog before touching the live WordPress domain.
@@ -94,7 +102,7 @@ A curated WXR rehearsal package was generated from the original WordPress export
 **Curated rehearsal package:**
 
 - 2,262 published posts.
-- 9 keeper pages.
+- 9 keeper-page records in the WXR (handled separately because Micro.blog does not import them as Pages).
 - 3,884 unique selected media attachment records.
 - 83 explicitly approved categories.
 - 0 legacy WordPress tags.
@@ -109,11 +117,9 @@ A curated WXR rehearsal package was generated from the original WordPress export
 - [x] Import the curated WXR into `smtop100.micro.blog`.
 - [x] Confirm imported posts and media render correctly across old and recent material.
 - [x] Confirm essential media is copied to and served independently by Micro.blog.
-- [ ] Compare post/page volume with the curated migration manifest in a final sanity check.
-- [ ] Verify keeper pages as part of the new navigation build.
 - [ ] Record representative old/new URL pairs.
 - [ ] Finalise homepage, navigation and minimal live taxonomy on top of the imported corpus.
-- [ ] Check links from Archive, Tournaments, Awards, Rules and Regen back to the main site.
+- [ ] Check links from Stats & History, Tournaments, Awards and Regen back to the main site.
 - [ ] Identify anything that genuinely blocks migration.
 
 ## Phase 5A — Restore authorship and manager publishing
@@ -144,6 +150,38 @@ Micro.blog imported historical WordPress content under the site owner account, s
 
 See `docs/legacy-author-recovery.md` and the private `smtop100-editorial` repository.
 
+## Phase 5B — Shared design system and app review
+
+**Status: planned**
+
+The surviving sites/apps should look and behave like one family without erasing their individual jobs.
+
+- [ ] Audit the current design of Stats & History, Tournaments, Awards, Publishing Desk and Regen.
+- [ ] Define a compact Top 100 design system: wordmark/logo rules, typography, spacing, buttons, forms, cards, tables, mobile patterns and accessibility expectations.
+- [ ] Add consistent ecosystem navigation and footer/ownership language where practical.
+- [ ] Create a shared social-card family.
+- [ ] Make transitions between the editorial site, specialist apps and Regen obvious but visually coherent.
+- [ ] Review authentication UX across manager-facing tools.
+
+## Phase 5C — Manager accounts, polling and governance tooling
+
+**Status: planned / high-value admin work**
+
+The existing Supabase manager identity used by Tournament Manager and the Publishing Desk should become the preferred common identity layer for authenticated Top 100 functions.
+
+- [ ] Design a reusable manager-authenticated polling service.
+- [ ] Support an explicit electorate, one-manager-one-vote, deadlines, anonymous/public-result modes where appropriate, and a clear audit trail.
+- [ ] Migrate **All-Manager Polls** from ad-hoc forms/posts to the polling system.
+- [ ] Refactor **Awards voting** to use the same manager accounts and voting primitives.
+- [ ] Review whether tournament votes/decisions can reuse the same service.
+- [ ] Design a structured **Transfer Bans** workflow with reasons, start/end dates, automatic expiry and current/history views.
+- [ ] Build a versioned **Rules History** so historical adjudications can cite the rule that actually applied at the time.
+- [ ] Prototype **rule adjudication assistance**: enter the facts, identify applicable rules, produce a proposed ruling and rationale, then require admin confirmation.
+- [ ] Design **manager appointments** workflow: vacancy, applicants, eligibility, agreed criteria, scoring/assessment, final decision and recorded rationale.
+- [ ] Ensure contentious/admin decisions remain human-confirmed even when checks and recommendations are automated.
+
+The goal is consistency, auditability and less repetitive admin — not opaque automatic government by software.
+
 ## Phase 6 — Cutover to `smtop100.blog`
 
 Proceed when the Micro.blog prototype is clearly better and the full rehearsal is satisfactory; there is no requirement to wait for the WordPress.com subscription to expire.
@@ -158,13 +196,16 @@ Proceed when the Micro.blog prototype is clearly better and the full rehearsal i
 - [ ] Add explicit redirects/workarounds for important failures.
 - [ ] Check feeds, social metadata, search indexing and key inbound links.
 - [ ] Keep the old WordPress account/site available as a safety net while the migration beds in.
-- [ ] Retire or redirect obsolete destinations only after replacements are proven.
+- [ ] Retire or redirect `rules.smtop100.blog`, `legends.smtop100.blog` and `managers.smtop100.blog` only after replacements are proven.
+- [ ] Move or redirect `top100regen.website` to `regen.smtop100.blog` only after the Regen site migration has been tested separately.
 
 ## Non-goals
 
 - Redesigning WordPress as an intermediate destination.
 - Rebuilding structured apps inside the blog.
+- Treating Top 100 Regen as merely another app.
 - Preserving every historical category/tag merely because it exists.
 - Migrating the current WordPress structure unchanged.
 - Migrating all 7,000+ media attachments blindly.
 - Deleting historical material simply because it is no longer part of the live navigation.
+- Allowing automated governance tools to make unreviewed contentious decisions.
