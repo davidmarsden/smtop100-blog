@@ -23,3 +23,7 @@ There is no required amount. A small one-off contribution is just as welcome as 
 ### PayPal
 
 [![PayPal payment QR code](https://smtop100.micro.blog/uploads/2026/paypal-qr-1788892932247.png)](https://www.paypal.me/gdmarsden)
+
+## Site credits
+
+Top 100 is hosted on [Micro.blog](https://micro.blog/) and uses the [Sumo Theme](https://sumo.micro.blog/), designed by [Matt Langford](https://www.mattlangford.com/). The Top 100 custom theme and branding build on that foundation.
