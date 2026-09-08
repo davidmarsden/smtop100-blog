@@ -12,7 +12,9 @@ Top 100 uses a maximum 50-player squad limit and has additional rules around tra
 
 The Youth Cup and World Club Cup are run as Top 100 competitions alongside the Soccer Manager league structure. Current formats, fixtures and organiser information belong in the Tournaments app:
 
-https://tournaments.smtop100.blog/
+https://youth-cup.smtop100.blog/
+
+This will move to `tournaments.smtop100.blog` when the tournament site is renamed.
 
 ## Rule changes and decisions
 
@@ -31,3 +33,5 @@ Regen-specific rules should remain clearly identified on the Regen site rather t
 ## Legacy rules
 
 The former standalone rules site at `rules.smtop100.blog` is historical infrastructure and should eventually redirect here once the rewritten rulebook and Rules History are complete.
+
+This draft is the structure for the rewritten current rulebook. The detailed current rules still need to be brought across, simplified and checked before `/rules/` becomes authoritative.
