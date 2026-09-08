@@ -2,17 +2,18 @@
 
 Top 100 is a custom Soccer Manager game world built around 100 clubs from Europe and South America, split into five divisions of 20.
 
-It was created in 2015 and has developed into a long-running community with its own competitions, rules, records, awards and eleven years of manager-written history.
+It was created in 2015 and has developed into a long-running community with its own competitions, rules, records, awards and more than a decade of manager-written history.
 
-The main `smtop100.blog` site is now the editorial and community front door: news, club stories, season previews and reviews, match reports and important game-world announcements.
+The main `smtop100.blog` site is the editorial and community front door: news, club stories, season previews and reviews, match reports and important game-world announcements.
 
-The structured parts of Top 100 have their own homes:
+The wider Top 100 family has specialist homes:
 
-- **Archive** — seasons, managers, honours, records and historical statistics: https://archive.smtop100.blog/
+- **Stats & History** — seasons, managers, honours, records and historical statistics: https://archive.smtop100.blog/
 - **Tournaments** — Youth Cup, World Club Cup and other competitions: https://tournaments.smtop100.blog/
 - **Awards** — Manager Awards voting, winners and records: https://awards.smtop100.blog/
-- **Rules** — the canonical game-world rules: https://rules.smtop100.blog/
-- **Top 100 Regen** — our sister game world and gateway into the wider Top 100 community: planned for https://regen.smtop100.blog/
+- **Top 100 Regen** — our separate sister game world and a gateway into the wider Top 100 community; planned for https://regen.smtop100.blog/
+
+Current Top 100 rules belong here on the main site at `/rules/`, alongside About, Contact, Support and the chronological blog archive.
 
 ## How the league works
 
@@ -24,8 +25,8 @@ Top 100 was founded by Frank Hirst in 2015. Ownership later passed to David Mars
 
 August 2025 marked the game world's 10th anniversary. Top 100 Regen was created as a new sister world and a route for new managers into the community.
 
-The old blog contains thousands of posts written by many managers over the years. We preserve that history even where the material is no longer part of the active site navigation.
+The blog preserves thousands of posts written by many managers over the years. That history remains available even where old material is no longer part of the active navigation.
 
 ## Joining Top 100
 
-Vacancies are filled when clubs become available. Prospective managers should read the short Rules summary and the full Rules site before applying.
+Vacancies are filled when clubs become available. Prospective managers should read the current Rules page before applying. Manager appointments are moving towards a more transparent, auditable process while final appointment decisions remain human-confirmed.
