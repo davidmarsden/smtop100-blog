@@ -14,4 +14,12 @@ If you would like to help with the running costs, you can use whichever option s
 
 There is no required amount. A small one-off contribution is just as welcome as anything larger.
 
-QR codes for Monzo and PayPal can also be displayed on this page once the images are uploaded to the Micro.blog media library.
+## Scan to pay
+
+### Monzo
+
+[![Monzo payment QR code](https://smtop100.micro.blog/uploads/2026/screenshot-20260908-194050.png)](https://monzo.me/davidmarsden42?h=0JQZ0n)
+
+### PayPal
+
+[![PayPal payment QR code](https://smtop100.micro.blog/uploads/2026/paypal-qr-1788892932247.png)](https://www.paypal.me/gdmarsden)
