@@ -9,11 +9,11 @@ The main `smtop100.blog` site is the editorial and community front door: news, c
 The wider Top 100 family has specialist homes:
 
 - **Stats & History** — seasons, managers, honours, records and historical statistics: https://archive.smtop100.blog/
-- **Tournaments** — Youth Cup, World Club Cup and other competitions: https://tournaments.smtop100.blog/
+- **Tournaments** — Youth Cup, World Club Cup and other competitions: https://youth-cup.smtop100.blog/ (moving to `tournaments.smtop100.blog`)
 - **Awards** — Manager Awards voting, winners and records: https://awards.smtop100.blog/
-- **Top 100 Regen** — our separate sister game world and a gateway into the wider Top 100 community; planned for https://regen.smtop100.blog/
+- **Top 100 Regen** — our separate sister game world and a gateway into the wider Top 100 community: https://top100regen.website/ (planned move to `regen.smtop100.blog`)
 
-Current Top 100 rules belong here on the main site at `/rules/`, alongside About, Contact, Support and the chronological blog archive.
+Current Top 100 rules belong here on the main site at `/rules/`, alongside About, Contact, Support and the chronological Posts Archive.
 
 ## How the league works
 
