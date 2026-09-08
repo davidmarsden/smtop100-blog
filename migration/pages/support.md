@@ -1,13 +1,11 @@
 # Support Top 100
 
-Top 100 has always been a community project. The website, domain and supporting apps all have running costs.
+Top 100 is a community project. The website, domain and supporting apps all have running costs, and over the years managers have occasionally helped with those costs.
 
-The old WordPress page asked managers for a £1 contribution towards those costs, but its figures and payment setup are now out of date because the site is moving away from WordPress.
+The old WordPress page asked for £1 contributions, but the hosting setup is changing and the old figures are no longer current.
 
-If we continue asking for contributions, this page should be updated with:
+For now, contributions are **paused while the new site and app costs are reviewed**.
 
-- the current annual costs of the Top 100 domain, Micro.blog hosting and supporting apps;
-- the current contribution/payment method;
-- a clear statement that contributions are optional.
+When this page is updated, it will show the current annual running costs, the contribution method and a clear breakdown of what any money is used for.
 
-Until those details are confirmed, this page should not be published unchanged from WordPress.
+Contributions will always be optional. Playing in Top 100 does not depend on paying towards the website.
