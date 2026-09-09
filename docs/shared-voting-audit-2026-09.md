@@ -252,6 +252,7 @@ In `top100-tournaments`:
 4. Add admin event creation/update RPCs or a small admin configuration layer.
 5. Extend audit logging to include explicit result release and admin edits.
 6. Add tests for one-ballot-per-manager, edit-until-close and result visibility.
+7. Add an audited electorate-correction path so admins can include a genuinely eligible manager whose account state or mapping was wrong at snapshot time, with a required reason logged.
 
 ### Phase B — migrate Awards in compatibility mode
 
@@ -283,14 +284,42 @@ Before S28 Awards becomes the live production vote:
 
 Do not dual-write the real production Awards ballot unless there is a specific rollback reason. A short dedicated test is cleaner than maintaining two authoritative stores.
 
+### Phase C2 — electorate reconciliation and account onboarding
+
+The live cutover must not assume every eligible Awards voter has already claimed a `manager_portal_accounts` identity.
+
+Before the first production Supabase-backed Awards event:
+
+1. Build the expected Awards electorate from the current active-manager source of truth and compare it with active `manager_portal_accounts`.
+2. Produce a reconciliation report of eligible managers who are missing an account, mapped to the wrong manager, inactive unexpectedly or otherwise unable to authenticate.
+3. Run an account-claim/onboarding campaign before voting opens, with clear instructions and enough lead time for managers to verify their email/account.
+4. Re-run the reconciliation immediately before the event is opened and require zero unexplained missing eligible managers.
+5. For genuinely eligible edge cases that cannot be fixed before opening, use the audited electorate-correction/admin inclusion path with a recorded reason; do not fall back to typed-name voting.
+6. Keep typed-name voting available only in the legacy test path until this reconciliation has passed; remove it from the production Awards path only after the electorate is complete.
+
+The production electorate snapshot should therefore be a controlled cutover gate, not simply “all currently claimed accounts”.
+
 ### Phase D — S28 cutover
 
 For the next live Awards season:
 
 - Supabase becomes the authoritative live vote store.
-- Google Sheets becomes historical/read-only for previous seasons.
-- Existing archive/Hall of Fame rendering continues unchanged.
+- The reconciled/claimed account list is the basis for the electorate snapshot, with any manual eligibility corrections audited.
+- Google Sheets stops receiving live ballot writes after the cutover succeeds, but remains the historical store for previous seasons during the compatibility period.
 - Remove or disable the live legacy submission functions only after the first Supabase-backed Awards cycle completes successfully.
+
+### Phase E — archive the Supabase-backed season into Awards history
+
+Before the first Supabase-backed season is treated as historical, provide an explicit bridge so Hall of Fame, manager cabinets and archive views can see its winners.
+
+Preferred short-term compatibility path:
+
+1. After results are formally released, generate a canonical season-results export from the Supabase event (season, category, winning manager ID/name, club, vote totals and any tie metadata needed by Awards history).
+2. Import/write that published result set into the existing historical Awards data shape consumed by `archive-results.js`, using an admin-only audited action.
+3. Verify S28 appears correctly in Hall of Fame, cabinets, records and archive views before marking the Google-backed history layer read-only for that season.
+4. Keep ballots themselves in Supabase only; the legacy history store receives published winners/results, not voter-level data.
+
+Longer term, replace `archive-results.js` and the historical readers with Supabase-backed history directly. Do not make that rewrite a prerequisite for the live voting migration, but do not retire the compatibility export until those readers have moved.
 
 ## All-Manager Polls after Awards
 
@@ -319,16 +348,18 @@ This can live at `vote.smtop100.blog` or inside a future broader manager portal.
 7. Preserve private ballots and auditable participation.
 8. Preserve edit-until-close behaviour.
 9. Keep result publication separate from ballot closing.
-10. After Awards, use the same engine for All-Manager Polls and tournament votes.
+10. Require full electorate/account reconciliation before removing typed-name production access.
+11. Preserve each new Supabase-backed season in Awards history via an explicit published-results export until the historical readers themselves move to Supabase.
+12. After Awards, use the same engine for All-Manager Polls and tournament votes.
 
 ## Immediate next PRs
 
 ### `top100-tournaments`
 
-Create **Shared voting V2** with backend extensions required by Awards.
+Create **Shared voting V2** with backend extensions required by Awards, including audited electorate correction support.
 
 ### `top100-mots`
 
 After V2 schema/RPCs are stable, create **Awards shared voting adapter**.
 
-The first Awards PR should deliberately avoid deleting the Google/legacy code. It should introduce the Supabase path behind an explicit test/event configuration so it can be exercised safely before the live cutover.
+The first Awards PR should deliberately avoid deleting the Google/legacy code. It should introduce the Supabase path behind an explicit test/event configuration so it can be exercised safely before the live cutover, and include the account-reconciliation and published-results archive bridge before production retirement of typed-name/live-Sheets paths.
