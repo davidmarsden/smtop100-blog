@@ -44,20 +44,38 @@ Role: **competition management and tournament history**.
 
 This replaces the narrower `youth-cup.smtop100.blog` identity and should support Youth Cup, World Club Cup, Top 100 Regen competitions and future tournaments without each competition needing its own operational site.
 
-### 4. Awards — `awards.smtop100.blog`
+### 4. Voting — `vote.smtop100.blog`
 
-Role: **recognition, voting and award history**.
+Role: **shared manager-authenticated voting front door for the Top 100 ecosystem**.
 
 Primary content/functions:
 
-- current Manager Awards voting;
+- All-Manager Polls;
+- governance and rule-change ballots;
+- Awards ballots where the Awards app delegates voting to the shared service;
+- tournament/community votes where appropriate;
+- secure sign-in using the common manager-account identity;
+- one-manager-one-vote electorate enforcement;
+- deadlines, result visibility, manual result release and audit history.
+
+Voting is shared ecosystem infrastructure, not part of the Tournaments product identity and not a generic administrator console. Specialist apps may keep their own presentation while using the same Supabase voting backend.
+
+The existing `/vote` route in the Tournaments application should remain as a compatibility entry point during the transition.
+
+### 5. Awards — `awards.smtop100.blog`
+
+Role: **recognition, voting presentation and award history**.
+
+Primary content/functions:
+
+- current Manager Awards voting experience;
 - Hall of Fame;
 - manager award cabinets;
 - historical award records.
 
-Long-term direction: Awards voting should authenticate against the same manager-account identity used elsewhere in the Top 100 ecosystem, rather than relying on loose public forms or separate identities.
+Awards voting should authenticate against the same manager-account identity and Shared Voting backend used elsewhere in the Top 100 ecosystem. Awards should keep its purpose-specific presentation and historical features rather than becoming a skin for a generic poll page.
 
-### 5. Regen — proposed `regen.smtop100.blog`
+### 6. Regen — proposed `regen.smtop100.blog`
 
 Role: **separate sister game-world website within the Top 100 family**.
 
@@ -95,7 +113,7 @@ Several difficult administrative jobs should become one coherent governance/admi
 - **Transfer bans** — structured ban records, reasons, dates, expiry calculation, current/history views and automatic reminders/expiry handling.
 - **Rule adjudication** — versioned rules plus an assisted decision workflow that identifies the applicable rule and produces a reasoned proposed ruling. Human administrator confirmation remains required for contentious decisions.
 - **Manager appointments** — vacancies, applications, eligibility checks, agreed criteria, transparent scoring/assessment, recorded decisions and an audit trail.
-- **All-manager polls** — proposals, eligible voters, deadlines, one vote per eligible manager, published results and links to rule changes where relevant.
+- **All-manager polls** — proposals, eligible voters, deadlines, one vote per eligible manager, published results and links to rule changes where relevant, delivered through the shared Voting service.
 
 The purpose is not to automate judgement out of existence, but to make repetitive administration consistent, auditable and much less painful.
 
@@ -103,7 +121,7 @@ The purpose is not to automate judgement out of existence, but to make repetitiv
 
 A common manager-account identity should increasingly power authenticated functions across the ecosystem.
 
-The Publishing Desk already reuses Tournament Manager's Supabase manager accounts. The same identity model should be reviewed for:
+The Publishing Desk and Shared Voting already reuse Tournament Manager's Supabase manager accounts. The same identity model should power:
 
 - Awards voting;
 - all-manager polls;
@@ -116,9 +134,9 @@ This should give the ecosystem a single answer to “who is this manager?” wit
 
 ## Shared navigation concept
 
-A consistent ecosystem-level navigation should be used where technically practical. A better conceptual set is:
+A consistent ecosystem-level navigation should be used where technically practical. The target conceptual set is:
 
-`Top 100 · Stats & History · Tournaments · Awards · Regen`
+`Top 100 · Stats & History · Tournaments · Voting · Awards · Regen`
 
 Rules, About, Contact, Support and the chronological Posts Archive are part of the main Top 100 site rather than separate platform destinations.
 
@@ -174,12 +192,12 @@ A first-pass hierarchy:
 
 1. **Top 100 identity / current-world status** — concise introduction and any genuinely important Admin notice.
 2. **Latest editorial** — newest meaningful posts, not a raw dump of every historical category.
-3. **Quick access to the platform** — prominent links/cards for Stats & History, Tournaments and Awards, with Regen visibly presented as the sister world.
+3. **Quick access to the platform** — prominent links/cards for Stats & History, Tournaments, Voting and Awards, with Regen visibly presented as the sister world.
 4. **Current competitions** — surfaced from or linked directly into Tournaments rather than requiring duplicate organiser posts.
 5. **Club records / Team News** — active club diaries such as Espanyol and Hamburger, with dormant club records discoverable but not cluttering the homepage.
 6. **Season analysis** — current prediction/review editorial where it adds interpretation; structured history points into Stats & History.
 7. **From the blog archive** — selective resurfacing of older editorial material.
-8. **Community / governance** — concise links to About, Rules, Contact and Support.
+8. **Community / governance** — concise links to About, Rules, Contact, Support and active manager votes.
 
 ## Design principle
 
