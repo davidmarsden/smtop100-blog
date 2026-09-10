@@ -7,13 +7,14 @@ This document records the role and intended future of each known Top 100 destina
 | `smtop100.blog` | Main Micro.blog editorial/news site and historical blog archive | **Keep as main home** | Front door, editorial layer, current Rules, About, Contact, Support, chronological post archive and the integrated Regen section at `/regen/`. |
 | `archive.smtop100.blog` | Season, manager and historical statistics | **Keep / expand** | Canonical structured-history destination. Present in the UI as **Top 100 Stats & History** or **Top 100 History**, not simply Archive. |
 | `tournaments.smtop100.blog` | Tournament tooling and competition history | **Keep / expand** | Supports Youth Cup, World Club Cup, Regen competitions and future tournaments. |
+| `manager.smtop100.blog` | Canonical Manager Portal and manager-account identity entry point | **Keep / expand** | Public home for manager sign-in, account identity and manager-only entry points. Shared identity is reused by Voting, Awards and other authenticated tools. |
 | `rules.smtop100.blog` | Standalone rules/governance site | **Retire after rewrite** | Canonical current Top 100 Rules belong at `smtop100.blog/rules/`; preserve historical rule versions separately. |
 | `vote.smtop100.blog` | Top 100 Voting Results and authenticated voting | **Keep / extend by game world** | Current service is Top-100-only; Regen should use the same backend only after explicit game-world scoping. |
 | `awards.smtop100.blog` | Top 100 Manager Awards voting and history | **Keep / extend by game world** | Current Awards are Top-100-only. Regen Awards should reuse the same identity/voting foundation with separate world-scoped events and results. |
 | `smtop100.blog/regen/` | Planned integrated Regen editorial/reference section | **Publish and verify** | Regen remains a distinct game world but no longer needs its own Micro.blog site. |
 | `top100regen.website` | Current standalone Regen site | **Redirect / retire** | Keep until `/regen/` and retained content are verified, then redirect into the integrated section and free the Micro.blog site slot. |
 | `legends.smtop100.blog` | Standalone historical/editorial concept | **Likely retire/absorb** | Preserve good material; move editorial stories to main site and structured facts to Stats & History. |
-| `managers.smtop100.blog` | Standalone manager/community concept | **Likely retire/absorb** | Stats & History now provides a better long-term home for manager profiles/careers. |
+| `managers.smtop100.blog` | Standalone manager/community concept | **Likely retire/absorb** | Stats & History now provides a better long-term home for manager profiles/careers. This plural hostname is separate from the canonical singular `manager.smtop100.blog` account portal. |
 
 ## Main-site pages
 
@@ -41,16 +42,17 @@ The permanent ecosystem should feel like one Top 100 family with a small number 
 4. **Voting** — manager-authenticated ballots and public results, explicitly scoped by game world.
 5. **Awards** — recognition and award history, likewise scoped by game world.
 6. **Regen** — a distinct sister Top 100 game world whose editorial/reference pages live under `/regen/`.
+7. **Manager** — the canonical account and identity entry point for authenticated manager services.
 
 A concise ecosystem nav can therefore be:
 
-`Top 100 · Stats & History · Tournaments · Voting · Awards · Regen`
+`Top 100 · Stats & History · Tournaments · Voting · Awards · Regen · Manager`
 
 Rules belongs within Top 100 itself.
 
 ## Shared manager accounts
 
-The ecosystem uses one manager identity rather than separate logins per app. Membership, account access and voting eligibility must remain explicitly scoped by game world so the same person can belong to Top 100, Regen or both without crossing electorates or permissions.
+The ecosystem uses one manager identity rather than separate logins per app. `manager.smtop100.blog` is the canonical public entry point for that identity. Membership, account access and voting eligibility must remain explicitly scoped by game world so the same person can belong to Top 100, Regen or both without crossing electorates or permissions.
 
 ## Governance/admin tooling opportunity
 
