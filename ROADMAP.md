@@ -11,7 +11,7 @@ The main `smtop100.blog` domain has now moved from WordPress.com to Micro.blog. 
 - [x] Build and deploy the custom Top 100 theme/navigation.
 - [x] Move `smtop100.blog` to Micro.blog.
 - [x] Keep WordPress and Blogger as safety-net archives during the bedding-in period.
-- [x] Establish the ecosystem: Top 100, Stats & History, Tournaments, Voting Results, Vote, Awards and Regen.
+- [x] Establish the ecosystem: Top 100, Stats & History, Tournaments, Voting Results, Vote and Awards, with Top 100 Regen remaining a separate sister-world site pending its own hostname move.
 - [x] Build the Publishing Desk around authenticated Top 100 manager identity.
 - [x] Build shared manager-authenticated Voting for All-Manager Polls.
 - [x] Move Manager Awards voting onto the shared Voting foundation while preserving the historical Awards archive.
@@ -33,7 +33,7 @@ The main `smtop100.blog` domain has now moved from WordPress.com to Micro.blog. 
 
 ## Manager identity, Voting and Awards
 
-**Status: production architecture complete; real-world use will provide the final acceptance test.**
+**Status: production architecture complete; electorate reconciliation and real-world use remain acceptance gates.**
 
 - [x] Shared Supabase manager identity reused by Manager Portal, Publishing Desk, Voting and Awards.
 - [x] One-manager-one-vote, deadlines, electorate snapshots, ballot editing, audit trail and result visibility controls.
@@ -42,7 +42,9 @@ The main `smtop100.blog` domain has now moved from WordPress.com to Micro.blog. 
 - [x] Manager Awards at `awards.smtop100.blog`, with current voting and historical Hall of Fame/history separated cleanly.
 - [x] Manager lifecycle admin can add managers, mark them inactive and reactivate returning managers without deleting history.
 - [x] Deactivation disables linked Top 100 Manager Portal access and delegated Top 100 tournament organiser/assistant access.
-- [x] Internal rollback-only database tests completed for manager create/deactivate/reactivate behaviour and electorate snapshot counts.
+- [x] Internal rollback-only database tests completed for manager create/deactivate/reactivate behaviour and electorate snapshot logic.
+- [ ] Before the next genuine production poll/Awards round, reconcile the active Top 100 manager roster against linked/approved Manager Portal accounts and resolve every unexplained omission.
+- [ ] Onboard current managers who should be eligible but do not yet have a linked/approved account before opening the production event.
 - [ ] Exercise the new Awards system with the next genuine Awards round.
 - [ ] After successful real-world Awards use, remove the executable legacy typed-name Awards voting backend while retaining historical data/reference material.
 - [ ] Reuse the shared voting service for other community/tournament votes where useful.
@@ -61,7 +63,7 @@ The main `smtop100.blog` domain has now moved from WordPress.com to Micro.blog. 
 - [ ] Check feeds, social metadata, search indexing and key inbound links after the domain move.
 - [ ] Keep the old WordPress site/account available as a safety net while the new site beds in.
 - [ ] Retire/redirect obsolete standalone subdomains only after their replacement destinations are proven.
-- [ ] Complete the separate Top 100 Regen move to `regen.smtop100.blog` when ready.
+- [ ] Move the existing Top 100 Regen site at `top100regen.website` to the planned `regen.smtop100.blog` hostname when that separate migration is ready.
 - [ ] Decide whether trusted regular contributors need native Micro.blog Family/team-author access in addition to the Publishing Desk.
 
 ## Non-goals
