@@ -10,7 +10,8 @@
 - `vote.smtop100.blog/` — public Voting Results.
 - `vote.smtop100.blog/vote` — authenticated Manager Voting.
 - `awards.smtop100.blog` — Manager Awards voting plus Hall of Fame/history.
-- `regen.smtop100.blog` / existing Regen site — separate sister game world under the wider Top 100 family.
+- `top100regen.website` — current Top 100 Regen sister-world site.
+- `regen.smtop100.blog` — planned future hostname for Top 100 Regen once that separate move is complete.
 
 The shared ecosystem navigation is now centred on: **Top 100 · Stats & History · Tournaments · Voting Results · Vote · Awards · Regen**.
 
@@ -33,7 +34,9 @@ Rollback-only production-database tests were run after the lifecycle migration. 
 
 A second rollback-only test created a hidden test poll, opened it, and verified that the electorate snapshot exactly matched the current eligible Top 100 account/membership count before rolling the transaction back.
 
-At the time of the check there were **103 active Top 100 memberships**, **22 active Top 100 Manager Portal accounts**, and therefore **22 currently eligible authenticated voters**. The distinction is intentional: managers without a claimed/approved account are part of the active roster but cannot cast an authenticated ballot until their account is linked.
+At the time of the check there were **103 active Top 100 memberships** and **22 active, linked Top 100 Manager Portal accounts**, so **22 managers were currently eligible to cast an authenticated ballot**.
+
+That result proves the electorate filter is behaving consistently, but it is **not** a sign-off that the production electorate is complete. Before the next genuine All-Manager Poll or Awards round, the active-manager roster must be reconciled against linked/approved Manager Portal accounts and every unexplained omission resolved or deliberately accounted for. Eligible current managers who have not yet claimed or had an account approved need to be onboarded before the event opens; once opened, the electorate snapshot is intentionally frozen.
 
 ## Awards transition
 
@@ -44,3 +47,5 @@ The old typed-name voting implementation should remain only until the new system
 ## Immediate next work
 
 The main work is now on the live Micro.blog site itself: finish and polish About, Rules, Contact and Support; improve archive/taxonomy/club-record discovery; check redirects and inbound legacy URLs; and continue theme/navigation/mobile/accessibility cleanup.
+
+In parallel, complete the electorate reconciliation/onboarding gate before any genuine production vote, and move Top 100 Regen from `top100regen.website` to `regen.smtop100.blog` only when that separate site migration is ready.
