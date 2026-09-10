@@ -29,6 +29,12 @@ Tournament management for the Youth Cup, World Club Cup and future competitions,
 
 The canonical Top 100 Manager Portal and manager-account identity entry point. It uses the same underlying shared manager identity as Voting and Awards. The former `tournaments.smtop100.blog/manager` route remains only for backwards compatibility.
 
+### Rules
+
+`https://rules.smtop100.blog/`
+
+Still-live transitional standalone rules/governance site. The canonical long-term destination is `https://smtop100.blog/rules/`, but the subdomain must remain available until the replacement page has been rewritten, published and verified, with useful legacy entry points redirected afterwards.
+
 ### Voting
 
 `https://vote.smtop100.blog/`
