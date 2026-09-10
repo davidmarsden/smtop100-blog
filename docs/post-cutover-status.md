@@ -6,13 +6,14 @@
 
 - `smtop100.blog` — main editorial/community site on Micro.blog.
 - `archive.smtop100.blog` — Stats & History.
-- `tournaments.smtop100.blog` — Youth Cup / World Club Cup tournament manager and Manager Portal.
+- `tournaments.smtop100.blog` — Youth Cup / World Club Cup tournament manager.
+- `manager.smtop100.blog` — canonical Top 100 Manager Portal and manager-account identity entry point.
 - `vote.smtop100.blog/` — public Top 100 Voting Results.
 - `vote.smtop100.blog/vote` — authenticated Top 100 Manager Voting.
 - `awards.smtop100.blog` — Top 100 Manager Awards voting plus Hall of Fame/history.
 - `top100regen.website` — current standalone Regen site while the integrated `/regen/` section is built and verified.
 
-The shared ecosystem navigation is centred on: **Top 100 · Stats & History · Tournaments · Voting Results · Vote · Awards · Regen**.
+The shared ecosystem navigation is centred on: **Top 100 · Stats & History · Tournaments · Manager · Voting Results · Vote · Awards · Regen**.
 
 ## Regen integration in progress
 
@@ -22,7 +23,7 @@ The target paths are `/regen/`, `/regen/rules/`, `/regen/archive/` and `/regen/j
 
 ## Shared manager identity
 
-The canonical Top 100 manager lifecycle now feeds Manager Portal access, Voting and Awards. Managers are preserved historically rather than deleted. Administrators can add a manager, mark somebody inactive when they leave, and reactivate a returning manager.
+The canonical Top 100 manager lifecycle now feeds Manager Portal access, Voting and Awards. The public/canonical entry point is `https://manager.smtop100.blog/`; the former `tournaments.smtop100.blog/manager` route is retained only as compatibility plumbing. Managers are preserved historically rather than deleted. Administrators can add a manager, mark somebody inactive when they leave, and reactivate a returning manager.
 
 Membership is explicitly scoped by game world. Regen-only and seeded-test identities therefore do not count as current Top 100 managers or enter future Top 100 voting electorates.
 
@@ -39,7 +40,7 @@ Rollback-only production-database tests were run after the lifecycle migration. 
 
 A second rollback-only test created a hidden test poll, opened it, and verified that the electorate snapshot exactly matched the current eligible Top 100 account/membership count before rolling the transaction back.
 
-At the time of the check there were **103 active Top 100 memberships** and **22 active, linked Top 100 Manager Portal accounts**, so **22 managers were currently eligible to cast an authenticated ballot**.
+The roster was subsequently reconciled and deduplicated to the Top 100's hard limit of **100 active memberships**, with a database constraint now enforcing that cap. At the latest check, **22 active, linked Top 100 Manager Portal accounts** were eligible to cast an authenticated ballot.
 
 That result proves the electorate filter is behaving consistently, but it is **not** a sign-off that the production electorate is complete. Before the next genuine All-Manager Poll or Awards round, the active-manager roster must be reconciled against linked/approved Manager Portal accounts and every unexplained omission resolved or deliberately accounted for. Eligible current managers who have not yet claimed or had an account approved need to be onboarded before the event opens; once opened, the electorate snapshot is intentionally frozen.
 

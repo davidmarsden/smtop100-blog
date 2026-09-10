@@ -45,7 +45,21 @@ Role: **competition management and tournament history**.
 
 This replaces the narrower `youth-cup.smtop100.blog` identity and should support Youth Cup, World Club Cup, Top 100 Regen competitions and future tournaments without each competition needing its own operational site.
 
-### 4. Voting — `vote.smtop100.blog`
+### 4. Manager — `manager.smtop100.blog`
+
+Role: **canonical manager-account and identity entry point**.
+
+Primary content/functions:
+
+- Manager Portal sign-in;
+- account/identity claim and approval flow;
+- manager-specific account state;
+- entry points into authenticated services that reuse the same identity;
+- future manager-only tools where they belong at the account layer rather than inside a specialist product.
+
+This is the public home for manager identity. The former `tournaments.smtop100.blog/manager` route is compatibility-only and should redirect here rather than remain a second canonical portal.
+
+### 5. Voting — `vote.smtop100.blog`
 
 Role: **shared manager-authenticated voting front door for the Top 100 ecosystem**.
 
@@ -63,7 +77,7 @@ Voting is shared ecosystem infrastructure, not part of the Tournaments product i
 
 The voting backend must be explicitly game-world scoped before Regen uses it. Top 100 and Regen electorates, ballots and results must remain separate even where a manager belongs to both worlds.
 
-### 5. Awards — `awards.smtop100.blog`
+### 6. Awards — `awards.smtop100.blog`
 
 Role: **recognition, voting presentation and award history**.
 
@@ -76,7 +90,7 @@ Primary content/functions:
 
 Awards voting should authenticate against the same manager-account identity and Shared Voting backend used elsewhere in the Top 100 ecosystem. Regen Awards should reuse that foundation only after world scoping is implemented, with separate nominees, electorate and results.
 
-### 6. Regen — `smtop100.blog/regen/`
+### 7. Regen — `smtop100.blog/regen/`
 
 Role: **distinct sister game world presented as a first-class section of the main Top 100 site**.
 
@@ -120,9 +134,9 @@ The purpose is not to automate judgement out of existence, but to make repetitiv
 
 ## Shared manager identity
 
-A common manager-account identity should increasingly power authenticated functions across the ecosystem.
+A common manager-account identity powers authenticated functions across the ecosystem, with `manager.smtop100.blog` as its canonical public entry point.
 
-The Publishing Desk and Shared Voting already reuse Tournament Manager's Supabase manager accounts. The same identity model should power Awards voting, all-manager polls, tournament administration, manager applications/appointments, authenticated governance/admin functions and future manager-specific tools.
+The Manager Portal, Shared Voting and Awards already reuse the same Supabase manager accounts. The same identity model should continue to power manager applications/appointments, authenticated governance/admin functions and future manager-specific tools. Publishing tools may also reuse it where that integration is deliberately implemented.
 
 Membership and eligibility must remain game-world scoped so one identity can safely represent a manager in Top 100, Regen or both without crossing electorates or permissions.
 
@@ -130,7 +144,7 @@ Membership and eligibility must remain game-world scoped so one identity can saf
 
 A consistent ecosystem-level navigation should be used where technically practical. The target conceptual set is:
 
-`Top 100 · Stats & History · Tournaments · Voting · Awards · Regen`
+`Top 100 · Stats & History · Tournaments · Voting · Awards · Regen · Manager`
 
 Rules, About, Contact, Support, the chronological Posts Archive and Regen editorial pages are part of the main Top 100 site rather than separate platform destinations.
 
@@ -162,7 +176,7 @@ Retain the concept, not necessarily the site. Strong historical/editorial pieces
 
 ### `managers.smtop100.blog`
 
-Retire once Stats & History manager pages cover the useful material. Redirect old entry points to relevant manager destinations where possible.
+Retire once Stats & History manager pages cover the useful material. Redirect old entry points to relevant manager destinations where possible. This plural legacy site is distinct from the canonical singular `manager.smtop100.blog` account portal.
 
 ## Design principle
 
