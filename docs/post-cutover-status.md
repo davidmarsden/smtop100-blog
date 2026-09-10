@@ -4,17 +4,21 @@
 
 ## Live architecture
 
-- `smtop100.blog` — main editorial/community site on Micro.blog, including the integrated Top 100 Regen section at `/regen/`.
+- `smtop100.blog` — main editorial/community site on Micro.blog.
 - `archive.smtop100.blog` — Stats & History.
 - `tournaments.smtop100.blog` — Youth Cup / World Club Cup tournament manager and Manager Portal.
 - `vote.smtop100.blog/` — public Top 100 Voting Results.
 - `vote.smtop100.blog/vote` — authenticated Top 100 Manager Voting.
 - `awards.smtop100.blog` — Top 100 Manager Awards voting plus Hall of Fame/history.
-- `top100regen.website` — legacy Regen domain to redirect after the `/regen/` section and content migration are verified.
+- `top100regen.website` — current standalone Regen site while the integrated `/regen/` section is built and verified.
 
 The shared ecosystem navigation is centred on: **Top 100 · Stats & History · Tournaments · Voting Results · Vote · Awards · Regen**.
 
-Regen is a distinct game world, but its editorial/home pages now belong inside the main Top 100 site instead of consuming a separate Micro.blog site slot. The target paths are `/regen/`, `/regen/rules/`, `/regen/archive/` and `/regen/join/`.
+## Regen integration in progress
+
+The agreed destination for Regen is now the main Micro.blog site at `smtop100.blog/regen/`, not a separate `regen.smtop100.blog` site. This keeps Regen a distinct game world while allowing its editorial/home pages to live inside the main Top 100 site and freeing the separate Micro.blog site slot.
+
+The target paths are `/regen/`, `/regen/rules/`, `/regen/archive/` and `/regen/join/`. They should be treated as **in progress until the main-theme implementation is merged and the published routes are verified**. Only after that should `top100regen.website` redirect to `/regen/` and the standalone Regen Micro.blog site be retired.
 
 ## Shared manager identity
 
@@ -41,7 +45,7 @@ That result proves the electorate filter is behaving consistently, but it is **n
 
 ## Voting and Awards scope
 
-The current Voting and Awards services are still for the original Top 100 world only. Regen must not be sent into those electorates merely because its pages now live under `smtop100.blog`.
+The current Voting and Awards services are still for the original Top 100 world only. Regen must not be sent into those electorates merely because its pages are moving under `smtop100.blog`.
 
 The next shared-voting extension should make every event explicitly belong to a game world, allowing Top 100 and Regen to run separate polls and Awards using the same authenticated manager identity without mixing electorates, ballots or results.
 
