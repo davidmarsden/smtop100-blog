@@ -49,9 +49,9 @@ When a manager leaves Top 100, their account can be made inactive without deleti
 
 ## Please claim yours now
 
-There are exactly 100 active Top 100 managers, but only a minority currently have a linked and approved manager account.
+The Top 100 roster is full, but only a minority of current managers currently have a linked and approved manager account.
 
-So if you are one of the current 100 and have not yet claimed yours, please do it now:
+So if you are a current Top 100 manager and have not yet claimed yours, please do it now:
 
 **[Claim your Top 100 Manager Account](https://manager.smtop100.blog/)**
 
