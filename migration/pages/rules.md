@@ -1,37 +1,44 @@
-# Top 100 Rules
+# Rules
 
-Top 100 is competitive, but it is also a community. The rules exist to keep the game world fair, active and enjoyable rather than to create admin for its own sake.
+Top 100 is competitive, but it is also a community. The rules exist to keep the game world fair, active and enjoyable — not to create administration for its own sake.
 
-This page at `/rules/` is the canonical current rulebook for Top 100.
-
-## The short version
+## The essentials
 
 Managers are expected to stay active, communicate, respect agreed deals and follow the game world's squad, transfer and competition rules.
 
-Top 100 uses a maximum 50-player squad limit and has additional rules around transfers, loans, new players entering the database, friendly competitions, forfeits and sanctions.
+Some of the rules managers are most likely to need are:
 
-The Youth Cup and World Club Cup are run as Top 100 competitions alongside the Soccer Manager league structure. Current formats, fixtures and organiser information belong in the Tournaments app:
+- a maximum **50-player squad**;
+- agreed transfer deals are binding, subject to the published exceptions;
+- special rules apply when bidding for newly added players;
+- loans count towards the squad rules and are not permitted in the Youth Cup;
+- competition eligibility, forfeits and fictional extra time are governed by the relevant competition rules;
+- repeated or serious breaches can lead to transfer bans, reprimands or removal from the game world.
 
-https://youth-cup.smtop100.blog/
+## Full official rulebook
 
-This will move to `tournaments.smtop100.blog` when the tournament site is renamed.
+The detailed rulebook is still available at **[rules.smtop100.blog](https://rules.smtop100.blog/)** while we complete its move into the main Top 100 site.
 
-## Rule changes and decisions
+That document remains the detailed reference for squad management, transfers, competitions, sanctions and managerial conduct. Where a competition has more specific current rules, the competition information takes precedence for that tournament.
 
-Rule changes should be recorded, dated and — where appropriate — decided through manager voting using the shared Top 100 voting system.
+## Competitions
 
-Detailed historical rules should be preserved separately as **Rules History** so that older disputes or claims can be checked against the rule that actually applied at the time.
+The **[Youth Cup](https://tournaments.smtop100.blog/top-100/youth-cup)** is now managed through the Tournament Centre.
 
-Future rule-adjudication tools may identify the relevant rule and suggest a ruling, but contentious decisions should still require human confirmation and leave an audit trail.
+The **[World Club Cup](https://smtop100.blog/categories/world-club-cup/)** remains in the main-site archive until it moves into the Tournament Centre next season.
 
-## Top 100 and Top 100 Regen
+## Rule changes and community decisions
 
-Top 100 Regen is a separate sister game world. The two worlds share the same broad values and community standards, but they may have different competition, squad or transfer rules.
+Top 100 has always mixed administration with manager democracy. Significant rule changes and wider game-world decisions can be put to **[Community Polls](https://vote.smtop100.blog/)** so managers can help shape how the world is run.
 
-Regen-specific rules should remain clearly identified on the Regen site rather than being mixed into the Top 100 rulebook.
+Historical rules and decisions should be preserved rather than silently overwritten, so older disputes can be checked against the rule that applied at the time.
 
-## Legacy rules
+## Top 100 Regen
 
-The former standalone rules site at `rules.smtop100.blog` is historical infrastructure and should eventually redirect here once the rewritten rulebook and Rules History are complete.
+**[Top 100 Regen](/regen/)** is a separate sister game world. It shares the same broad values and community standards, but it has its own rules where the two worlds differ.
 
-This draft is the structure for the rewritten current rulebook. The detailed current rules still need to be brought across, simplified and checked before `/rules/` becomes authoritative.
+See the **[Top 100 Regen rules](/regen/rules/)** for Regen-specific requirements.
+
+## Questions about a rule?
+
+If something is unclear, or you think a rule has been breached, use **[Contact / Join](/contact/)** or email **admin@smtop100.blog**.
