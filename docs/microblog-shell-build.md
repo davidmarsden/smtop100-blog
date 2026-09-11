@@ -1,41 +1,74 @@
 # Micro.blog shell build
 
-This is the implementation plan for the live Top 100 Micro.blog site and its post-cutover refinements.
+This document now describes the live Top 100 navigation and page architecture after cutover.
 
-## 1. Main navigation
+## 1. Global public navigation
 
-Use a two-level mental model.
+The global header should answer the public-facing questions first and avoid presenting every specialist app as a peer destination.
 
-### Ecosystem navigation
+Use:
 
-Primary family links:
+`Top 100 · Top 100 Regen · About · Explore`
 
-`Top 100 · Stats & History · Tournaments · Voting · Awards · Regen`
+with **Manager sign-in / Manager portal** as the separate account action.
 
 Destinations:
 
-- **Top 100** → `/`
-- **Stats & History** → `https://archive.smtop100.blog/`
-- **Tournaments** → `https://tournaments.smtop100.blog/`
-- **Voting** → `https://vote.smtop100.blog/`
-- **Awards** → `https://awards.smtop100.blog/`
-- **Regen** → `/regen/`
+- **Top 100** → `https://smtop100.blog/`
+- **Top 100 Regen** → `https://smtop100.blog/regen/`
+- **About** → `https://smtop100.blog/about/`
+- **Explore** → `https://smtop100.blog/explore/`
+- **Manager portal** → `https://manager.smtop100.blog/`
 
-Current Voting and Awards are for the original Top 100 world only. Regen-facing equivalents should reuse the same shared identity/voting foundation after game-world scoping is complete.
+Use these absolute URLs in shared/specialist shells. Root-relative paths are only safe inside the main `smtop100.blog` site itself and will resolve against the wrong host on specialist subdomains.
 
-### Main-site utility navigation
+The same global family links should appear across specialist apps. Specialist products then add their own local navigation beneath or alongside the global shell.
 
-Keep the editorial/site pages local to `smtop100.blog`:
+Examples:
 
-`About · Rules · Support · Contact · Posts Archive · Search · Subscribe · Write`
+- **Tournaments** → `Youth Cup · World Club Cup · Tournament centre`
+- **Community Polls** → `Results · Vote`
+- **Manager Awards** → `Awards home · Vote in the Awards · Hall of Fame & history`
+- **Stats & History** → its existing section tabs for search, tables, managers, honours, analytics and related records
+- **Publishing Desk** → `Write · Media · My drafts` after manager sign-in
 
-`Write` points to the manager-authenticated Publishing Desk.
+Do not put public specialist resources behind authentication merely because they are primarily useful to managers.
 
-Avoid labelling `archive.smtop100.blog` merely as “Archive”; use **Stats & History** consistently so it cannot be confused with Micro.blog's chronological `/archive/`.
+## 2. Explore as the public discovery hub
 
-## 2. Homepage hierarchy
+`https://smtop100.blog/explore/` is the home for deeper public material that does not need to occupy the global header.
 
-The homepage should make Top 100 understandable in a few seconds and then surface what is happening now.
+It groups:
+
+### Competitions
+
+- Youth Cup
+- World Club Cup
+- Tournament centre
+
+### History, awards and democracy
+
+- Stats & History
+- Manager Awards
+- Community Polls
+
+### Stories and discovery
+
+- Search
+- Categories
+- Write for Top 100
+
+### Never miss a thing
+
+- Subscribe
+- Support
+- Manager Portal
+
+The intention is that outsiders can understand Top 100 quickly, while managers and long-time followers can still reach the full public ecosystem without signing in.
+
+## 3. Homepage hierarchy
+
+The homepage should make Top 100 understandable in a few seconds and then surface what managers actually look for.
 
 ### Hero
 
@@ -43,68 +76,92 @@ The homepage should make Top 100 understandable in a few seconds and then surfac
 
 A long-running 100-club Soccer Manager world with five divisions, its own competitions, rules, records and manager-written history.
 
-### Explore Top 100
+### Prominent competition routes
 
-Clear cards/links for:
+Use **Youth Cup** and **World Club Cup** by name rather than relying only on the generic Tournaments label.
 
-- **Stats & History** — seasons, tables, managers, honours and records
-- **Tournaments** — Youth Cup, World Club Cup and fixtures
-- **Awards** — Top 100 Manager Awards and history
-- **Top 100 Regen** — sister game world at `/regen/`
+### Participation
 
-### Community / governance
+Keep **Write for Top 100** visible as an invitation to contribute, even though the Publishing Desk itself requires an authenticated manager account.
 
-A quieter section can surface Rules, current All-Manager Polls, Support and Write / Publishing Desk.
+### Discovery
 
-## 3. Main pages
+Use Explore for Stats & History, Manager Awards, Community Polls, Search, Categories, Subscribe, Support and other deeper routes.
+
+## 4. Main pages
 
 Core main-site pages:
 
 - `/about/`
 - `/rules/`
 - `/support/`
-- `/contact/`
+- `/contact/` — presented as **Contact / Join**
 - `/archive/` — chronological Posts Archive
 - `/search/`
+- `/categories/`
 - `/subscribe/`
+- `/explore/`
 
-Regen lives in the same Micro.blog site as a first-class section:
+The canonical Markdown for About, Contact / Join, Rules and Support lives in the `smtop100-blog` repository and is published to Micro.blog through the managed page-sync workflow.
 
-- `/regen/` — Regen landing page
+Top 100 Regen is a first-class section of the same Micro.blog site:
+
+- `/regen/` — Top 100 Regen landing page
 - `/regen/rules/` — Regen-specific rule differences
 - `/regen/archive/` — Regen editorial/history discovery
 - `/regen/join/` — joining information
 
-The standalone Regen Micro.blog site remains only during the migration. After these routes and retained Regen content are verified, redirect `top100regen.website` into `/regen/` and retire the separate site.
+`top100regen.website` now redirects to the integrated section. Do not describe the standalone Regen site as the current destination.
 
-## 4. Naming rules
+## 5. Naming rules
 
 Use these labels consistently:
 
 - **Posts Archive** = chronological Micro.blog posts (`/archive/`)
-- **Stats & History** = structured archive app (`archive.smtop100.blog`)
-- **Rules** = canonical current Top 100 rules (`/rules/`)
-- **Regen Rules** = world-specific differences (`/regen/rules/`)
-- **Regen** = distinct sister game world presented within the main site, not another app or another Micro.blog site
+- **Stats & History** = structured records/statistics app (`archive.smtop100.blog`)
+- **Community Polls** = ordinary manager democracy / governance polls (`vote.smtop100.blog`)
+- **Manager Awards** = end-of-season Manager of the Season voting and Hall of Fame (`awards.smtop100.blog`)
+- **Rules** = canonical current Top 100 rules (`/rules/` plus detailed rulebook while transition completes)
+- **Top 100 Regen rules** = world-specific differences (`/regen/rules/`)
+- **Top 100 Regen** = the full public name; avoid bare **Regen** in global navigation
+- **Manager Portal** = account identity and manager-only actions plus a public resources hub
 
-## 5. Design direction
+Community Polls and Manager Awards share an authentication/voting foundation internally, but should remain distinct products in public wording and navigation.
 
-The main Micro.blog site is the reference implementation for the wider visual system. Regen should inherit the Top 100 family shell while keeping its lime/green accent and distinct-world cues.
+## 6. Design direction
 
-Minimum design system: wordmark/logo treatment, type scale, spacing rhythm, buttons/links, cards, page widths, tables, forms, mobile navigation, footer, focus/hover states and contrast.
+The main Micro.blog site is the reference implementation for the wider visual system. Specialist apps should share:
 
-## 6. Current build order
+- Top 100 wordmark and pitch-line treatment
+- navy / emerald family shell
+- the simplified global navigation
+- a separate local navigation for the product itself
+- Support and Subscribe in the footer
+- consistent Manager Portal/account wording
+- matching mobile behaviour, focus states and contrast
 
-1. Publish and verify `/regen/`, `/regen/rules/`, `/regen/archive/` and `/regen/join/`.
-2. Migrate standalone Regen posts worth retaining into the main Micro.blog site.
-3. Verify navigation, links, archive discovery, feeds/social metadata and mobile behaviour.
-4. Redirect `top100regen.website` to the appropriate `/regen/` destinations.
-5. Retire the standalone Regen Micro.blog site and free its site slot.
-6. Continue About/Rules/Support/Contact and taxonomy/theme cleanup.
-7. Extend Voting/Awards with explicit Regen game-world scoping before exposing those services to Regen managers.
+Top 100 Regen keeps its own lime/green accent and distinct-world cues while remaining visibly part of the Top 100 family.
 
-## 7. Not part of this immediate pass
+## 7. Current build order
 
-Do not block the Regen editorial integration on Transfer Bans automation, automated rule adjudication, manager appointments workflow or full Rules History tooling.
+Completed:
+
+1. Main domain cutover to Micro.blog.
+2. Top 100 Regen integration under `/regen/`.
+3. `top100regen.website` redirect.
+4. About, Contact / Join, Rules and Support refresh plus automatic page publishing.
+5. Explore hub and simplified main-site navigation.
+6. Tournaments, Community Polls, Manager Portal and Manager Awards specialist-shell cleanup.
+
+Current:
+
+7. Apply the same shell to Stats & History and Publishing Desk.
+8. Run a final desktop/mobile family-wide navigation and contrast check.
+9. Clean stale migration/cutover documentation.
+10. Build the opt-in **Never miss a thing** reminder layer for fixtures, polls, Awards and tournament deadlines.
+
+## 8. Not part of this immediate pass
+
+Do not block the public/navigation cleanup on Transfer Bans automation, automated rule adjudication, manager appointments workflow or full Rules History tooling.
 
 Those remain valuable follow-on work. The shared manager identity and voting service are already the foundation for them.
