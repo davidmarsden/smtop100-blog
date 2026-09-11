@@ -2,7 +2,7 @@
 """Publish source-controlled Top 100 pages to Micro.blog via Micropub.
 
 The live standalone pages already exist in Micro.blog. This script updates those
-pages in place so merges to migration/pages/*.md can become the publishing
+pages in place so approved migration/pages/*.md sources can become the publishing
 source of truth without creating duplicate pages or changing navigation.
 """
 
@@ -24,21 +24,25 @@ PAGES = {
         "source": Path("migration/pages/about.md"),
         "url": "https://smtop100.blog/about/",
         "title": "About",
+        "ready": True,
     },
     "contact": {
         "source": Path("migration/pages/contact.md"),
         "url": "https://smtop100.blog/contact/",
         "title": "Contact / Join",
+        "ready": True,
     },
     "rules": {
         "source": Path("migration/pages/rules.md"),
         "url": "https://smtop100.blog/rules/",
         "title": "Rules",
+        "ready": False,
     },
     "support": {
         "source": Path("migration/pages/support.md"),
         "url": "https://smtop100.blog/support/",
         "title": "Support Top 100",
+        "ready": False,
     },
 }
 
@@ -48,8 +52,10 @@ def page_body(path: Path) -> str:
     # Micro.blog renders the standalone page title itself. Keep the Markdown
     # sources pleasant to read in GitHub, but avoid duplicating the first H1
     # on the live page.
-    text = re.sub(r"^#\s+[^\n]+\n+", "", text, count=1)
-    return text.strip() + "\n"
+    text = re.sub(r"^#\s+[^\n]+\n+", "", text, count=1).strip()
+    if not text:
+        raise ValueError(f"Managed page body is empty after heading removal: {path}")
+    return text + "\n"
 
 
 def publish_page(token: str, key: str, *, dry_run: bool = False) -> None:
@@ -65,8 +71,17 @@ def publish_page(token: str, key: str, *, dry_run: bool = False) -> None:
     }
 
     if dry_run:
-        print(f"DRY RUN {key}: {page['source']} -> {page['url']} ({len(content)} chars)")
+        state = "ready" if page["ready"] else "validation-only"
+        print(
+            f"DRY RUN {key} [{state}]: {page['source']} -> "
+            f"{page['url']} ({len(content)} chars)"
+        )
         return
+
+    if not page["ready"]:
+        raise RuntimeError(
+            f"Refusing to publish {key}: source is not marked production-ready."
+        )
 
     request = urllib.request.Request(
         MICROPUB_ENDPOINT,
@@ -76,7 +91,7 @@ def publish_page(token: str, key: str, *, dry_run: bool = False) -> None:
             "Authorization": f"Bearer {token}",
             "Content-Type": "application/json; charset=utf-8",
             "Accept": "application/json, text/plain, */*",
-            "User-Agent": "smtop100-page-sync/1.0",
+            "User-Agent": "smtop100-page-sync/1.1",
         },
     )
 
@@ -104,13 +119,27 @@ def main() -> int:
         "pages",
         nargs="*",
         choices=sorted(PAGES),
-        help="Managed page keys to publish. Omit to publish all managed pages.",
+        help="Managed page keys to validate/publish. Omit to use production-ready pages only.",
+    )
+    parser.add_argument(
+        "--all",
+        action="store_true",
+        help="Select all managed pages. Intended for validation; unready pages still cannot publish.",
     )
     parser.add_argument("--dry-run", action="store_true", help="Validate sources without publishing.")
     args = parser.parse_args()
 
-    selected = args.pages or list(PAGES)
-    missing = [str(PAGES[key]["source"]) for key in selected if not PAGES[key]["source"].is_file()]
+    if args.all and args.pages:
+        parser.error("--all cannot be combined with explicit page keys")
+
+    ready_pages = [key for key, page in PAGES.items() if page["ready"]]
+    selected = list(PAGES) if args.all else (args.pages or ready_pages)
+
+    missing = [
+        str(PAGES[key]["source"])
+        for key in selected
+        if not PAGES[key]["source"].is_file()
+    ]
     if missing:
         print("Missing source page(s): " + ", ".join(missing), file=sys.stderr)
         return 2
@@ -123,7 +152,7 @@ def main() -> int:
     try:
         for key in selected:
             publish_page(token, key, dry_run=args.dry_run)
-    except RuntimeError as exc:
+    except (RuntimeError, ValueError) as exc:
         print(str(exc), file=sys.stderr)
         return 1
 
