@@ -14,11 +14,13 @@ with **Manager sign-in / Manager portal** as the separate account action.
 
 Destinations:
 
-- **Top 100** → `/`
-- **Top 100 Regen** → `/regen/`
-- **About** → `/about/`
-- **Explore** → `/explore/`
+- **Top 100** → `https://smtop100.blog/`
+- **Top 100 Regen** → `https://smtop100.blog/regen/`
+- **About** → `https://smtop100.blog/about/`
+- **Explore** → `https://smtop100.blog/explore/`
 - **Manager portal** → `https://manager.smtop100.blog/`
+
+Use these absolute URLs in shared/specialist shells. Root-relative paths are only safe inside the main `smtop100.blog` site itself and will resolve against the wrong host on specialist subdomains.
 
 The same global family links should appear across specialist apps. Specialist products then add their own local navigation beneath or alongside the global shell.
 
@@ -34,7 +36,7 @@ Do not put public specialist resources behind authentication merely because they
 
 ## 2. Explore as the public discovery hub
 
-`/explore/` is the home for deeper public material that does not need to occupy the global header.
+`https://smtop100.blog/explore/` is the home for deeper public material that does not need to occupy the global header.
 
 It groups:
 
