@@ -17,7 +17,7 @@ Managed pages:
 
 Publishing is intentionally gated. Only page entries marked `ready: True` in the synchroniser can be sent to production. Validation still covers every managed page, including pages that are not yet authoritative enough to publish automatically.
 
-The workflow file and synchroniser are not production-publish triggers by themselves, so merging changes to the automation cannot overwrite live pages. Manual workflow runs are restricted to the `main` branch, and the publish job explicitly checks out `main`.
+Changes to the page-sync workflow or synchroniser also trigger a production sync when merged to `main`. This is intentional: it means fixes to the publishing machinery can be exercised immediately against the approved page set. The safety boundary is the per-page `ready: True` gate, so automation changes may republish approved pages but cannot publish Rules or Support until those pages are explicitly promoted. Manual workflow runs are restricted to the `main` branch, and the publish job explicitly checks out `main`.
 
 The first Markdown H1 is stripped during publishing because Micro.blog already renders the page title. This avoids duplicate headings while keeping the source files readable in GitHub. A managed source is rejected if its body is empty after heading removal.
 
