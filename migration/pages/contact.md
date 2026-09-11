@@ -16,11 +16,11 @@ See **[Join Top 100 Regen](/regen/join/)** for the current Game World, managers'
 
 ## Need help?
 
-For problems with the website, manager accounts, voting, submissions or other Top 100 tools, start with **[Support](/support/)**.
-
-For game-world administration or anything that does not fit there, email:
+For problems with the website, manager accounts, voting, submissions or other Top 100 tools, email:
 
 **admin@smtop100.blog**
+
+The separate [Support](/support/) page is for optional contributions towards the running costs of the Top 100 website and apps.
 
 ## Useful places
 
