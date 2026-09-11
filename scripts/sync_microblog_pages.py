@@ -36,13 +36,13 @@ PAGES = {
         "source": Path("migration/pages/rules.md"),
         "url": "https://smtop100.blog/rules/",
         "title": "Rules",
-        "ready": False,
+        "ready": True,
     },
     "support": {
         "source": Path("migration/pages/support.md"),
         "url": "https://smtop100.blog/support/",
         "title": "Support Top 100",
-        "ready": False,
+        "ready": True,
     },
 }
 
