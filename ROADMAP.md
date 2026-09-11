@@ -24,6 +24,7 @@ The main `smtop100.blog` domain has moved from WordPress.com to Micro.blog. The 
 - [x] Simplify the public family navigation to Top 100, Top 100 Regen, About and Explore, with manager/account actions separate.
 - [x] Give Tournaments, Community Polls and Manager Awards their own local specialist navigation.
 - [x] Turn Manager Portal into the public resources hub plus authenticated manager account area.
+- [x] Add authenticated Youth Cup fixture reminders to Manager Portal accounts, including new-fixture, day-before and fixture-day emails, delivery logging and manager-facing reminder status.
 
 ## Current priority — finish family-shell consistency and discovery
 
@@ -63,19 +64,19 @@ The main `smtop100.blog` domain has moved from WordPress.com to Micro.blog. The 
 - [ ] After successful real-world Awards use, remove the executable legacy typed-name Awards voting backend while retaining historical data/reference material.
 - [ ] Reuse the shared voting service for other community/tournament votes where useful.
 
-## Next feature — Never miss a thing
+## Never miss a thing
 
-Use Subscribe as the public front door for opt-in reminders rather than just post-by-email delivery.
+Youth Cup reminders are now live as an authenticated Manager Portal benefit. They are tied to the manager's verified Top 100 identity and use the manager account email, rather than the general blog Subscribe list.
 
-Potential reminder types:
+Current and planned reminder types:
 
-- [ ] Youth Cup fixture reminders.
+- [x] Youth Cup fixture reminders: new fixture / next-round assignment, day-before reminder, fixture-day reminder if the result is still outstanding.
 - [ ] World Club Cup fixture/registration reminders.
 - [ ] Community Poll opening and closing reminders.
 - [ ] Manager Awards opening and closing reminders.
 - [ ] Tournament registration deadlines.
 
-Keep reminders opt-in, clearly scoped and easy to unsubscribe from.
+Keep reminders opt-in, clearly scoped and easy to switch off. Public Subscribe remains the front door for blog/newsletter delivery; targeted manager reminders belong to the authenticated Manager Portal preference layer.
 
 ## Governance/admin tooling still to build
 
