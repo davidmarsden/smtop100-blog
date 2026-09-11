@@ -1,27 +1,68 @@
-# Manager Accounts: claim yours and get the full Top 100 experience
+# One account. Your Top 100.
 
-Top 100 now has a proper manager account system.
+Top 100 now has proper manager accounts — and they are starting to become genuinely useful.
 
-If you are currently managing a club in the Top 100, please create and claim your own account. It is free, exclusive to you, and is becoming the key to taking part in the parts of Top 100 that need a verified manager identity.
+If you are currently managing a club in the Top 100, you can claim your own Manager Portal account and use the same verified identity across the parts of Top 100 that need to know who you are.
 
-Once your account is approved, you can use the same manager identity across the Manager Portal, voting, Manager Awards and other manager-only tools as they are rolled out.
-
-Your account is tied to **you as a manager**, not just to a browser session, a club or a particular tournament. That means we can finally stop relying on things like typing your name into forms and hoping everybody spells it the same way.
+No separate login for every site. No typing your manager name into five different forms. No wondering whether "Steve", "Stephen" and "S. Allington" are supposed to be the same person.
 
 The rule is simple: **one manager, one account**.
 
-## What your account gives you
+## What do you actually get?
 
-With a verified Top 100 manager account, you can:
+Quite a bit now.
 
-- vote in All-Manager Polls
-- vote in Manager Awards
-- use the Manager Portal
-- access manager-only tournament features
-- submit and manage Top 100 content through our publishing tools
-- take part in future manager-only features without creating yet another separate login
+### Youth Cup reminders
 
-More will be added over time, but the important part is that the identity system is now shared across the Top 100 ecosystem.
+You can opt in to reminders for your own Youth Cup fixtures.
+
+The system knows which club you manage, so there is nothing extra to set up. You can receive an email when a new fixture is assigned, a reminder the day before the fixture date, and another on the day itself if the result is still outstanding.
+
+The reminders are there to help, not to take responsibility away from managers. You still need to arrange the match with your opponent, make sure it is played and submit the result.
+
+**For Saturday Youth Cup fixtures, the Soccer Manager match request must be sent before Wednesday.**
+
+If there is a problem arranging or playing a fixture, contact your opponent and the tournament organiser promptly rather than waiting for the deadline.
+
+### Vote in Community Polls and the Manager Awards
+
+Manager accounts give us a proper verified electorate.
+
+That means you can vote in Top 100 Community Polls and in the end-of-season Manager Awards without anonymous forms, duplicate votes or arguments about who was eligible when the ballot opened.
+
+### See your own fixture schedule
+
+The Manager Portal brings your own tournament fixtures together in one place.
+
+Instead of scrolling through a full competition looking for your club, you can see your upcoming matches, recent results and current tournament position directly against your manager identity.
+
+### Submit your own results and forfeits
+
+Managers can record their own results through the portal and submit forfeits where necessary.
+
+The existing review and provisional-result safeguards still apply, but the basic job can now be done by the manager involved rather than waiting for an organiser to enter everything manually.
+
+### See your tournament progress
+
+Your Manager Portal can show your group, table position, results, upcoming fixtures and progress through the competition.
+
+As more tournament features move into the shared system, this should become the obvious place to answer the question: **what do I need to do next?**
+
+### Register for tournaments
+
+When manager registration is open, your verified identity can be used to register your club for competitions without an organiser having to recreate your details from scratch.
+
+### One identity across Top 100
+
+This is probably the least flashy feature, but it is the one that makes everything else possible.
+
+Your account is tied to **you as a manager**, not just a browser, a club or a particular tournament. The same identity can be used by the Manager Portal, Tournaments, Community Polls, Manager Awards and other Top 100 tools.
+
+Think of it as your **Top 100 passport**.
+
+If you leave the game world, the account can be made inactive without deleting your history. If you return later, the same manager identity can be reactivated.
+
+In time, that also opens the door to something much more interesting: a proper **My Top 100** career record bringing together your clubs, seasons, honours, tournament history and Awards in one place.
 
 ## How to claim your account
 
@@ -29,32 +70,18 @@ Go to the **Top 100 Manager Portal**:
 
 [https://manager.smtop100.blog/](https://manager.smtop100.blog/)
 
-Enter your email address and follow the secure sign-in link we send you. If your email is not yet linked to a manager identity, choose Top 100, select your current club and confirm your Soccer Manager name.
+Enter your email address and follow the secure sign-in link we send you.
 
-Your claim is then checked against the current Top 100 manager list and approved. Once that is done, the account becomes your verified Top 100 identity.
+If your email is not yet linked to a manager identity, choose Top 100, select your current club and confirm your Soccer Manager name. Your claim is then checked against the current manager list and approved.
 
 If you already have an approved account, **do not create another one**. Just sign in using the email address attached to your existing account.
 
-## Why we are doing this
+## Why bother?
 
-Top 100 has been running for a long time, and a lot of our older systems grew organically. Different sites and tools ended up using different ways of identifying managers.
+Because the account is no longer just plumbing behind the scenes.
 
-That worked when everything was smaller. It is less useful now.
-
-A shared manager identity means we can reliably know who is voting, who is submitting something, who is managing a tournament entry, and who should have access to manager-only features.
-
-It also lets us keep voting fair and auditable without making it cumbersome. When a vote opens, the eligible manager electorate is recorded so that the rules do not change halfway through the ballot.
-
-When a manager leaves Top 100, their account can be made inactive without deleting their history. If they return later, the same manager identity can be reactivated.
-
-## Please claim yours now
-
-The Top 100 roster is full, but only a minority of current managers currently have a linked and approved manager account.
-
-So if you are a current Top 100 manager and have not yet claimed yours, please do it now:
+It now gives you reminders, your own fixture view, result submission, tournament tools and verified voting — and that list will grow without asking you to create another login every time we build something new.
 
 **[Claim your Top 100 Manager Account](https://manager.smtop100.blog/)**
 
-The more managers who are set up in advance, the smoother things will be when the next vote, Awards round or manager-only feature goes live.
-
-No extra app to install. No separate login for every Top 100 website. And, mercifully, no mysterious password spreadsheet from 2017.
+One account. Your fixtures. Your votes. Your results. Your Top 100.
