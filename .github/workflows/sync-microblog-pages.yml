@@ -1,0 +1,52 @@
+name: Sync Micro.blog pages
+
+on:
+  pull_request:
+    paths:
+      - 'migration/pages/about.md'
+      - 'migration/pages/contact.md'
+      - 'migration/pages/rules.md'
+      - 'migration/pages/support.md'
+      - 'scripts/sync_microblog_pages.py'
+      - '.github/workflows/sync-microblog-pages.yml'
+  push:
+    branches: [main]
+    paths:
+      - 'migration/pages/about.md'
+      - 'migration/pages/contact.md'
+      - 'migration/pages/rules.md'
+      - 'migration/pages/support.md'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    if: github.event_name == 'pull_request'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Validate managed page sources
+        run: python scripts/sync_microblog_pages.py --all --dry-run
+
+  publish:
+    if: github.event_name == 'push' || (github.event_name == 'workflow_dispatch' && github.ref == 'refs/heads/main')
+    runs-on: ubuntu-latest
+    concurrency:
+      group: microblog-page-publishing
+      cancel-in-progress: false
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Publish approved standalone pages
+        env:
+          MICROBLOG_TOKEN: ${{ secrets.MICROBLOG_TOKEN }}
+        run: python scripts/sync_microblog_pages.py
