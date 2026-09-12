@@ -26,11 +26,13 @@ Explore fixes that.
 
 The two biggest competitions get their own obvious routes from Explore.
 
-Both live within the Tournament Manager at:
+The **Youth Cup** is now run through Tournament Manager at:
 
 [https://tournaments.smtop100.blog/](https://tournaments.smtop100.blog/)
 
-From there you can get to fixtures, groups, knockout rounds, results and whatever competition is currently active.
+There you can get to current fixtures, groups, knockout rounds, results and manager tools.
+
+The **World Club Cup** remains on its current main-site archive route for this season and will move into Tournament Manager next season. Explore points to the right current destination rather than pretending the migration is already complete.
 
 The important change is that we no longer hide everything behind a generic **Tournaments** label and expect people to know what is inside it. Youth Cup and World Club Cup are important enough to be named.
 
