@@ -70,6 +70,18 @@ If you leave a game world, the account can be made inactive without deleting you
 
 In time, that also opens the door to something much more interesting: a proper **My Top 100** career record bringing together your clubs, seasons, honours, tournament history and Awards in one place.
 
+## What happens to your email address?
+
+We are not asking managers to hand over an email address on blind trust.
+
+Your email address is used to sign you in, link your account to the correct manager identity, and — only where you opt in — send service emails such as Youth Cup fixture reminders. It is **not displayed publicly on the Top 100 sites** and it is not there to be sold, handed to advertisers or added to a general marketing list.
+
+Manager Portal sign-in uses a secure one-time email link rather than asking us to create or store a separate Top 100 password. Authentication and account data are handled through **Supabase**, while transactional emails such as claim notifications and Youth Cup reminders are sent through **Resend**.
+
+Access to manager-account administration is restricted to the people running the relevant Top 100 services. Reminder preferences are under your control: if you do not opt in to Youth Cup reminders, they are not sent, and you can turn them off again from your Manager Portal account.
+
+We only want the account data needed to make these features work. If the system grows to use manager accounts for more things, that should remain the test: collect what we need, explain what it is for, and do not quietly turn a football-game account into something else.
+
 ## How to claim your account
 
 Go to the **Manager Portal**:
