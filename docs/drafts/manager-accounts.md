@@ -76,7 +76,9 @@ We are not asking managers to hand over an email address on blind trust.
 
 Your email address is used to sign you in, link your account to the correct manager identity, and — only where you opt in — send service emails such as Youth Cup fixture reminders. It is **not displayed publicly on the Top 100 sites** and it is not there to be sold, handed to advertisers or added to a general marketing list.
 
-Manager Portal accounts start with a secure one-time email link. After that, you can carry on using email links or choose to set a password and sign in with **email + password** instead. Authentication is handled through **Supabase**, rather than by the Top 100 sites inventing their own password system, while transactional emails such as claim notifications and Youth Cup reminders are sent through **Resend**.
+Manager Portal accounts start with a secure one-time email link. After that, you can carry on using email links or choose to set a password and sign in with **email + password** instead. The account and password system is handled by a specialist secure authentication service rather than being something we have built ourselves, and service emails such as claim notifications and Youth Cup reminders are sent through a dedicated email-delivery service.
+
+In other words, the Top 100 sites do not keep a homemade list of passwords or run their own mail server. We use established services for those jobs and keep the amount of personal information we hold to what the account actually needs.
 
 Access to manager-account administration is restricted to the people running the relevant Top 100 services. Reminder preferences are under your control: if you do not opt in to Youth Cup reminders, they are not sent, and you can turn them off again from your Manager Portal account.
 
