@@ -2,7 +2,7 @@
 
 Youth Cup reminders are now one of the most useful reasons to claim a manager account.
 
-If you are a Top 100 manager with an approved Manager Portal account, you can opt in to reminders for your own Youth Cup fixtures.
+If you are a Top 100 manager with an approved account, you can opt in to reminders for your own Youth Cup fixtures through **My Matches**.
 
 The system knows which club you manage, so there is no separate team picker and no need to subscribe to everybody else's fixtures.
 
@@ -14,11 +14,11 @@ There are currently three reminder types:
 - a **day-before** reminder;
 - a **fixture-day** reminder if the result is still outstanding.
 
-You choose whether to switch reminders on, and which reminder types you want, from the Manager Portal:
+You choose whether to switch reminders on, and which reminder types you want, from My Matches:
 
 [https://manager.smtop100.blog/](https://manager.smtop100.blog/)
 
-The portal also shows your saved reminder status, your next outstanding Youth Cup fixture and the last reminder sent to your account.
+My Matches also shows your saved reminder status, your next outstanding Youth Cup fixture and the last reminder sent to your account.
 
 ## Reminders do not replace manager responsibilities
 
@@ -31,7 +31,7 @@ Managers are still responsible for:
 - contacting the opponent and arranging the match in good time;
 - sending the Soccer Manager match request within the required window;
 - making sure the game is played;
-- submitting the result through the Manager Portal;
+- submitting the result through My Matches;
 - contacting the opponent and tournament organiser promptly if there is a problem.
 
 And one rule is worth putting in bold every time reminders are mentioned:
@@ -40,11 +40,21 @@ And one rule is worth putting in bold every time reminders are mentioned:
 
 Do not wait for the day-before email and then discover you have already missed the request deadline.
 
+## YOU SEND or THEY SEND
+
+The fixture view in My Matches now spells out the practical action as plainly as possible.
+
+**YOU SEND** means you are the home manager and need to send the friendly request.
+
+**THEY SEND** means your opponent should send it. If the request has not arrived, chase them rather than waiting until the fixture date.
+
+That is the same job the reminders are trying to support: not just telling you that a match exists, but helping you understand what you need to do about it.
+
 ## Why account-linked reminders?
 
 Because a general mailing list cannot know which club belongs to you.
 
-A Manager Portal account can.
+A manager account can.
 
 Once your identity has been approved, the reminder system can match your manager record to your tournament entry and only send information about your own fixture.
 
@@ -62,7 +72,7 @@ Completed, forfeited, voided and cancelled matches are excluded from future remi
 
 Yes.
 
-Youth Cup reminders are explicitly opt-in and can be changed or switched off in the Manager Portal at any time.
+Youth Cup reminders are explicitly opt-in and can be changed or switched off in My Matches at any time.
 
 They are also separate from the normal Top 100 email subscription. Subscribing to the blog does not automatically opt you into personal fixture reminders, and claiming a manager account does not force reminders on.
 
@@ -74,6 +84,6 @@ Top 100 can publish all the fixtures it likes, but the useful question for an in
 
 **When do I play, and what do I need to do?**
 
-Youth Cup reminders are the first proper answer to that question.
+Youth Cup reminders and My Matches are the first proper answer to that question.
 
 **[Manage your Youth Cup reminders](https://manager.smtop100.blog/)**
