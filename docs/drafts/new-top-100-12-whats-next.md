@@ -10,7 +10,9 @@ That makes the next phase much more interesting.
 
 ## More useful manager accounts
 
-The Manager Portal is already doing real work: fixtures, results, tournament progress, voting identity and Youth Cup reminders.
+The manager account is already doing real work: fixtures, results, tournament progress, voting identity and Youth Cup reminders.
+
+The visible manager-facing tool is **My Matches**, and that name captures the direction rather better than a generic portal ever did. Its job is to turn account data into clear actions: what am I playing, when, and what do I need to do?
 
 The next step is not to turn it into a giant private website.
 
@@ -81,6 +83,8 @@ The aim is less repetitive admin, not automated government by dropdown menu.
 ## Keep improving discovery
 
 The rebuild is not finished just because the code works.
+
+The recent Youth Cup changes are a good example. The data was already there, but managers still had to work too hard to find the fixture that mattered to them. Making **Schedule** prominent and turning the personal view into **YOU SEND / THEY SEND** was not new backend architecture; it was making the architecture understandable.
 
 We still need to keep checking navigation, search, old inbound links, archives, categories, mobile layouts and the little inconsistencies that only show up once real people use the sites.
 
