@@ -30,7 +30,7 @@ The **Youth Cup** is now run through Tournament Manager at:
 
 [https://tournaments.smtop100.blog/](https://tournaments.smtop100.blog/)
 
-There you can get to current fixtures, groups, knockout rounds, results and manager tools.
+The public page now makes **Schedule** the quickest route to dates and fixtures. If you are a manager and want the personalised version — who you need to send a friendly to, and who you are waiting for — **My Matches** gives you that directly from your account.
 
 The **World Club Cup** remains on its current main-site archive route for this season and will move into Tournament Manager next season. Explore points to the right current destination rather than pretending the migration is already complete.
 
@@ -88,7 +88,7 @@ That is the new route for manager and contributor writing. No WordPress dashboar
 
 Subscribe is for following published Top 100 writing by email.
 
-That is different from personalised Manager Portal reminders. One follows the site; the other follows things that belong specifically to your manager account, such as your Youth Cup fixtures.
+That is different from personalised **My Matches** reminders. One follows the site; the other follows things that belong specifically to your manager account, such as your Youth Cup fixtures.
 
 Keeping those two ideas separate makes both easier to understand.
 
