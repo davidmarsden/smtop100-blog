@@ -24,6 +24,7 @@ from pathlib import Path
 
 MICROPUB_ENDPOINT = "https://micro.blog/micropub"
 MICROPUB_DESTINATION = "https://smtop100.micro.blog/"
+DISCOVERY_PAGE_SIZE = 100
 
 PAGES = {
     "about": {
@@ -73,46 +74,61 @@ def micropub_headers(token: str) -> dict[str, str]:
 
 
 def discover_pages(token: str) -> list[dict]:
-    """Return the exact standalone-page records Micro.blog exposes via Micropub."""
-    params = urllib.parse.urlencode(
-        {
-            "q": "source",
-            "mp-channel": "pages",
-            "mp-destination": MICROPUB_DESTINATION,
-            "limit": 100,
-        }
-    )
-    request = urllib.request.Request(
-        f"{MICROPUB_ENDPOINT}?{params}",
-        method="GET",
-        headers=micropub_headers(token),
-    )
+    """Return all standalone-page records Micro.blog exposes via Micropub."""
+    discovered: list[dict] = []
+    offset = 0
 
-    try:
-        with urllib.request.urlopen(request, timeout=30) as response:
-            body = response.read().decode("utf-8", errors="replace")
-    except urllib.error.HTTPError as exc:
-        body = exc.read().decode("utf-8", errors="replace").strip()
-        raise RuntimeError(
-            f"Micro.blog rejected standalone-page discovery ({exc.code}): "
-            f"{body or exc.reason}"
-        ) from exc
-    except urllib.error.URLError as exc:
-        raise RuntimeError(
-            f"Could not reach Micro.blog while discovering standalone pages: {exc.reason}"
-        ) from exc
+    while True:
+        params = urllib.parse.urlencode(
+            {
+                "q": "source",
+                "mp-channel": "pages",
+                "mp-destination": MICROPUB_DESTINATION,
+                "limit": DISCOVERY_PAGE_SIZE,
+                "offset": offset,
+            }
+        )
+        request = urllib.request.Request(
+            f"{MICROPUB_ENDPOINT}?{params}",
+            method="GET",
+            headers=micropub_headers(token),
+        )
 
-    try:
-        payload = json.loads(body)
-    except json.JSONDecodeError as exc:
-        raise RuntimeError("Micro.blog returned invalid JSON for standalone-page discovery") from exc
+        try:
+            with urllib.request.urlopen(request, timeout=30) as response:
+                body = response.read().decode("utf-8", errors="replace")
+        except urllib.error.HTTPError as exc:
+            body = exc.read().decode("utf-8", errors="replace").strip()
+            raise RuntimeError(
+                f"Micro.blog rejected standalone-page discovery ({exc.code}): "
+                f"{body or exc.reason}"
+            ) from exc
+        except urllib.error.URLError as exc:
+            raise RuntimeError(
+                f"Could not reach Micro.blog while discovering standalone pages: {exc.reason}"
+            ) from exc
 
-    items = payload.get("items")
-    if not isinstance(items, list):
-        raise RuntimeError("Micro.blog standalone-page discovery returned no items list")
+        try:
+            payload = json.loads(body)
+        except json.JSONDecodeError as exc:
+            raise RuntimeError("Micro.blog returned invalid JSON for standalone-page discovery") from exc
 
-    print(f"Discovered {len(items)} standalone Micro.blog page(s).")
-    return items
+        items = payload.get("items")
+        if not isinstance(items, list):
+            raise RuntimeError("Micro.blog standalone-page discovery returned no items list")
+
+        discovered.extend(items)
+        print(
+            f"Discovered standalone Micro.blog page batch at offset {offset}: "
+            f"{len(items)} item(s)."
+        )
+
+        if len(items) < DISCOVERY_PAGE_SIZE:
+            break
+        offset += DISCOVERY_PAGE_SIZE
+
+    print(f"Discovered {len(discovered)} standalone Micro.blog page(s) in total.")
+    return discovered
 
 
 def first_property(item: dict, name: str) -> str:
