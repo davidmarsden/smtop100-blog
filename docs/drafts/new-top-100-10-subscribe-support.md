@@ -8,7 +8,7 @@ So here is the short version:
 
 **Subscribe** follows the site.
 
-**Manager reminders** follow things that belong specifically to you.
+**My Matches reminders** follow things that belong specifically to you.
 
 **Support** helps pay for the running costs.
 
@@ -26,7 +26,7 @@ It follows the editorial side of Top 100: news, features, manager writing and wh
 
 You do not need a manager account to subscribe.
 
-## Manager reminders: follow your own responsibilities
+## My Matches reminders: follow your own responsibilities
 
 Personal reminders are different.
 
@@ -34,7 +34,7 @@ A manager account can know which club belongs to you and which fixture is yours.
 
 The first version of that is live for Top 100 Youth Cup fixtures.
 
-Managers can opt in to new-fixture, day-before and fixture-day reminders from the Manager Portal:
+Managers can opt in to new-fixture, day-before and fixture-day reminders from **My Matches**:
 
 [https://manager.smtop100.blog/](https://manager.smtop100.blog/)
 
@@ -43,6 +43,8 @@ Those reminders are not enabled just because you subscribe to the blog, and they
 They are explicit opt-in settings of their own.
 
 That distinction matters, especially when the reminder is connected to something you are responsible for doing.
+
+My Matches also translates the fixture into simple action language: **YOU SEND** if you need to send the friendly request, **THEY SEND** if your opponent should send it and you are waiting for them.
 
 ## A reminder is not the rule
 
@@ -91,7 +93,7 @@ Keeping them separate makes the system less clever in the best possible way: eac
 So, depending on what you want:
 
 - **Read Top 100 by email:** [Subscribe](https://smtop100.blog/subscribe/)
-- **Manage your own account reminders:** [Manager Portal](https://manager.smtop100.blog/)
+- **Manage your own fixtures and reminders:** [My Matches](https://manager.smtop100.blog/)
 - **Help with running costs:** [Support](https://smtop100.blog/support/)
 
 Three doors. Three different jobs.
