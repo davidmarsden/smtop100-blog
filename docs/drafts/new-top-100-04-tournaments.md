@@ -26,13 +26,27 @@ One lesson from actually using the new Tournament Manager was obvious: managers 
 
 So the Youth Cup page now puts **Schedule** front and centre. The major sections are easier to scan and can be opened only when you need them, rather than forcing everybody through one enormous page of tables and brackets.
 
-There is also a simple **Looking for your match?** route straight to the schedule and to **My Matches**.
+There is also a simple **Looking for your match?** route straight to the schedule and to **My Matches**, with **Find the date first, then the opponent** as the supporting instruction.
 
 The distinction is useful:
 
 **Public page: when are the games?**
 
 **My Matches: what do I need to do?**
+
+## Youth Cup and Youth Shield are visible paths
+
+The Youth Shield is not a separate tournament bolted on from somewhere else. It grows out of the Youth Cup once the group stage is complete.
+
+What has changed is how clearly the public site shows that path.
+
+Instead of making managers discover the Shield inside a competition dropdown, Tournament Manager now presents **🏆 Youth Cup** and **🛡️ Youth Shield** as obvious first-class choices wherever the Schedule, Knockout or Bracket view needs that distinction.
+
+The existing filters still do the underlying work, but the important choice is now visible immediately.
+
+The Shield bracket also shows the full route ahead — R16, quarter-finals, semi-finals and final — even before those later rounds have been generated. Future places appear as **TBC**, so you can see the shape of the competition without the system inventing teams or results.
+
+As real rounds are created, they replace that projected structure naturally.
 
 ## What the Tournament Manager does
 
