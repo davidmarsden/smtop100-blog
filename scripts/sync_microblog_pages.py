@@ -4,6 +4,10 @@
 The live standalone pages already exist in Micro.blog. This script updates those
 pages in place so approved migration/pages/*.md sources can become the publishing
 source of truth without creating duplicate pages or changing navigation.
+
+Micropub updates must target Micro.blog's canonical item URLs. The custom domain
+URLs remain the public addresses, but Micro.blog may not resolve them as update
+identifiers and can return 404.
 """
 
 from __future__ import annotations
@@ -22,25 +26,29 @@ MICROPUB_ENDPOINT = "https://micro.blog/micropub"
 PAGES = {
     "about": {
         "source": Path("migration/pages/about.md"),
-        "url": "https://smtop100.blog/about/",
+        "micropub_url": "https://smtop100.micro.blog/about/",
+        "public_url": "https://smtop100.blog/about/",
         "title": "About",
         "ready": True,
     },
     "contact": {
         "source": Path("migration/pages/contact.md"),
-        "url": "https://smtop100.blog/contact/",
+        "micropub_url": "https://smtop100.micro.blog/contact/",
+        "public_url": "https://smtop100.blog/contact/",
         "title": "Contact / Join",
         "ready": True,
     },
     "rules": {
         "source": Path("migration/pages/rules.md"),
-        "url": "https://smtop100.blog/rules/",
+        "micropub_url": "https://smtop100.micro.blog/rules/",
+        "public_url": "https://smtop100.blog/rules/",
         "title": "Rules",
         "ready": True,
     },
     "support": {
         "source": Path("migration/pages/support.md"),
-        "url": "https://smtop100.blog/support/",
+        "micropub_url": "https://smtop100.micro.blog/support/",
+        "public_url": "https://smtop100.blog/support/",
         "title": "Support Top 100",
         "ready": True,
     },
@@ -63,7 +71,7 @@ def publish_page(token: str, key: str, *, dry_run: bool = False) -> None:
     content = page_body(page["source"])
     payload = {
         "action": "update",
-        "url": page["url"],
+        "url": page["micropub_url"],
         "replace": {
             "name": [page["title"]],
             "content": [content],
@@ -74,7 +82,7 @@ def publish_page(token: str, key: str, *, dry_run: bool = False) -> None:
         state = "ready" if page["ready"] else "validation-only"
         print(
             f"DRY RUN {key} [{state}]: {page['source']} -> "
-            f"{page['url']} ({len(content)} chars)"
+            f"{page['micropub_url']} (public {page['public_url']}; {len(content)} chars)"
         )
         return
 
@@ -91,7 +99,7 @@ def publish_page(token: str, key: str, *, dry_run: bool = False) -> None:
             "Authorization": f"Bearer {token}",
             "Content-Type": "application/json; charset=utf-8",
             "Accept": "application/json, text/plain, */*",
-            "User-Agent": "smtop100-page-sync/1.1",
+            "User-Agent": "smtop100-page-sync/1.2",
         },
     )
 
@@ -102,7 +110,8 @@ def publish_page(token: str, key: str, *, dry_run: bool = False) -> None:
     except urllib.error.HTTPError as exc:
         body = exc.read().decode("utf-8", errors="replace").strip()
         raise RuntimeError(
-            f"Micro.blog rejected {key} ({exc.code}): {body or exc.reason}"
+            f"Micro.blog rejected {key} ({exc.code}) for {page['micropub_url']}: "
+            f"{body or exc.reason}"
         ) from exc
     except urllib.error.URLError as exc:
         raise RuntimeError(f"Could not reach Micro.blog for {key}: {exc.reason}") from exc
@@ -110,7 +119,10 @@ def publish_page(token: str, key: str, *, dry_run: bool = False) -> None:
     if status < 200 or status >= 300:
         raise RuntimeError(f"Unexpected Micro.blog response for {key}: HTTP {status} {body}")
 
-    print(f"Published {key}: {page['url']} (HTTP {status})")
+    print(
+        f"Published {key}: {page['public_url']} "
+        f"(Micropub target {page['micropub_url']}; HTTP {status})"
+    )
 
 
 def main() -> int:
