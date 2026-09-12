@@ -10,13 +10,15 @@ That is why tournaments now have a dedicated home:
 
 [https://tournaments.smtop100.blog/](https://tournaments.smtop100.blog/)
 
-## Youth Cup and World Club Cup are front and centre
+## Youth Cup first, World Club Cup next
 
-The Tournament Manager is not just a generic database with a mysterious **Tournaments** label on the door.
+The rebuilt navigation names the **Youth Cup** and **World Club Cup** clearly because both matter in their own right.
 
-The Youth Cup and World Club Cup are important parts of Top 100 in their own right, so the rebuilt navigation names them clearly and takes you straight to the competition you actually care about.
+The Youth Cup is already running operationally through Tournament Manager, with public fixtures, groups, tables, knockout rounds and results. You do not need a manager account just to follow it.
 
-Public fixtures, groups, tables, knockout rounds and results remain public. You do not need a manager account just to follow the competition.
+The World Club Cup has not moved into Tournament Manager yet. Its current material remains on the main-site archive route for this season, with the move into Tournament Manager planned for next season.
+
+So the navigation can point people to both competitions by name without pretending they are already using the same backend.
 
 ## What the Tournament Manager does
 
@@ -64,12 +66,14 @@ The point is to remove avoidable admin: calculating tables, tracking progression
 
 ## Where to go
 
-For the public tournament centre:
+For the current Youth Cup and Tournament Manager:
 
 **[Top 100 Tournaments](https://tournaments.smtop100.blog/)**
 
 For your own fixtures and manager actions:
 
 **[Manager Portal](https://manager.smtop100.blog/)**
+
+The World Club Cup remains on its existing main-site archive route until its Tournament Manager move next season.
 
 The Tournament Manager is one of the clearest examples of what the new Top 100 is trying to do: keep the public competition open to everyone, while making the manager side much more useful once you sign in.
