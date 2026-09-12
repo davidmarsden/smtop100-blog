@@ -25,7 +25,9 @@ The synchroniser only updates known existing page URLs; it does not create pages
 
 ## Rules
 
-`https://smtop100.blog/rules/` is the canonical current Top 100 rulebook. The former standalone rules site at `https://rules.smtop100.blog/` is retained only as a compatibility redirect to the main page after the September 2026 consolidation.
+`https://smtop100.blog/rules/` becomes the canonical current Top 100 rulebook when this change is merged and published.
+
+During the short cutover window, `https://rules.smtop100.blog/` may still serve the previous standalone rulebook. The separate `top100-rules` retirement change must be deployed afterwards to turn that hostname into a permanent compatibility redirect to the main `/rules/` page.
 
 Competition-specific rules remain with the relevant current competition tooling, and Regen-specific exceptions remain on the Regen rules page. The precedence order is documented in the canonical rulebook itself.
 
