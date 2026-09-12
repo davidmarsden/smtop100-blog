@@ -20,6 +20,20 @@ The World Club Cup has not moved into Tournament Manager yet. Its current materi
 
 So the navigation can point people to both competitions by name without pretending they are already using the same backend.
 
+## Find the fixture first
+
+One lesson from actually using the new Tournament Manager was obvious: managers should not have to dig through a long page just to discover when they play.
+
+So the Youth Cup page now puts **Schedule** front and centre. The major sections are easier to scan and can be opened only when you need them, rather than forcing everybody through one enormous page of tables and brackets.
+
+There is also a simple **Looking for your match?** route straight to the schedule and to **My Matches**.
+
+The distinction is useful:
+
+**Public page: when are the games?**
+
+**My Matches: what do I need to do?**
+
 ## What the Tournament Manager does
 
 Behind the public pages is a much more structured competition system than we had before.
@@ -28,11 +42,16 @@ It can handle group stages, knockout rounds, one-leg and two-leg ties, byes, for
 
 The aim is not to automate every decision. It is to make the routine stuff reliable so organisers can spend their time on the decisions that actually need a human.
 
-## Managers get their own view
+## My Matches turns fixtures into actions
 
 If you have a verified manager account, the Tournament Manager can recognise the club attached to your identity.
 
-That means your Manager Portal can show your own competition fixtures instead of making you search through the entire tournament.
+**My Matches** brings your own outstanding competition fixtures together in one place instead of making you search the entire tournament.
+
+More importantly, it translates home and away into the action you actually need to take:
+
+- **YOU SEND** — you are the home manager and need to send the Soccer Manager friendly request;
+- **THEY SEND** — your opponent should send the request; if it has not arrived, chase them rather than waiting for the deadline.
 
 For competitions using the shared system, managers can also submit their own results and forfeits, subject to the safeguards built into the competition workflow.
 
@@ -72,7 +91,7 @@ For the current Youth Cup and Tournament Manager:
 
 For your own fixtures and manager actions:
 
-**[Manager Portal](https://manager.smtop100.blog/)**
+**[My Matches](https://manager.smtop100.blog/)**
 
 The World Club Cup remains on its existing main-site archive route until its Tournament Manager move next season.
 
