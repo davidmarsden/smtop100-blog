@@ -30,7 +30,11 @@ The **Youth Cup** is now run through Tournament Manager at:
 
 [https://tournaments.smtop100.blog/](https://tournaments.smtop100.blog/)
 
-The public page now makes **Schedule** the quickest route to dates and fixtures. If you are a manager and want the personalised version — who you need to send a friendly to, and who you are waiting for — **My Matches** gives you that directly from your account.
+The public page now makes **Schedule** the quickest route to dates and fixtures. Once the group stage is complete and the Youth Shield begins, **Youth Cup** and **Youth Shield** are shown as clear first-class choices rather than hiding the Shield inside a dropdown filter.
+
+The Shield is still part of the overall Youth Cup tournament — it is the knockout path that grows out of the group stage — but the new navigation makes it much easier to get straight to the competition you are actually playing in.
+
+If you are a manager and want the personalised version — who you need to send a friendly to, and who you are waiting for — **My Matches** gives you that directly from your account.
 
 The **World Club Cup** remains on its current main-site archive route for this season and will move into Tournament Manager next season. Explore points to the right current destination rather than pretending the migration is already complete.
 
