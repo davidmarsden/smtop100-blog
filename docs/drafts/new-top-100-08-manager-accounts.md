@@ -2,7 +2,7 @@
 
 Top 100 now has proper manager accounts — and they are starting to become genuinely useful.
 
-If you are currently managing a club in **Top 100 or Top 100 Regen**, you can claim your own Manager Portal account and use the same verified identity across the parts of the ecosystem that need to know who you are.
+If you are currently managing a club in **Top 100 or Top 100 Regen**, you can claim your own account and use the same verified identity across the parts of the ecosystem that need to know who you are.
 
 No separate login for every site. No typing your manager name into five different forms. No wondering whether "Steve", "Stephen" and "S. Allington" are supposed to be the same person.
 
@@ -34,23 +34,28 @@ That means you can vote in Top 100 Community Polls and in the end-of-season Mana
 
 Regen voting is not yet using the shared account system, so this benefit is currently Top 100-only.
 
-### See your own fixture schedule
+### My Matches: see exactly what you need to do
 
-The Manager Portal brings your own tournament fixtures together in one place.
+**My Matches** brings your own outstanding tournament fixtures together in one place.
 
-Instead of scrolling through a full competition looking for your club, you can see your upcoming matches, recent results and current tournament position directly against your manager identity.
+Instead of scrolling through a full competition looking for your club, you get an action list attached to your manager identity. The language is deliberately simple:
+
+- **YOU SEND** — you are the home manager and need to send the Soccer Manager friendly request;
+- **THEY SEND** — your opponent should send it; if it has not arrived, chase them rather than waiting for the deadline.
+
+You can also see dates, opponents, recent results and your current tournament position without hunting through the public page.
 
 For Regen, this currently applies where the competition is being run through the shared Tournament Manager — including Pane's Season 4 Youth Cup.
 
 ### Submit your own results and forfeits
 
-Managers can record their own results through the portal and submit forfeits where necessary.
+Managers can record their own results through My Matches and submit forfeits where necessary.
 
 The existing review and provisional-result safeguards still apply, but the basic job can now be done by the manager involved rather than waiting for an organiser to enter everything manually.
 
 ### See your tournament progress
 
-Your Manager Portal can show your group, table position, results, upcoming fixtures and progress through the competition.
+My Matches can show your group, table position, results, upcoming fixtures and progress through the competition.
 
 As more tournament features move into the shared system, this should become the obvious place to answer the question: **what do I need to do next?**
 
@@ -62,7 +67,7 @@ When manager registration is open, your verified identity can be used to registe
 
 This is probably the least flashy feature, but it is the one that makes everything else possible.
 
-Your account is tied to **you as a manager**, not just a browser, a club or a particular tournament. The same identity can be used by the Manager Portal, Tournaments, Community Polls, Manager Awards and other tools as they are opened up to each game world.
+Your account is tied to **you as a manager**, not just a browser, a club or a particular tournament. The same identity can be used by My Matches, Tournaments, Community Polls, Manager Awards and other tools as they are opened up to each game world.
 
 Think of it as your **Top 100 passport** — whether you manage in Top 100 or Top 100 Regen.
 
@@ -76,17 +81,17 @@ We are not asking managers to hand over an email address on blind trust.
 
 Your email address is used to sign you in, link your account to the correct manager identity, and — only where you opt in — send service emails such as Youth Cup fixture reminders. It is **not displayed publicly on the Top 100 sites** and it is not there to be sold, handed to advertisers or added to a general marketing list.
 
-Manager Portal accounts start with a secure one-time email link. After that, you can carry on using email links or choose to set a password and sign in with **email + password** instead. The account and password system is handled by a well-established external authentication service used by many websites and applications, rather than being something we have built ourselves. We use a paid plan for that service. Service emails such as claim notifications and Youth Cup reminders are likewise sent through an established external email-delivery provider rather than from a homemade mail system.
+Manager accounts start with a secure one-time email link. After that, you can carry on using email links or choose to set a password and sign in with **email + password** instead. The account and password system is handled by a well-established external authentication service used by many websites and applications, rather than being something we have built ourselves. We use a paid plan for that service. Service emails such as claim notifications and Youth Cup reminders are likewise sent through an established external email-delivery provider rather than from a homemade mail system.
 
 In other words, the Top 100 sites do not keep a homemade list of passwords or run their own mail server. We rely on recognised third-party services that are designed specifically for secure authentication and reliable email delivery, and we keep the amount of personal information we hold to what the account actually needs.
 
-Access to manager-account administration is restricted to the people running the relevant Top 100 services. Reminder preferences are under your control: if you do not opt in to Youth Cup reminders, they are not sent, and you can turn them off again from your Manager Portal account.
+Access to manager-account administration is restricted to the people running the relevant Top 100 services. Reminder preferences are under your control: if you do not opt in to Youth Cup reminders, they are not sent, and you can turn them off again from My Matches.
 
 We only want the account data needed to make these features work. If the system grows to use manager accounts for more things, that should remain the test: collect what we need, explain what it is for, and do not quietly turn a football-game account into something else.
 
 ## How to claim your account
 
-Go to the **Manager Portal**:
+Go to **My Matches**:
 
 [https://manager.smtop100.blog/](https://manager.smtop100.blog/)
 
@@ -102,7 +107,7 @@ If you already have an approved account, **do not create another one**. Just sig
 
 Because the account is no longer just plumbing behind the scenes.
 
-For Top 100, it already gives you reminders, your own fixture view, result submission, tournament tools and verified voting. For Regen, the same account already connects you to the shared Tournament Manager and Pane's Season 4 Youth Cup, with room to add more without another login later.
+For Top 100, it already gives you reminders, My Matches, result submission, tournament tools and verified voting. For Regen, the same account already connects you to the shared Tournament Manager and Pane's Season 4 Youth Cup, with room to add more without another login later.
 
 **[Claim your Manager Account](https://manager.smtop100.blog/)**
 
