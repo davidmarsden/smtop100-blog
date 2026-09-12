@@ -38,6 +38,8 @@ The Tournament Manager lives at:
 
 The **Youth Cup** is now run there, with structured fixtures, groups, tables, knockout rounds, registrations, results and the Tournament Manager tools used by organisers and managers.
 
+The public Youth Cup page now puts the **Schedule** first, with a clear route into **My Matches** when you want the personalised answer to a simpler question: what do I need to do next?
+
 The **World Club Cup** is still on its current main-site archive route for now and will move into Tournament Manager next season. Explore names both competitions clearly so you can get to the right current destination without having to understand the plumbing underneath.
 
 Public tournament information stays public. Signing in adds personal tools such as your own fixtures, result submission and other manager actions where the competition is using the shared Tournament Manager.
@@ -66,13 +68,15 @@ That distinction matters. Community Polls are general Top 100 democracy. Manager
 
 They now share a proper authenticated manager identity underneath, but they are not the same thing.
 
-## Managers now have their own portal
+## Managers now have My Matches
 
-The Manager Portal is here:
+The manager account area is here:
 
 [https://manager.smtop100.blog/](https://manager.smtop100.blog/)
 
-A verified manager account can be used across more than one part of the ecosystem. For Top 100 managers that currently includes things such as Youth Cup reminders, voting, a personal fixture view, tournament progress and result submission.
+The public-facing manager tool is now called **My Matches**. It uses your verified manager identity to show the fixtures and actions that belong to you, rather than making you hunt through the whole tournament.
+
+For Top 100 managers that currently includes Youth Cup reminders, voting, a personal fixture view, tournament progress and result submission. In the tournament action view, **YOU SEND** means you need to send the Soccer Manager friendly request; **THEY SEND** means you are waiting for the opponent and should chase if it has not arrived.
 
 Top 100 Regen managers use the same account system too, although the current Regen use is narrower and is centred on the Tournament Manager and Pane Trifunov's Season 4 Youth Cup.
 
