@@ -24,6 +24,7 @@ The main `smtop100.blog` domain has moved from WordPress.com to Micro.blog. The 
 - [x] Simplify the public family navigation to Top 100, Top 100 Regen, About and Explore, with manager/account actions separate.
 - [x] Give Tournaments, Community Polls and Manager Awards their own local specialist navigation.
 - [x] Turn Manager Portal into the public resources hub plus authenticated manager account area.
+- [x] Add opt-in Top 100 Youth Cup reminders to Manager Portal, including new-fixture, day-before and fixture-day reminders.
 
 ## Current priority — finish family-shell consistency and discovery
 
@@ -63,19 +64,22 @@ The main `smtop100.blog` domain has moved from WordPress.com to Micro.blog. The 
 - [ ] After successful real-world Awards use, remove the executable legacy typed-name Awards voting backend while retaining historical data/reference material.
 - [ ] Reuse the shared voting service for other community/tournament votes where useful.
 
-## Next feature — Never miss a thing
+## Never miss a thing
 
-Use Subscribe as the public front door for opt-in reminders rather than just post-by-email delivery.
+Top 100 Youth Cup reminders are live and opt-in through authenticated Manager Portal accounts. Current reminder types are:
 
-Potential reminder types:
+- [x] New fixture / next-round fixture assigned.
+- [x] Day-before fixture reminder.
+- [x] Fixture-day reminder if the result is still outstanding.
 
-- [ ] Youth Cup fixture reminders.
+These personalised reminders are separate from public Subscribe/newsletter delivery. Future reminder types can reuse the same account-linked foundation:
+
 - [ ] World Club Cup fixture/registration reminders.
 - [ ] Community Poll opening and closing reminders.
 - [ ] Manager Awards opening and closing reminders.
 - [ ] Tournament registration deadlines.
 
-Keep reminders opt-in, clearly scoped and easy to unsubscribe from.
+Keep reminders opt-in, clearly scoped and easy to switch off.
 
 ## Governance/admin tooling still to build
 
