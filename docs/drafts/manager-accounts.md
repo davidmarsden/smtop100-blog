@@ -76,7 +76,7 @@ We are not asking managers to hand over an email address on blind trust.
 
 Your email address is used to sign you in, link your account to the correct manager identity, and — only where you opt in — send service emails such as Youth Cup fixture reminders. It is **not displayed publicly on the Top 100 sites** and it is not there to be sold, handed to advertisers or added to a general marketing list.
 
-Manager Portal sign-in uses a secure one-time email link rather than asking us to create or store a separate Top 100 password. Authentication and account data are handled through **Supabase**, while transactional emails such as claim notifications and Youth Cup reminders are sent through **Resend**.
+Manager Portal accounts start with a secure one-time email link. After that, you can carry on using email links or choose to set a password and sign in with **email + password** instead. Authentication is handled through **Supabase**, rather than by the Top 100 sites inventing their own password system, while transactional emails such as claim notifications and Youth Cup reminders are sent through **Resend**.
 
 Access to manager-account administration is restricted to the people running the relevant Top 100 services. Reminder preferences are under your control: if you do not opt in to Youth Cup reminders, they are not sent, and you can turn them off again from your Manager Portal account.
 
@@ -91,6 +91,8 @@ Go to the **Manager Portal**:
 Enter your email address and follow the secure sign-in link we send you.
 
 If your email is not yet linked to a manager identity, choose **Top 100** or **Top 100 Regen**, select your current club and confirm your Soccer Manager name. Your claim is then checked against the current manager list for that game world and approved.
+
+Once you are signed in, you can keep using email links or set a password from your account and use email + password for future sign-ins.
 
 If you already have an approved account, **do not create another one**. Just sign in using the email address attached to your existing account.
 
