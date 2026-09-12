@@ -6,6 +6,8 @@ If you are a Top 100 manager with an approved account, you can opt in to reminde
 
 The system knows which club you manage, so there is no separate team picker and no need to subscribe to everybody else's fixtures.
 
+The Youth Shield sits inside that same overall Youth Cup tournament: it is the knockout path that begins after the group stage. The public Tournament Manager now makes Cup and Shield much easier to distinguish, but from a manager's point of view they remain part of the same Youth Cup campaign.
+
 ## What reminders can you get?
 
 There are currently three reminder types:
