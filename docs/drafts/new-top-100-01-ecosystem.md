@@ -32,13 +32,15 @@ Think of it as the map rather than another destination you need to remember.
 
 ## Tournaments have their own centre
 
-Youth Cup and World Club Cup now live at:
+The Tournament Manager lives at:
 
 [https://tournaments.smtop100.blog/](https://tournaments.smtop100.blog/)
 
-That site handles the structured side of competitions: fixtures, groups, tables, knockout rounds, registrations, results and the Tournament Manager tools used by organisers and managers.
+The **Youth Cup** is now run there, with structured fixtures, groups, tables, knockout rounds, registrations, results and the Tournament Manager tools used by organisers and managers.
 
-Public tournament information stays public. Signing in adds personal tools such as your own fixtures, result submission and other manager actions.
+The **World Club Cup** is still on its current main-site archive route for now and will move into Tournament Manager next season. Explore names both competitions clearly so you can get to the right current destination without having to understand the plumbing underneath.
+
+Public tournament information stays public. Signing in adds personal tools such as your own fixtures, result submission and other manager actions where the competition is using the shared Tournament Manager.
 
 ## Stats & History is not the blog archive
 
