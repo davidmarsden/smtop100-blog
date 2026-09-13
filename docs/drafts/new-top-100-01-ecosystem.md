@@ -20,6 +20,8 @@ The move to Micro.blog did not mean throwing all the specialist tools into one g
 
 The main site is the front door. The specialist parts of Top 100 each get a home of their own.
 
+Those separate homes should still feel like one family. They now share clearer navigation and consistent social-share previews, so a link to My Matches, Tournaments, Awards, Stats & History, Top 100 Regen or another specialist service identifies the right destination instead of borrowing the wrong site's card.
+
 ## Explore is the map
 
 If you are not sure where something lives, start here:
