@@ -65,7 +65,13 @@ If you have a verified manager account, the Tournament Manager can recognise the
 More importantly, it translates home and away into the action you actually need to take:
 
 - **YOU SEND** — you are the home manager and need to send the Soccer Manager friendly request;
-- **THEY SEND** — your opponent should send the request; if it has not arrived, chase them rather than waiting for the deadline.
+- **THEY SEND** — your opponent should send the request; if it has not arrived, you still need to chase them before the arranging window closes.
+
+For Saturday Youth Cup fixtures, the current rules make that timing explicit: the home manager should send the request promptly and no later than Wednesday, while the away manager should check proactively and chase before Wednesday if nothing has arrived. The responsibility is shared, even though the two jobs are different.
+
+The full current rules are here:
+
+[Youth Cup format & rules](https://smtop100.blog/youth-cup-format-rules/)
 
 For competitions using the shared system, managers can also submit their own results and forfeits, subject to the safeguards built into the competition workflow.
 
