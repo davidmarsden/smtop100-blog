@@ -28,19 +28,26 @@ This bit matters.
 
 The reminders are a courtesy. They are there to help you remember what is coming up, not to move responsibility for arranging the game onto the system or the organiser.
 
+For a Saturday fixture, the current Youth Cup rules work to the Soccer Manager arranging window. Fixtures are normally available by Sunday evening. The **home manager should send the friendly request promptly and no later than Wednesday**. The **away manager must also check proactively and chase before Wednesday if no request has arrived**.
+
+So responsibility is shared, even though the two jobs are not identical.
+
 Managers are still responsible for:
 
-- contacting the opponent and arranging the match in good time;
-- sending the Soccer Manager match request within the required window;
+- checking their fixture and opponent in good time;
+- sending the request promptly when they are the home manager;
+- chasing before Wednesday when they are the away manager and no request has arrived;
 - making sure the game is played;
 - submitting the result through My Matches;
 - contacting the opponent and tournament organiser promptly if there is a problem.
 
-And one rule is worth putting in bold every time reminders are mentioned:
+Evidence of a timely request, message or attempt to resolve a problem can matter when a forfeit decision is made. If neither manager makes a reasonable timely effort, both can be sanctioned.
 
-**For a Saturday Youth Cup fixture, the Soccer Manager match request must be sent before Wednesday.**
+The full current rules are here:
 
-Do not wait for the day-before email and then discover you have already missed the request deadline.
+[Youth Cup format & rules](https://smtop100.blog/youth-cup-format-rules/)
+
+Do not wait for the day-before email and then discover the arranging window has already closed.
 
 ## YOU SEND or THEY SEND
 
@@ -48,7 +55,7 @@ The fixture view in My Matches now spells out the practical action as plainly as
 
 **YOU SEND** means you are the home manager and need to send the friendly request.
 
-**THEY SEND** means your opponent should send it. If the request has not arrived, chase them rather than waiting until the fixture date.
+**THEY SEND** means your opponent should send it — but it does **not** mean you can simply wait until Saturday. If the request has not arrived, chase them before Wednesday and raise a problem promptly if necessary.
 
 That is the same job the reminders are trying to support: not just telling you that a match exists, but helping you understand what you need to do about it.
 
