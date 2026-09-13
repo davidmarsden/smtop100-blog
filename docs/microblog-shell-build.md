@@ -152,13 +152,14 @@ Completed:
 4. About, Contact / Join, Rules and Support refresh plus automatic page publishing.
 5. Explore hub and simplified main-site navigation.
 6. Tournaments, Community Polls, Manager Portal and Manager Awards specialist-shell cleanup.
+7. Top 100 Youth Cup reminder layer: opt-in Manager Portal preferences plus new-fixture, day-before and fixture-day emails.
 
 Current:
 
-7. Apply the same shell to Stats & History and Publishing Desk.
-8. Run a final desktop/mobile family-wide navigation and contrast check.
-9. Clean stale migration/cutover documentation.
-10. Build the opt-in **Never miss a thing** reminder layer for fixtures, polls, Awards and tournament deadlines.
+8. Apply the same shell to Stats & History and Publishing Desk.
+9. Run a final desktop/mobile family-wide navigation and contrast check.
+10. Clean stale migration/cutover documentation.
+11. Extend the **Never miss a thing** reminder foundation later to World Club Cup, polls, Awards and tournament deadlines.
 
 ## 8. Not part of this immediate pass
 
