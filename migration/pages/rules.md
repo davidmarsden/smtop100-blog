@@ -1,6 +1,6 @@
 # Rules
 
-*Last updated: 12 September 2026*
+*Last updated: 13 September 2026*
 
 Top 100 is competitive, but it is also a community. The rules exist to keep the game world fair, active and enjoyable — not to create administration for its own sake.
 
@@ -111,7 +111,9 @@ Where those rules are more specific, **the competition rules take precedence for
 
 The **[Top 100 Youth Cup](https://tournaments.smtop100.blog/top-100/youth-cup)** is administered through the Tournament Centre.
 
-Its current rules cover matters including player eligibility, squad restrictions, loans, fixture deadlines, forfeits and fictional extra time where required by the competition format.
+The **[full Youth Cup rules](/youth-cup-format-rules/)** cover player eligibility, squad restrictions, loans, fixture arrangements, forfeits and Fictional Extra Time.
+
+For Saturday fixtures, managers must now work to the current Soccer Manager arranging window: fixtures are normally available by Sunday evening; the home manager sends the friendly request promptly and no later than Wednesday; the away manager checks proactively and chases before Wednesday if no request has arrived. The responsibility remains shared, but the two duties are not identical. Evidence of a timely request, message or attempt to resolve a problem may distinguish an individual forfeit from a double failure.
 
 ### World Club Cup
 
@@ -149,6 +151,10 @@ Significant rule changes and wider game-world decisions can be put to **[Communi
 Minor clarifications, corrections and administrative procedures may be updated without a full vote where they do not materially change the substance of a rule.
 
 When a substantive rule changes, the effective date should be clear. Historical decisions should be preserved rather than silently rewritten so that an older dispute can be judged against the rule that applied at the time.
+
+### Change record
+
+**13 September 2026 — Youth Cup fixture arrangements.** The Youth Cup arranging procedure was updated because changes to Soccer Manager mean Wednesday can now be the last opportunity to arrange a Saturday friendly. The obsolete instruction for the away manager to wait until 24 hours before kick-off was replaced by the Sunday-to-Wednesday procedure in the current Youth Cup rules. The clarification applies from 13 September 2026 and does not retrospectively reopen S28 Youth Shield Round of 32 decisions from 12 September 2026.
 
 ## 10. Top 100 Regen
 
