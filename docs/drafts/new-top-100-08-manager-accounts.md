@@ -22,9 +22,13 @@ The system knows which club you manage, so there is nothing extra to set up. You
 
 The reminders are there to help, not to take responsibility away from managers. You still need to arrange the match with your opponent, make sure it is played and submit the result.
 
-**For Saturday Youth Cup fixtures, the Soccer Manager match request must be sent before Wednesday.**
+For Saturday fixtures, the current Youth Cup rule is that the **home manager sends the friendly request promptly and no later than Wednesday**, while the **away manager checks proactively and chases before Wednesday if no request has arrived**. Responsibility is shared, even though the two duties are different.
 
-If there is a problem arranging or playing a fixture, contact your opponent and the tournament organiser promptly rather than waiting for the deadline.
+Evidence of a timely request, message or attempt to resolve a problem can matter when a forfeit decision is made. If neither manager makes a reasonable timely effort, both can be sanctioned.
+
+The full current Youth Cup rules are here:
+
+[https://smtop100.blog/youth-cup-format-rules/](https://smtop100.blog/youth-cup-format-rules/)
 
 ### Vote in Community Polls and the Manager Awards
 
@@ -41,7 +45,7 @@ Regen voting is not yet using the shared account system, so this benefit is curr
 Instead of scrolling through a full competition looking for your club, you get an action list attached to your manager identity. The language is deliberately simple:
 
 - **YOU SEND** — you are the home manager and need to send the Soccer Manager friendly request;
-- **THEY SEND** — your opponent should send it; if it has not arrived, chase them rather than waiting for the deadline.
+- **THEY SEND** — your opponent should send it; if it has not arrived, chase them before Wednesday rather than waiting for the fixture date.
 
 You can also see dates, opponents, recent results and your current tournament position without hunting through the public page.
 
