@@ -12,10 +12,10 @@ This should read as a guided tour, not release notes.
 2. **Explore Top 100: where everything lives now** — `/explore/` and public discovery.
 3. **Stats & History: more than an archive** — `archive.smtop100.blog` and the distinction from the chronological blog archive.
 4. **Tournaments: Youth Cup, World Club Cup and the Tournament Manager** — `tournaments.smtop100.blog`.
-5. **Never miss a Youth Cup game again** — opt-in reminders, responsibilities and the Wednesday request rule.
+5. **Never miss a Youth Cup game again** — opt-in reminders, responsibilities and the current Sunday-to-Wednesday arranging window.
 6. **Your vote actually belongs to you now** — Community Polls and authenticated voting.
 7. **Manager Awards: voting, history and the Hall of Fame** — Awards remain distinct from Community Polls.
-8. **One account. Your Top 100.** — existing manager-account draft in PR #14; applies to Top 100 and Top 100 Regen with world-specific benefits.
+8. **One account. Your Top 100.** — manager-account draft; applies to Top 100 and Top 100 Regen with world-specific benefits.
 9. **Write for Top 100: the new Publishing Desk** — `write.smtop100.blog`.
 10. **Subscribe, Support and staying in the loop** — distinguish newsletter subscription, manager reminders and financial support.
 11. **Top 100 Regen has moved in — without becoming Top 100** — integrated `/regen/`, separate game world, shared infrastructure.
@@ -28,11 +28,13 @@ The earlier **Top 100 has moved** post acts as the preface to the series.
 - Publish under a consistent **New Top 100** category/series label.
 - Add a short series footer to each published post linking back to the hub and forward to the next explainer.
 - Prefer direct links to the live feature over screenshots that will age quickly.
+- The public family now has corrected social-share metadata/cards, including host-aware previews for specialist services such as My Matches; use canonical public links when sharing or cross-linking the series.
 - Keep public resources public. Manager accounts should be presented as adding personalised/action features, not as a paywall or content gate.
 - Keep **Community Polls** and **Manager Awards** clearly separate.
 - Use **Top 100 Regen** consistently; never shorten the public product name to “Regen” where ambiguity is possible.
 - Support means optional contributions towards running costs; account/site help belongs under Contact / Join.
-- Youth Cup reminder copy must always make clear that reminders are a courtesy and do not replace manager responsibilities. For Saturday fixtures, the Soccer Manager match request must be sent **before Wednesday**.
+- Youth Cup reminder copy must always make clear that reminders are a courtesy and do not replace manager responsibilities. For Saturday fixtures, the home manager sends the request promptly and no later than Wednesday; the away manager checks proactively and chases before Wednesday if no request has arrived. Evidence of timely effort can matter in any later forfeit decision.
+- Link to the canonical current Youth Cup rules at `https://smtop100.blog/youth-cup-format-rules/` when explaining fixture responsibilities.
 
 ## Publishing note
 
