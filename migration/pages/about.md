@@ -6,6 +6,16 @@ It began in 2015 and has grown into a community with its own competitions, rules
 
 The main **smtop100.blog** site is the public front door: news, club stories, season previews and reviews, match reports and important game-world announcements.
 
+## Three rules every manager must know
+
+Before you take over a club or make your first bid, make sure you know these:
+
+1. **50-player squad limit.** Loans count both ways: players loaned in *and* players loaned out.
+2. **Agreed deals are binding.** Once both managers clearly agree a transfer, neither side can back out.
+3. **New database players: public bids only.** Maximum £1,000,000 cash, with no hidden bids or side deals.
+
+Breaking them can lead to cancelled deals or a transfer ban. Read the full [Rules](/rules/) before you start.
+
 ## How Top 100 works
 
 Four clubs are promoted and four relegated from each division every season. Managers at the bottom of each division also face dismissal, so survival can matter just as much as promotion and titles.

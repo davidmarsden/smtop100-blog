@@ -6,6 +6,16 @@ Top 100 is competitive, but it is also a community. The rules exist to keep the 
 
 This page is the **canonical Top 100 rulebook**. Competition-specific rules published by the Tournament Centre take precedence where they are more specific than the general game-world rules below.
 
+## Key rules at a glance
+
+If you are new to Top 100, start here. These are the rules newcomers most often miss:
+
+1. **50-player squad limit.** Loans count both ways: players loaned in *and* players loaned out.
+2. **Agreed deals are binding.** Once both managers clearly agree a transfer, neither side can back out.
+3. **New database players: public bids only.** Maximum £1,000,000 cash, with no hidden bids or side deals.
+
+Each is covered in full below: the squad limit in section 4 and transfers in section 5.
+
 ## 1. Core principles
 
 Top 100 is built around four simple expectations:

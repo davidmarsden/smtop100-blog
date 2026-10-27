@@ -6,7 +6,11 @@ Top 100 has 100 clubs, so vacancies only appear when a manager leaves or a club 
 
 If you are interested in joining the original Top 100 game world, email **admin@smtop100.blog** and say a little about yourself and your Soccer Manager experience.
 
-Before applying, please read the current [Rules](/rules/).
+Before applying, please read the current [Rules](/rules/). In particular:
+
+1. **50-player squad limit.** Loans count both ways: players loaned in *and* players loaned out.
+2. **Agreed deals are binding.** Once both managers clearly agree a transfer, neither side can back out.
+3. **New database players: public bids only.** Maximum £1,000,000 cash, with no hidden bids or side deals.
 
 ## Want to join Top 100 Regen?
 
