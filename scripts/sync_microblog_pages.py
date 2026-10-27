@@ -69,7 +69,7 @@ def micropub_headers(token: str) -> dict[str, str]:
     return {
         "Authorization": f"Bearer {token}",
         "Accept": "application/json, text/plain, */*",
-        "User-Agent": "smtop100-page-sync/1.3",
+        "User-Agent": "smtop100-page-sync/1.4",
     }
 
 
@@ -199,9 +199,12 @@ def publish_page(
         raise RuntimeError("Standalone pages were not discovered before publishing")
 
     target_url = resolve_page_url(key, discovered)
+    # Name the blog explicitly: without mp-destination Micro.blog resolves the
+    # update against the account's default blog, which may not be smtop100.
     payload = {
         "action": "update",
         "url": target_url,
+        "mp-destination": MICROPUB_DESTINATION,
         "replace": {
             "name": [page["title"]],
             "content": [content],
@@ -210,8 +213,11 @@ def publish_page(
 
     headers = micropub_headers(token)
     headers["Content-Type"] = "application/json; charset=utf-8"
+    update_endpoint = f"{MICROPUB_ENDPOINT}?" + urllib.parse.urlencode(
+        {"mp-destination": MICROPUB_DESTINATION}
+    )
     request = urllib.request.Request(
-        MICROPUB_ENDPOINT,
+        update_endpoint,
         data=json.dumps(payload).encode("utf-8"),
         method="POST",
         headers=headers,
