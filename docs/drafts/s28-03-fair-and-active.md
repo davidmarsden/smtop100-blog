@@ -33,8 +33,8 @@ Soccer Manager removes a manager after **ten days without logging in**. By the t
 
 So we're adding alerts for two things:
 
-- **Logins.** If a manager hasn't logged in for 7 days, they get a reminder and the admin team gets a heads-up, three days before Soccer Manager would act. At 10 days, the admin team is told.
-- **Gold membership.** Ideally every Top 100 manager is a Gold member. Managers and the admin team will hear when a manager's membership changes.
+- **Logins.** If a manager hasn't logged in for 7 days, they get a reminder and the admin team gets a heads-up, three days before Soccer Manager would act. At 10 days, the admin team is told. Irregular logins also count as inactivity at the end-of-season review: two or more spells of 7 days or more without logging in during a season means a manager isn't reappointed.
+- **Gold membership.** Every new manager joining Top 100 must be a Gold member, and now so must every manager being reappointed after a bottom-three finish. Managers and the admin team will hear when a manager's membership changes, so there's time to renew.
 
 These are switched on once we've confirmed which parts of Soccer Manager's data are reliable, so you may not see them straight away.
 
@@ -54,7 +54,7 @@ The same data, together with each squad's strength, feeds the reappointment and 
 
 ## Rules first, tools second
 
-None of this changes the rules themselves. The squad limit, activity expectations and Soccer Manager's own login rules were already there. What's changed is that they're now checked the same way for everyone, and quickly enough to fix things before they turn into sanctions.
+Most of this doesn't change the rules themselves. The squad limit, activity expectations and Soccer Manager's own login rules were already there. The new requirements are Gold membership and regular logins for reappointment ([rule 3.1](https://smtop100.blog/rules/)). What's changed is that everything is now checked the same way for everyone, and quickly enough to fix things before they turn into sanctions.
 
 If you spot something that doesn't look right, a missing alert or one that shouldn't have been sent, tell the admin team.
 

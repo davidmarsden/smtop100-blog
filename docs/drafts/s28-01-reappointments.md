@@ -1,4 +1,4 @@
-# Reappoint unless there's a clear and obvious error
+# The benefit of the doubt: how bottom-three reviews work
 
 Every season ends the same way for fifteen managers: in the bottom three of their division, facing the sack.
 
@@ -10,29 +10,39 @@ So from the end of Season 28, it is written down. It is in the rules, in [sectio
 
 The principle is the one we set out after Season 25, in [S25 Manager Reappointments](https://smtop100.blog/2025/08/22/s-manager-reappointments/):
 
-**Reappoint unless there is a clear and obvious error.**
+**Reappoint unless reappointing would be a clear and obvious error.**
 
-A bad season is not enough on its own. Squads get old, injuries happen, a promotion can be a step too far. What we look for is something clear and obvious that a manager could have done something about. The S25 decisions already tell us what that looks like, so the list is taken straight from them:
+That puts the burden the right way round. The question isn't whether a manager deserves to keep their job; it's whether keeping them would plainly be a mistake. **The manager gets the benefit of any doubt, and a second chance by default.** Squads get old, injuries happen, a promotion can be a step too far. A bad season is not enough on its own.
 
-- **Inactivity:** not logging in (Soccer Manager removes you after ten days anyway), not responding to the admins or to fixture requests, not setting teams.
-- **Misconduct.**
+## Three things that are never negotiable
+
+Some things are requirements for managing in Top 100 at all. A manager who doesn't meet them isn't reappointed, and isn't offered another club, even if they took over during the season:
+
+- **Gold membership.** Every new manager joining Top 100 must be a Gold member, and now so must every manager being reappointed.
+- **Regular logins.** Soccer Manager removes you after ten days without logging in. But logging in irregularly counts as inactivity too: **two or more spells of seven days or more without logging in during a season.** The new login alerts warn you at seven days, so nobody should be caught out.
+- **No misconduct**, and responding to the admins and to fixture requests, and setting your teams.
+
+## Clear and obvious errors
+
+For everyone else, the S25 decisions tell us what a clear and obvious error looks like, so the list is taken straight from them:
+
 - **Forfeits:** three or more in Top 100 competitions in a season. The World Club Cup is mandatory.
 - **A repeat:** a second bottom-three finish in a row, or a manager who was told last time that it was their last chance.
 - **A collapse:** finishing at least 12 places below where the squad's strength said the club should finish.
 - **A sanction** during the season, such as a transfer ban.
 - **A low review score** (more on that below).
 
+**One error is a second chance.** The manager is reappointed, and the decision records that they are on a last chance.
+
+**Two errors make reappointment a clear and obvious error.** That manager is not reappointed.
+
 ## Higher expectations at the top
 
-Divisions 1 and 2 are where most managers want to be, and they carry higher expectations. That was true in Season 25 and it is now in the rules:
-
-- **In Divisions 1 and 2, one clear and obvious error is enough** for a manager not to be reappointed.
-- **In Divisions 3 to 5, it takes two.** A single error is another chance, as it was for several managers after Season 25.
+Divisions 1 and 2 are where most managers want to be, and they carry higher expectations. That was true in Season 25 too. In the review it shows in the score: the line for a low score is **45 in Divisions 1 and 2**, and 40 below that.
 
 ## Some cases are already decided
 
-- **Inactivity or misconduct** means no reappointment, and no other club either.
-- **A manager who took over during the season is reappointed** (unless inactive or guilty of misconduct). You can't be blamed for a season you only finished. That season will never count against you, here or when you apply for a club.
+- **A manager who took over during the season is reappointed**, as long as they meet the three requirements above. You can't be blamed for a season you only finished. That season will never count against you, here or when you apply for a club.
 - **Frank Hirst, Top 100's founder, is always reappointed at Genoa.**
 
 ## The review score
@@ -50,11 +60,11 @@ Squad strength comes from the same ETOT measure Stats & History has used for yea
 
 Activity covers the things that keep Top 100 alive: entering competitions, trading with other Top 100 managers, building your squad, helping to run Top 100, and taking part in the community.
 
-A score below 40 counts as a clear and obvious error. If a decision turns on a score within five points of 40, the admin team votes, and each admin records a reason. **If there's no majority, the manager stays.** No admin votes on their own case.
+A score below the line (45 in Divisions 1 and 2, 40 below) counts as one clear and obvious error. If a decision turns on a score within five points of the line, the admin team votes, and each admin records a reason. **If there's no majority, the manager stays.** No admin votes on their own case.
 
 ## Not reappointed doesn't mean the end
 
-A manager who isn't reappointed (other than for inactivity or misconduct) can apply for any vacant club, including the one they've just left. Their club goes into the vacancy round with everyone else's, and they are offered the clubs still open at the end.
+A manager who isn't reappointed (other than for the three requirements above) can apply for any vacant club, including the one they've just left. Their club goes into the vacancy round with everyone else's, and they are offered the clubs still open at the end.
 
 You can also ask to move, or to take a break, whatever your score. That request is recorded with the decision.
 

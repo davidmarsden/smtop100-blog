@@ -58,27 +58,34 @@ Formal historic manager contracts are no longer the governing system. Performanc
 
 The bottom three managers in each division are subject to sacking at the end of the season. The administrators review each case. Reappointment is common.
 
-**The VAR standard.** As set out in [S25 Manager Reappointments](https://smtop100.blog/2025/08/22/s-manager-reappointments/), a bottom-three manager is **reappointed unless there is a clear and obvious error**. The errors are those the S25 decisions relied on:
+**The VAR standard.** As set out in [S25 Manager Reappointments](https://smtop100.blog/2025/08/22/s-manager-reappointments/), a bottom-three manager is **reappointed unless reappointing them would be a clear and obvious error**. The manager gets the benefit of any doubt, and a second chance by default.
 
-- **Inactivity:** removed by Soccer Manager for not logging in, unresponsive to the administrators or to fixture requests, or not setting teams.
-- **Misconduct**, as recorded by the administrators.
+**Never reappointed.** A manager is not reappointed, and not offered another club, if they:
+
+- are **not a Gold member**: every Top 100 manager must be, as every new manager joining is;
+- are **inactive**: removed by Soccer Manager for not logging in, logging in irregularly (two or more spells of seven days or more without logging in during the season), unresponsive to the administrators or to fixture requests, or not setting teams;
+- have committed **misconduct**, as recorded by the administrators.
+
+This applies even to a manager who took over during the season.
+
+**Clear and obvious errors.** Otherwise, the errors are those the S25 decisions relied on:
+
 - **Forfeits:** three or more forfeits in Top 100 competitions in the season, including the World Club Cup, which is mandatory.
 - **A repeat:** bottom three for a second season running, or a manager told at an earlier review that it was their last chance.
 - **A collapse:** a finish at least 12 places below the position the squad's strength predicted.
 - **A sanction** during the season, such as a transfer ban.
-- **A low review score:** below 40 out of 100 (see below).
+- **A low review score** (see below): below 45 out of 100 in Divisions 1 and 2, where expectations are higher, and below 40 in Divisions 3 to 5.
 
 **Outcomes.**
 
-- **Inactivity or misconduct:** not reappointed, and not offered another club. This applies even to a manager who took over during the season.
-- **Took over during the season:** otherwise reappointed. That season's finish never counts against them, here or in an application (3.2).
+- **Two or more errors:** reappointing would be a clear and obvious error, and the manager is not reappointed.
+- **One error:** a second chance. The manager is reappointed, and the review records that they are on a last chance.
+- **Took over during the season:** reappointed (unless never reappointed, above). That season's finish never counts against them, here or in an application (3.2).
 - **Standing reappointment:** Frank Hirst, Top 100's founder, at Genoa.
-- **Divisions 1 and 2:** expectations are higher, and one clear and obvious error means the manager is not reappointed.
-- **Divisions 3 to 5:** it takes two. A single error is another chance.
 
-A manager who is not reappointed (other than for inactivity or misconduct) may apply for any vacancy, and is offered the clubs still open after the vacancy round (3.2). Their club goes into the round.
+A manager who is not reappointed (other than under "Never reappointed") may apply for any vacancy, and is offered the clubs still open after the vacancy round (3.2). Their club goes into the round.
 
-Where the decision turns on a review score less than five points from 40, the administrators vote, each recording a reason. Without a majority, the manager is reappointed. An administrator does not vote on their own case. A manager may also ask to move or to step away; the request is recorded with the decision.
+Where the decision turns on a review score less than five points from the line, the administrators vote, each recording a reason. Without a majority, the manager is reappointed. An administrator does not vote on their own case. A manager may also ask to move or to step away; the request is recorded with the decision.
 
 **Review score.** Each bottom-three manager is scored out of 100, from the Stats & History record, the current league table and the administrators' assessment. Everyone reviewed finished in the bottom three, so the score asks how the club did against its squad, not where it finished:
 
@@ -242,7 +249,7 @@ When a substantive rule changes, the effective date should be clear. Historical 
 
 ### Change record
 
-**28 October 2026 — Sackings, vacancies, appointments and squad limit breaches.** Section 3.1 records how bottom-three sackings work in practice: each case is reviewed and scored, reappointment is common, and a manager who took over during the season is reappointed unless inactive. Reappointment follows the VAR standard from S25: a manager is reappointed unless there is a clear and obvious error, with higher expectations in Divisions 1 and 2. Section 3.2 sets out how vacant clubs are filled, with published eligibility rules, a scored assessment and a recorded decision; it first applies to the vacancies at the end of S28. Section 4.1 records the sanction applied to squad limit breaches in S28 (Olympique Lyonnais, 19 October 2026), and that players frozen by a transfer ban do not count towards the limit.
+**28 October 2026 — Sackings, vacancies, appointments and squad limit breaches.** Section 3.1 records how bottom-three sackings work in practice: each case is reviewed and scored, reappointment is common, and a manager who took over during the season is reappointed unless inactive. Reappointment follows the VAR standard from S25: a manager is reappointed unless reappointing them would be a clear and obvious error, with the benefit of any doubt and a second chance by default. Gold membership and regular logins are required. Section 3.2 sets out how vacant clubs are filled, with published eligibility rules, a scored assessment and a recorded decision; it first applies to the vacancies at the end of S28. Section 4.1 records the sanction applied to squad limit breaches in S28 (Olympique Lyonnais, 19 October 2026), and that players frozen by a transfer ban do not count towards the limit.
 
 **13 September 2026 — Youth Cup fixture arrangements.** The Youth Cup arranging procedure was updated because changes to Soccer Manager mean Wednesday can now be the last opportunity to arrange a Saturday friendly. The obsolete instruction for the away manager to wait until 24 hours before kick-off was replaced by the Sunday-to-Wednesday procedure in the current Youth Cup rules. The clarification applies from 13 September 2026 and does not retrospectively reopen S28 Youth Shield Round of 32 decisions from 12 September 2026.
 
