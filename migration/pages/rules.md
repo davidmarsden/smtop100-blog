@@ -89,7 +89,7 @@ A bottom-three finish and a big step up do not rule anyone out. They are weighed
 
 A finishing position counts both within the division and across the 100-club pyramid. Squad strength uses the Stats & History ETOT measure.
 
-**Appointment.** The scores guide the decision; they do not make it. Each applicant is matched to the club they most want that is still open. The highest of those scores is offered first, then the process repeats for the remaining clubs. Where scores are within five points, the administrators may also weigh fit with the club. An applicant who moves leaves a vacancy at their old club, which is filled in a further round in the same way.
+**Appointment.** The scores guide the decision; they do not make it. Each applicant is matched to the club they most want that is still open. The highest of those scores is offered first, then the process repeats for the remaining clubs. Where applicants for the same club are within five points of each other, the administrators vote between them; each records a reason, and the reasons are published with the decision. An applicant who moves leaves a vacancy at their old club, which is filled in a further round in the same way.
 
 **Record.** The administrators publish each vacancy, the applicants, every score and its breakdown, and the decision. A decision that departs from the scores must give its reason.
 
