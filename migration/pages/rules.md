@@ -73,15 +73,16 @@ The bottom three managers in each division are subject to sacking at the end of 
 | Activity and contribution | 30 | As in 3.2: Top 100 competitions, dealings with other Top 100 managers in the transfer market, squad building, running Top 100, and community and social activity |
 | Record and conduct | 20 | Earlier bottom-three finishes in the last five seasons (10, minus 5 for each, not counting seasons taken over part-way through), seasons at the club (5) and disciplinary record (5) |
 
-**Outcome.**
+**Outcome: the VAR standard.** As set out in [the manager reappointments post of 22 August 2025](https://smtop100.blog/2025/08/22/s-manager-reappointments/), a bottom-three manager is reappointed unless there is a clear and obvious error. The review finds one when:
 
-- **55 or more: reappointed.**
-- **40 to 54: another club.** The club goes into the vacancy round (3.2) and the manager may apply for it and for any other vacancy. If nobody who applies for it scores higher than the manager, the manager is reappointed. Otherwise the manager is offered the clubs still open, including those left vacant by managers who moved.
-- **Below 40: a break from Top 100.** The manager may manage in Top 100 Regen, and may apply for vacancies again from the following season.
+- the score is below 40; or
+- the club finished at least 12 places below where its squad's strength predicted.
 
-**Keeping 100 managers.** Top 100 always aims to have 100 managers, so a break is only possible when someone can take the place. The number of breaks is the number of new managers waiting to join, less the managers leaving anyway (resigning, leaving Soccer Manager, or sacked for inactivity). Breaks go to the lowest scores first. Anyone else scoring below 40 goes to another club instead.
+Where there is a clear and obvious error, the club goes into the vacancy round (3.2). The manager may apply for any vacancy, including their own club, and is offered the clubs still open after the round, including those left vacant by managers who moved.
 
-Where a score is within five points of 55 or 40, the administrators vote, each recording a reason. An administrator does not vote on their own case. A manager may also ask to move or to step away whatever their score; the request is recorded with the decision.
+Where a score is less than five points below 40, the administrators vote on whether the error is clear and obvious, each recording a reason. Without a majority, the manager is reappointed. An administrator does not vote on their own case. A manager may also ask to move or to step away whatever their score; the request is recorded with the decision.
+
+**Keeping 100 managers.** Top 100 always aims to have 100 managers, so a break from Top 100 is only possible when someone can take the place. The number of breaks is the number of new managers waiting to join, less the managers leaving anyway (resigning, leaving Soccer Manager, or sacked for inactivity). Breaks go to the lowest scores among the clear and obvious errors. A manager on a break may manage in Top 100 Regen, and may apply for vacancies again from the following season.
 
 **Order.** The bottom-three review comes first, so that every vacancy is known before applications close.
 
@@ -234,7 +235,7 @@ When a substantive rule changes, the effective date should be clear. Historical 
 
 ### Change record
 
-**28 October 2026 — Sackings, vacancies, appointments and squad limit breaches.** Section 3.1 records how bottom-three sackings work in practice: each case is reviewed and scored, reappointment is common, and a manager who took over during the season is always reappointed. The review leads to one of three outcomes: reappointment, another club through the vacancy round, or a break from Top 100, with breaks limited to the new managers waiting to join. Section 3.2 sets out how vacant clubs are filled, with published eligibility rules, a scored assessment and a recorded decision; it first applies to the vacancies at the end of S28. Section 4.1 records the sanction applied to squad limit breaches in S28 (Olympique Lyonnais, 19 October 2026), and that players frozen by a transfer ban do not count towards the limit.
+**28 October 2026 — Sackings, vacancies, appointments and squad limit breaches.** Section 3.1 records how bottom-three sackings work in practice: each case is reviewed and scored, reappointment is common, and a manager who took over during the season is always reappointed. Reappointment follows the VAR standard: a manager is reappointed unless the review finds a clear and obvious error. If it does, the manager moves to another club through the vacancy round, or takes a break from Top 100, with breaks limited to the new managers waiting to join. Section 3.2 sets out how vacant clubs are filled, with published eligibility rules, a scored assessment and a recorded decision; it first applies to the vacancies at the end of S28. Section 4.1 records the sanction applied to squad limit breaches in S28 (Olympique Lyonnais, 19 October 2026), and that players frozen by a transfer ban do not count towards the limit.
 
 **13 September 2026 — Youth Cup fixture arrangements.** The Youth Cup arranging procedure was updated because changes to Soccer Manager mean Wednesday can now be the last opportunity to arrange a Saturday friendly. The obsolete instruction for the away manager to wait until 24 hours before kick-off was replaced by the Sunday-to-Wednesday procedure in the current Youth Cup rules. The clarification applies from 13 September 2026 and does not retrospectively reopen S28 Youth Shield Round of 32 decisions from 12 September 2026.
 
