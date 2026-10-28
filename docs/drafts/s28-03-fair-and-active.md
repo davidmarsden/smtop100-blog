@@ -34,9 +34,7 @@ Soccer Manager removes a manager after **ten days without logging in**. By the t
 So we're adding alerts for two things:
 
 - **Logins.** If a manager hasn't logged in for 7 days, they get a reminder and the admin team gets a heads-up, three days before Soccer Manager would act. At 10 days, the admin team is told. Irregular logins also count as inactivity at the end-of-season review: two or more spells of 7 days or more without logging in during a season means a manager isn't reappointed.
-- **Gold membership.** Every new manager joining Top 100 must be a Gold member, and now so must every manager being reappointed after a bottom-three finish. Managers and the admin team will hear when a manager's membership changes, so there's time to renew.
-
-These are switched on once we've confirmed which parts of Soccer Manager's data are reliable, so you may not see them straight away.
+- **Gold membership.** Every Top 100 manager must be a Gold member, including anyone applying for a club or being reappointed after a bottom-three finish. Sync reads how many days of Gold each manager has left, so you'll get a reminder **14 days and again 7 days before your Gold runs out**, in time to renew, and the admin team will hear if it lapses.
 
 ## Who gets the alerts
 

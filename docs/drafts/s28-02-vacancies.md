@@ -41,6 +41,7 @@ A few points worth knowing:
 - **Record at the club's level** depends on the club. Seasons in Division 1 count for a Division 1 job; for a Division 3 job, seasons in Division 3 or higher do.
 - **A season you took over part-way through never counts against you.**
 - **Activity matters.** That means entering competitions like the Youth Cup and World Club Cup, trading with other Top 100 managers rather than only with outside clubs, building your squad, helping to run Top 100, and being part of the community. A club in Top 100 is more than a squad, and managers who make the game world better for everyone else get credit for it.
+- **So does focus.** Managing in a dozen game worlds leaves little time for any of them. Up to three game worlds in all, Top 100 included, earns full marks for focus, and each one beyond that costs a quarter of a point (of 2).
 
 ## 4. Matching managers to clubs
 

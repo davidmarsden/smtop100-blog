@@ -58,7 +58,7 @@ Every bottom-three manager also gets a score out of 100. Everyone being reviewed
 
 Squad strength comes from the same ETOT measure Stats & History has used for years. If your squad was the weakest in the division and you finished 19th, you did about as well as expected. If it was the third strongest and you finished 20th, that is a collapse.
 
-Activity covers the things that keep Top 100 alive: entering competitions, trading with other Top 100 managers, building your squad, helping to run Top 100, and taking part in the community.
+Activity covers the things that keep Top 100 alive: entering competitions, trading with other Top 100 managers, building your squad, helping to run Top 100, and taking part in the community. It also counts focus: a manager in three game worlds has more time for Top 100 than one in twelve.
 
 A score below the line (45 in Divisions 1 and 2, 40 below) counts as one clear and obvious error. If a decision turns on a score within five points of the line, the admin team votes on it, and each admin records a reason. No admin votes on their own case.
 
