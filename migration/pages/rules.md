@@ -58,9 +58,9 @@ Formal historic manager contracts are no longer the governing system. Performanc
 
 The bottom three managers in each division are subject to sacking at the end of the season. The administrators review each case. Sacking is not automatic, and reappointment is common.
 
-**Always reappointed.** A manager who took over during the season is always reappointed. That season's finish never counts against them, here or in an application (3.2).
+**Always sacked.** A manager who Soccer Manager removes for inactivity (ten days without logging in) is not reappointed. This applies even to a manager who took over during the season.
 
-**Always sacked.** A manager who Soccer Manager removes for inactivity (ten days without logging in) is not reappointed.
+**Always reappointed.** Otherwise, a manager who took over during the season is always reappointed. That season's finish never counts against them, here or in an application (3.2).
 
 **Review.** Every other bottom-three manager is scored out of 100, from the Stats & History record, the current league table and the administrators' assessment. Everyone reviewed finished in the bottom three, so the review asks how the club did against its squad, not where it finished:
 
@@ -69,7 +69,7 @@ The bottom three managers in each division are subject to sacking at the end of 
 | Result against squad strength | 30 | This season's finish against the position the squad's strength predicted |
 | Track record | 20 | Finishes within the division and results against squad strength in the last two seasons (15), and honours (5). A manager new to Top 100 gets half marks |
 | Activity and contribution | 30 | As in 3.2: Top 100 competitions, dealings with other Top 100 managers in the transfer market, squad building, and community contribution |
-| Record and conduct | 20 | Earlier bottom-three finishes in the last five seasons (10, minus 5 for each), seasons at the club (5) and disciplinary record (5) |
+| Record and conduct | 20 | Earlier bottom-three finishes in the last five seasons (10, minus 5 for each, not counting seasons taken over part-way through), seasons at the club (5) and disciplinary record (5) |
 
 **Outcome.**
 
