@@ -1,6 +1,6 @@
 # Rules
 
-*Last updated: 13 September 2026*
+*Last updated: 28 October 2026*
 
 Top 100 is competitive, but it is also a community. The rules exist to keep the game world fair, active and enjoyable — not to create administration for its own sake.
 
@@ -53,6 +53,41 @@ Managers should:
 Repeated inactivity, serious misconduct or deliberate attempts to undermine the game world can lead to sanctions or removal.
 
 Formal historic manager contracts are no longer the governing system. Performance-related sackings and the published bottom-three rule remain part of Top 100.
+
+### 3.1 Sackings
+
+The bottom three managers in each division are subject to automatic sacking at the end of the season. The administrators confirm each case before the new season, taking account of exceptional circumstances such as a manager who took over a club late in the season. A manager who keeps their club after a bottom-three finish still has that finish counted in future applications (3.2).
+
+A sacked manager may apply for vacancies in a lower division, or prove themselves in Top 100 Regen.
+
+### 3.2 Club vacancies and manager appointments
+
+A club becomes vacant when its manager resigns, leaves Soccer Manager, is sacked, or is removed. A caretaker may run a vacant club until an appointment is made; being caretaker gives no preference in the appointment.
+
+**Applying.** Vacancies are published with a closing date. Current Top 100 managers apply by naming the vacant clubs they want, in order of preference. Applicants from outside Top 100, including Top 100 Regen managers, are considered for any club still vacant after current managers.
+
+**Eligibility.** An applicant is not eligible if they:
+
+- are in the bottom three of their division when applications close;
+- are not yet in at least their second season at their current club;
+- are serving a transfer ban or another open sanction;
+- would step up more than two divisions without ever having managed in Division 1.
+
+**Scoring.** Each applicant is scored out of 100 from the Stats & History record and the current league table:
+
+| | Points | What counts |
+|---|---|---|
+| Current season | 25 | Finishing position, and the result against the strength of the squad |
+| Last two seasons | 20 | Finishing positions, and results against squad strength |
+| Honours | 20 | Division 1 titles (6), other titles (3) and promotions (2), up to 20 |
+| Top-flight record | 15 | Seasons in Division 1, and top-half Division 1 finishes |
+| Stability and conduct | 20 | Seasons at the current club (5), bottom-three finishes in the last five seasons (10, minus 3 for each) and disciplinary record (5) |
+
+A finishing position counts both within the division and across the 100-club pyramid. Squad strength uses the Stats & History ETOT measure.
+
+**Appointment.** The highest-scoring applicant is offered their first-choice club for which they are eligible, then the next-highest, and so on. An applicant who moves leaves a vacancy at their old club, which is filled in a further round in the same way. Where scores are within two points, the administrators may also weigh activity, community contribution and fit with the club, and must say why.
+
+**Record.** The administrators publish each vacancy, the applicants, every score and its breakdown, and the decision. A decision that departs from the scores must give its reason.
 
 ## 4. Squad management
 
@@ -163,6 +198,8 @@ Minor clarifications, corrections and administrative procedures may be updated w
 When a substantive rule changes, the effective date should be clear. Historical decisions should be preserved rather than silently rewritten so that an older dispute can be judged against the rule that applied at the time.
 
 ### Change record
+
+**28 October 2026 — Sackings, vacancies and appointments.** Sections 3.1 and 3.2 set out how vacant clubs are filled, with published eligibility rules, a scored assessment and a recorded decision. They replace the informal practice, and first apply to the vacancies at the end of S28. The bottom-three rule itself is unchanged; 3.1 records that each case is confirmed by the administrators, as has long been the practice.
 
 **13 September 2026 — Youth Cup fixture arrangements.** The Youth Cup arranging procedure was updated because changes to Soccer Manager mean Wednesday can now be the last opportunity to arrange a Saturday friendly. The obsolete instruction for the away manager to wait until 24 hours before kick-off was replaced by the Sunday-to-Wednesday procedure in the current Youth Cup rules. The clarification applies from 13 September 2026 and does not retrospectively reopen S28 Youth Shield Round of 32 decisions from 12 September 2026.
 
