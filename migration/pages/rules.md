@@ -106,7 +106,7 @@ Going over 50, even briefly, normally means:
 - a one-month transfer ban, during which the only permitted deals are cash sales to clubs outside Top 100;
 - the signing that took the squad over 50 is sold for cash to a club outside Top 100 once that player's own transfer ban ends, and the club may not bid for them again.
 
-Squad sizes are checked automatically from Soccer Manager Sync, and managers are told when their squad goes over the limit. Players signed while a club had no manager, if frozen by a transfer ban, do not count towards the limit; they are sold once the ban ends.
+Squad sizes are checked automatically from Soccer Manager Sync, and managers are told when their squad goes over the limit. A breach that began while a club had no manager, such as loans taken while it was vacant, is not held against the manager who is then appointed, though they must bring the squad back within the limit. Players signed while a club had no manager, if frozen by a transfer ban, do not count towards the limit; they are sold once the ban ends.
 
 ### 4.2 Loans and the squad limit
 
