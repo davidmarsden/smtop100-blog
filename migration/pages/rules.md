@@ -71,25 +71,25 @@ A club becomes vacant when its manager resigns, leaves Soccer Manager, is sacked
 
 **Eligibility.** An applicant is not eligible if they:
 
-- are in the bottom three of their division when applications close, unless they took over during the season;
 - are not yet in at least their second season at their current club;
-- are serving a transfer ban or another open sanction;
-- would step up more than two divisions without ever having managed in Division 1.
+- are serving a transfer ban or another open sanction.
 
-**Scoring.** Each applicant is scored out of 100, from the Stats & History record, the current league table and the administrators' assessment:
+A bottom-three finish and a big step up do not rule anyone out. They are weighed in the score.
+
+**Scoring.** Each applicant is scored out of 100 for each club they apply for, from the Stats & History record, the current league table and the administrators' assessment:
 
 | | Points | What counts |
 |---|---|---|
 | Current season | 20 | Finishing position, and the result against the strength of the squad |
 | Last two seasons | 15 | Finishing positions, and results against squad strength |
 | Honours | 15 | Division 1 titles (6), other titles (3) and promotions (2), up to 15 |
-| Top-flight record | 10 | Seasons in Division 1, and top-half Division 1 finishes |
-| Stability and conduct | 20 | Seasons at the current club (5), bottom-three finishes in the last five seasons (10, minus 3 for each, not counting seasons taken over part-way through) and disciplinary record (5) |
+| Record at the club's level | 10 | Seasons in the vacant club's division or higher, and top-half finishes there |
+| Stability and conduct | 20 | Seasons at the current club (5), bottom-three finishes in the last five seasons including this one (10, minus 3 for each, not counting seasons taken over part-way through) and disciplinary record (5) |
 | Activity and contribution | 20 | Top 100 competitions such as the Youth Cup and World Club Cup (8), dealings with other managers in the transfer market (6), and community contribution (6) |
 
 A finishing position counts both within the division and across the 100-club pyramid. Squad strength uses the Stats & History ETOT measure.
 
-**Appointment.** The scores guide the decision; they do not make it. The highest-scoring applicant is normally offered their first-choice club for which they are eligible, then the next-highest, and so on. Where scores are within five points, the administrators may also weigh fit with the club. An applicant who moves leaves a vacancy at their old club, which is filled in a further round in the same way.
+**Appointment.** The scores guide the decision; they do not make it. Each applicant is matched to the club they most want that is still open. The highest of those scores is offered first, then the process repeats for the remaining clubs. Where scores are within five points, the administrators may also weigh fit with the club. An applicant who moves leaves a vacancy at their old club, which is filled in a further round in the same way.
 
 **Record.** The administrators publish each vacancy, the applicants, every score and its breakdown, and the decision. A decision that departs from the scores must give its reason.
 
