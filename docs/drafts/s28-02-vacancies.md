@@ -14,10 +14,11 @@ A caretaker can run a club in the meantime, but being caretaker gives no advanta
 
 Current Top 100 managers apply by naming the clubs they want, in order. Applying for just one club is fine: plenty of managers would rather finish a project than move up. Managers from outside Top 100, including Top 100 Regen, are considered for any club still vacant after that.
 
-There are only two reasons you can't apply:
+There are only three reasons you can't apply:
 
 - you're still in your **first season** at your current club;
-- you're serving a **transfer ban or another open sanction**.
+- you're serving a **transfer ban or another open sanction**;
+- you're **not a Gold member**. Every Top 100 manager must be, just as every new manager joining must be.
 
 A bottom-three finish doesn't rule you out, and neither does applying for a club several divisions above your own. Both are weighed in the score instead.
 

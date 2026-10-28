@@ -12,7 +12,7 @@ The principle is the one we set out after Season 25, in [S25 Manager Reappointme
 
 **Reappoint unless reappointing would be a clear and obvious error.**
 
-That puts the burden the right way round. The question isn't whether a manager deserves to keep their job; it's whether keeping them would plainly be a mistake. **The manager gets the benefit of any doubt, and a second chance by default.** Squads get old, injuries happen, a promotion can be a step too far. A bad season is not enough on its own.
+That puts the burden the right way round. The question isn't whether a manager deserves to keep their job; it's whether keeping them would plainly be a mistake. **The manager gets the benefit of the doubt.** Squads get old, injuries happen, a promotion can be a step too far. A bad season is not enough on its own.
 
 ## Three things that are never negotiable
 
@@ -32,7 +32,7 @@ For everyone else, the S25 decisions tell us what a clear and obvious error look
 - **A sanction** during the season, such as a transfer ban.
 - **A low review score** (more on that below).
 
-**One error is a second chance.** The manager is reappointed, and the decision records that they are on a last chance.
+**With one error, a second chance is up to the admin team.** It isn't automatic: each admin records a reason, and it takes a majority. A manager given a second chance is on a last chance the following season.
 
 **Two errors make reappointment a clear and obvious error.** That manager is not reappointed.
 
@@ -60,7 +60,7 @@ Squad strength comes from the same ETOT measure Stats & History has used for yea
 
 Activity covers the things that keep Top 100 alive: entering competitions, trading with other Top 100 managers, building your squad, helping to run Top 100, and taking part in the community.
 
-A score below the line (45 in Divisions 1 and 2, 40 below) counts as one clear and obvious error. If a decision turns on a score within five points of the line, the admin team votes, and each admin records a reason. **If there's no majority, the manager stays.** No admin votes on their own case.
+A score below the line (45 in Divisions 1 and 2, 40 below) counts as one clear and obvious error. If a decision turns on a score within five points of the line, the admin team votes on it, and each admin records a reason. No admin votes on their own case.
 
 ## Not reappointed doesn't mean the end
 
