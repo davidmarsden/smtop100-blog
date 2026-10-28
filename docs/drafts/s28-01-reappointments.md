@@ -32,7 +32,7 @@ Divisions 1 and 2 are where most managers want to be, and they carry higher expe
 ## Some cases are already decided
 
 - **Inactivity or misconduct** means no reappointment, and no other club either.
-- **A manager who took over during the season is reappointed** (unless inactive). You can't be blamed for a season you only finished. That season will never count against you, here or when you apply for a club.
+- **A manager who took over during the season is reappointed** (unless inactive or guilty of misconduct). You can't be blamed for a season you only finished. That season will never count against you, here or when you apply for a club.
 - **Frank Hirst, Top 100's founder, is always reappointed at Genoa.**
 
 ## The review score
