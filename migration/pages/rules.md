@@ -54,9 +54,12 @@ Repeated inactivity, serious misconduct or deliberate attempts to undermine the 
 
 Formal historic manager contracts are no longer the governing system. Performance-related sackings and the published bottom-three rule remain part of Top 100.
 
-### 3.1 Sackings
+### 3.1 Sackings and reappointment
 
-The bottom three managers in each division are subject to automatic sacking at the end of the season. The administrators confirm each case before the new season, taking account of exceptional circumstances such as a manager who took over a club late in the season. A manager who keeps their club after a bottom-three finish still has that finish counted in future applications (3.2).
+The bottom three managers in each division are subject to sacking at the end of the season. The administrators review each case. Sacking is not automatic, and reappointment is common.
+
+- **Managers who took over during the season are always reappointed.** That season's finish never counts against them, here or in an application (3.2).
+- Other managers may be reappointed. The administrators weigh activity, contribution to Top 100 (competitions, the transfer market, the community), how the club did against the strength of its squad, and whether anyone suitable has applied to replace them.
 
 A sacked manager may apply for vacancies in a lower division, or prove themselves in Top 100 Regen.
 
@@ -64,28 +67,29 @@ A sacked manager may apply for vacancies in a lower division, or prove themselve
 
 A club becomes vacant when its manager resigns, leaves Soccer Manager, is sacked, or is removed. A caretaker may run a vacant club until an appointment is made; being caretaker gives no preference in the appointment.
 
-**Applying.** Vacancies are published with a closing date. Current Top 100 managers apply by naming the vacant clubs they want, in order of preference. Applicants from outside Top 100, including Top 100 Regen managers, are considered for any club still vacant after current managers.
+**Applying.** Vacancies are published with a closing date. Current Top 100 managers apply by naming the vacant clubs they want, in order of preference. Applying for one club only is fine: many managers prefer a long-term project to a move up. Applicants from outside Top 100, including Top 100 Regen managers, are considered for any club still vacant after current managers.
 
 **Eligibility.** An applicant is not eligible if they:
 
-- are in the bottom three of their division when applications close;
+- are in the bottom three of their division when applications close, unless they took over during the season;
 - are not yet in at least their second season at their current club;
 - are serving a transfer ban or another open sanction;
 - would step up more than two divisions without ever having managed in Division 1.
 
-**Scoring.** Each applicant is scored out of 100 from the Stats & History record and the current league table:
+**Scoring.** Each applicant is scored out of 100, from the Stats & History record, the current league table and the administrators' assessment:
 
 | | Points | What counts |
 |---|---|---|
-| Current season | 25 | Finishing position, and the result against the strength of the squad |
-| Last two seasons | 20 | Finishing positions, and results against squad strength |
-| Honours | 20 | Division 1 titles (6), other titles (3) and promotions (2), up to 20 |
-| Top-flight record | 15 | Seasons in Division 1, and top-half Division 1 finishes |
-| Stability and conduct | 20 | Seasons at the current club (5), bottom-three finishes in the last five seasons (10, minus 3 for each) and disciplinary record (5) |
+| Current season | 20 | Finishing position, and the result against the strength of the squad |
+| Last two seasons | 15 | Finishing positions, and results against squad strength |
+| Honours | 15 | Division 1 titles (6), other titles (3) and promotions (2), up to 15 |
+| Top-flight record | 10 | Seasons in Division 1, and top-half Division 1 finishes |
+| Stability and conduct | 20 | Seasons at the current club (5), bottom-three finishes in the last five seasons (10, minus 3 for each, not counting seasons taken over part-way through) and disciplinary record (5) |
+| Activity and contribution | 20 | Top 100 competitions such as the Youth Cup and World Club Cup (8), dealings with other managers in the transfer market (6), and community contribution (6) |
 
 A finishing position counts both within the division and across the 100-club pyramid. Squad strength uses the Stats & History ETOT measure.
 
-**Appointment.** The highest-scoring applicant is offered their first-choice club for which they are eligible, then the next-highest, and so on. An applicant who moves leaves a vacancy at their old club, which is filled in a further round in the same way. Where scores are within two points, the administrators may also weigh activity, community contribution and fit with the club, and must say why.
+**Appointment.** The scores guide the decision; they do not make it. The highest-scoring applicant is normally offered their first-choice club for which they are eligible, then the next-highest, and so on. Where scores are within five points, the administrators may also weigh fit with the club. An applicant who moves leaves a vacancy at their old club, which is filled in a further round in the same way.
 
 **Record.** The administrators publish each vacancy, the applicants, every score and its breakdown, and the decision. A decision that departs from the scores must give its reason.
 
@@ -95,7 +99,14 @@ A finishing position counts both within the division and across the 100-club pyr
 
 A club may have a maximum of **50 players** associated with its squad.
 
-The limit is intended to prevent player hoarding and protect competitive balance. Managers are responsible for keeping their squad compliant.
+The limit is intended to prevent player hoarding and protect competitive balance. Managers are responsible for keeping their squad compliant. The limit applies at all times, including between transfer turns, and Soccer Manager's own squad setting does not enforce it.
+
+Going over 50, even briefly, normally means:
+
+- a one-month transfer ban, during which the only permitted deals are cash sales to clubs outside Top 100;
+- the signing that took the squad over 50 is sold for cash to a club outside Top 100 once that player's own transfer ban ends, and the club may not bid for them again.
+
+Squad sizes are checked automatically from Soccer Manager Sync, and managers are told when their squad goes over the limit. Players signed while a club had no manager, if frozen by a transfer ban, do not count towards the limit; they are sold once the ban ends.
 
 ### 4.2 Loans and the squad limit
 
@@ -199,7 +210,7 @@ When a substantive rule changes, the effective date should be clear. Historical 
 
 ### Change record
 
-**28 October 2026 — Sackings, vacancies and appointments.** Sections 3.1 and 3.2 set out how vacant clubs are filled, with published eligibility rules, a scored assessment and a recorded decision. They replace the informal practice, and first apply to the vacancies at the end of S28. The bottom-three rule itself is unchanged; 3.1 records that each case is confirmed by the administrators, as has long been the practice.
+**28 October 2026 — Sackings, vacancies, appointments and squad limit breaches.** Section 3.1 records how bottom-three sackings work in practice: each case is reviewed, reappointment is common, and a manager who took over during the season is always reappointed. Section 3.2 sets out how vacant clubs are filled, with published eligibility rules, a scored assessment and a recorded decision; it first applies to the vacancies at the end of S28. Section 4.1 records the sanction applied to squad limit breaches in S28 (Olympique Lyonnais, 19 October 2026), and that players frozen by a transfer ban do not count towards the limit.
 
 **13 September 2026 — Youth Cup fixture arrangements.** The Youth Cup arranging procedure was updated because changes to Soccer Manager mean Wednesday can now be the last opportunity to arrange a Saturday friendly. The obsolete instruction for the away manager to wait until 24 hours before kick-off was replaced by the Sunday-to-Wednesday procedure in the current Youth Cup rules. The clarification applies from 13 September 2026 and does not retrospectively reopen S28 Youth Shield Round of 32 decisions from 12 September 2026.
 
