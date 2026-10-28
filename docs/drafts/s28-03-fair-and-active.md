@@ -1,0 +1,61 @@
+# Keeping Top 100 fair and active: squad limits, Gold and logins
+
+Some of Top 100's rules only work if someone notices when they're broken. Until now, that someone was usually a sharp-eyed manager on WhatsApp or Discord, or nobody at all.
+
+Soccer Manager Sync changes that. Every sync gives us an up-to-date picture of the whole game world, so we can check a lot of things automatically, and tell people quickly when something needs fixing.
+
+## The 50-player squad limit
+
+[Rule 4.1](https://smtop100.blog/rules/) has always said a club may have at most **50 players**, and loans count both ways (a player you've loaned out still counts). The limit applies **at all times**, including between transfer turns. Soccer Manager's own squad setting doesn't enforce it.
+
+This season showed why that matters. Olympique Lyonnais bought two young players who arrived on the same turn and took the squad to 51. A player was sold soon after to bring it back to 50, but the limit had already been broken. Another club went over and nobody noticed at all.
+
+So squad sizes are now checked on every sync:
+
+- **If a sync counts 51 or more players**, the club's manager gets an alert straight away, and so does the admin team.
+- **Anyone can report a squad over 50.** Managers can do it from **Squad & Transfers** in [Manager Portal](https://manager.smtop100.blog/squad). The admin team checks every report, and the club's manager only hears about it if the report is upheld.
+- **If a club went over the limit while it had no manager**, for example with loans taken while it was vacant, that's not held against the manager appointed afterwards. They still need to bring the squad back within the limit.
+
+## What happens after a breach
+
+The Season 28 case set the standard sanction:
+
+- **A one-month transfer ban.** During the ban the only deals allowed are cash sales to clubs outside Top 100.
+- **The signing that took the squad over 50 must be sold** for cash to a club outside Top 100 once that player's own Soccer Manager transfer ban ends, and the club can't bid for them again.
+
+(Soccer Manager bans a player from moving again for a week after a sale to an outside club, and for a month after a move between Top 100 clubs. That's why a required sale has to wait.)
+
+These follow-ups are tracked too. The admin team is told when a squad is back within the limit, when a banned club makes a deal it shouldn't, and when a required sale has been made, or made the wrong way.
+
+## Gold membership and logins
+
+Soccer Manager removes a manager after **ten days without logging in**. By the time anyone notices, it's usually too late, and the club is suddenly without a manager.
+
+So we're adding alerts for two things:
+
+- **Logins.** If a manager hasn't logged in for 7 days, they get a reminder and the admin team gets a heads-up, three days before Soccer Manager would act. At 10 days, the admin team is told.
+- **Gold membership.** Ideally every Top 100 manager is a Gold member. Managers and the admin team will hear when a manager's membership changes.
+
+These are switched on once we've confirmed which parts of Soccer Manager's data are reliable, so you may not see them straight away.
+
+## Who gets the alerts
+
+Alerts go to the Top 100 admin team: **David Marsden, Regan Thompson (Hertha BSC), Hugo Costa (Celtic) and Chris Meida (CSKA Moskva)**. They all now have an alerts page showing squad limits, follow-ups, Gold and logins in one place.
+
+Alerts to managers come through your [Manager Portal account](https://manager.smtop100.blog/), as reminders do, so make sure you've claimed yours. Compliance alerts can't be switched off.
+
+## The live table in Stats & History
+
+One more thing Sync has made possible. At the end of every season, the league tables used to be copied by hand into the spreadsheet behind [Stats & History](https://archive.smtop100.blog/).
+
+Now Stats & History shows **the current season live**, straight from the latest sync, alongside the full history. Titles, promotions and sackings only count once all 38 games are played, so a club top of the table with three games left doesn't get a title it hasn't won yet. At the end of the season, the final table can be downloaded ready for the history sheet, so nothing is copied by hand.
+
+The same data, together with each squad's strength, feeds the reappointment and appointment scores and the Manager of the Season nominations.
+
+## Rules first, tools second
+
+None of this changes the rules themselves. The squad limit, activity expectations and Soccer Manager's own login rules were already there. What's changed is that they're now checked the same way for everyone, and quickly enough to fix things before they turn into sanctions.
+
+If you spot something that doesn't look right, a missing alert or one that shouldn't have been sent, tell the admin team.
+
+Previous: [how vacancies and appointments work](#).
