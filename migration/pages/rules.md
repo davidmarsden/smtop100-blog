@@ -58,10 +58,30 @@ Formal historic manager contracts are no longer the governing system. Performanc
 
 The bottom three managers in each division are subject to sacking at the end of the season. The administrators review each case. Sacking is not automatic, and reappointment is common.
 
-- **Managers who took over during the season are always reappointed.** That season's finish never counts against them, here or in an application (3.2).
-- Other managers may be reappointed. The administrators weigh activity, contribution to Top 100 (competitions, the transfer market, the community), how the club did against the strength of its squad, and whether anyone suitable has applied to replace them.
+**Always reappointed.** A manager who took over during the season is always reappointed. That season's finish never counts against them, here or in an application (3.2).
 
-A sacked manager may apply for vacancies in a lower division, or prove themselves in Top 100 Regen.
+**Always sacked.** A manager who Soccer Manager removes for inactivity (ten days without logging in) is not reappointed.
+
+**Review.** Every other bottom-three manager is scored out of 100, from the Stats & History record, the current league table and the administrators' assessment. Everyone reviewed finished in the bottom three, so the review asks how the club did against its squad, not where it finished:
+
+| | Points | What counts |
+|---|---|---|
+| Result against squad strength | 30 | This season's finish against the position the squad's strength predicted |
+| Track record | 20 | Finishes within the division and results against squad strength in the last two seasons (15), and honours (5). A manager new to Top 100 gets half marks |
+| Activity and contribution | 30 | As in 3.2: Top 100 competitions, dealings with other Top 100 managers in the transfer market, squad building, and community contribution |
+| Record and conduct | 20 | Earlier bottom-three finishes in the last five seasons (10, minus 5 for each), seasons at the club (5) and disciplinary record (5) |
+
+**Outcome.**
+
+- **55 or more: reappointed.**
+- **40 to 54: another club.** The club goes into the vacancy round (3.2) and the manager may apply for it and for any other vacancy. If nobody who applies for it scores higher than the manager, the manager is reappointed. Otherwise the manager is offered the clubs still open, including those left vacant by managers who moved.
+- **Below 40: a break from Top 100.** The manager may manage in Top 100 Regen, and may apply for vacancies again from the following season.
+
+Where a score is within five points of 55 or 40, the administrators vote, each recording a reason. An administrator does not vote on their own case. A manager may also ask to move or to step away whatever their score; the request is recorded with the decision.
+
+**Order.** The bottom-three review comes first, so that every vacancy is known before applications close.
+
+**Record.** As in 3.2, the administrators publish each manager's score and breakdown, the outcome, and the reason for any decision that departs from the scores.
 
 ### 3.2 Club vacancies and manager appointments
 
@@ -85,7 +105,7 @@ A bottom-three finish and a big step up do not rule anyone out. They are weighed
 | Honours | 15 | Division 1 titles (6), other titles (3) and promotions (2), up to 15 |
 | Record at the club's level | 10 | Seasons in the vacant club's division or higher, and top-half finishes there |
 | Stability and conduct | 20 | Seasons at the current club (5), bottom-three finishes in the last five seasons including this one (10, minus 3 for each, not counting seasons taken over part-way through) and disciplinary record (5) |
-| Activity and contribution | 20 | Top 100 competitions such as the Youth Cup and World Club Cup (8), dealings with other managers in the transfer market (6), and community contribution (6) |
+| Activity and contribution | 20 | Top 100 competitions such as the Youth Cup and World Club Cup (6), dealings with other Top 100 managers in the transfer market (6), squad building: the squad's rise in the strength rankings under the manager (4), and community contribution (4) |
 
 A finishing position counts both within the division and across the 100-club pyramid. Squad strength uses the Stats & History ETOT measure.
 
@@ -210,7 +230,7 @@ When a substantive rule changes, the effective date should be clear. Historical 
 
 ### Change record
 
-**28 October 2026 — Sackings, vacancies, appointments and squad limit breaches.** Section 3.1 records how bottom-three sackings work in practice: each case is reviewed, reappointment is common, and a manager who took over during the season is always reappointed. Section 3.2 sets out how vacant clubs are filled, with published eligibility rules, a scored assessment and a recorded decision; it first applies to the vacancies at the end of S28. Section 4.1 records the sanction applied to squad limit breaches in S28 (Olympique Lyonnais, 19 October 2026), and that players frozen by a transfer ban do not count towards the limit.
+**28 October 2026 — Sackings, vacancies, appointments and squad limit breaches.** Section 3.1 records how bottom-three sackings work in practice: each case is reviewed and scored, reappointment is common, and a manager who took over during the season is always reappointed. The review leads to one of three outcomes: reappointment, another club through the vacancy round, or a break from Top 100. Section 3.2 sets out how vacant clubs are filled, with published eligibility rules, a scored assessment and a recorded decision; it first applies to the vacancies at the end of S28. Section 4.1 records the sanction applied to squad limit breaches in S28 (Olympique Lyonnais, 19 October 2026), and that players frozen by a transfer ban do not count towards the limit.
 
 **13 September 2026 — Youth Cup fixture arrangements.** The Youth Cup arranging procedure was updated because changes to Soccer Manager mean Wednesday can now be the last opportunity to arrange a Saturday friendly. The obsolete instruction for the away manager to wait until 24 hours before kick-off was replaced by the Sunday-to-Wednesday procedure in the current Youth Cup rules. The clarification applies from 13 September 2026 and does not retrospectively reopen S28 Youth Shield Round of 32 decisions from 12 September 2026.
 
