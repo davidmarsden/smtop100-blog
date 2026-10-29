@@ -66,7 +66,7 @@ A score below the line (45 in Divisions 1 and 2, 40 below) counts as one clear a
 
 That keeps votes to the cases that need them. **No clear and obvious error means reappointed, with no vote.** The admin team only votes on a second chance (one error) or a score close to the line.
 
-![The admin team's review list: each club's score, and whether it's clear or needs a vote, most at risk first](images/s28/s28-admin-summary.png)
+![The admin team's review list: each club's score, and whether it's clear or needs a vote, most at risk first](https://smtop100.blog/uploads/2026/s28-admin-summary.png)
 
 *The admin team's review list, most at risk first. Clubs, managers and scores here are examples.*
 
@@ -76,7 +76,7 @@ A manager who isn't reappointed (other than for the three requirements above) ca
 
 You can also ask to move, or to take a break, whatever your score. That request is recorded with the decision. You tell the admin team in Manager Portal, under Appointments, and you can change your answer until the decision is made.
 
-![Manager Portal: a bottom-three manager tells the admin team they want to stay](images/s28/s28-review-card.png)
+![Manager Portal: a bottom-three manager tells the admin team they want to stay](https://smtop100.blog/uploads/2026/s28-review-card.png)
 
 *Manager Portal, Appointments. Example data.*
 
@@ -88,7 +88,7 @@ Top 100 aims to have 100 managers, but it isn't a requirement. When a club in Di
 
 For every bottom-three manager, we'll publish the errors (if any), the score and its breakdown, and the outcome. Any decision that departs from them has to say why. Where the admin team voted, every vote and its reason is published too.
 
-![Published review decisions: the outcome, the score and its breakdown, and each admin's vote and reason](images/s28/s28-public-reviews.png)
+![Published review decisions: the outcome, the score and its breakdown, and each admin's vote and reason](https://smtop100.blog/uploads/2026/s28-public-reviews.png)
 
 *Published decisions at tournaments.smtop100.blog/appointments. Example data.*
 

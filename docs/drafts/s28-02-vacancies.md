@@ -16,7 +16,7 @@ Current Top 100 managers apply by naming the clubs they want, in order. Applying
 
 You apply in Manager Portal, under Appointments: tick the clubs, put them in order, and add a note if you like. You'll get a notification when vacancies open, and you can change or withdraw your application until it closes.
 
-![Manager Portal: applying for two vacant clubs in order of preference](images/s28/s28-apply.png)
+![Manager Portal: applying for two vacant clubs in order of preference](https://smtop100.blog/uploads/2026/s28-apply.png)
 
 *Manager Portal, Appointments. Example clubs.*
 
@@ -61,7 +61,7 @@ Each applicant is matched with the club they most want that is still open, and t
 
 For each vacancy, we publish the applicants, every score with its breakdown, and the decision. If the decision departs from the scores, we say why.
 
-![A published appointment: the applicants' scores and breakdowns, the decision and the admin team's reasons](images/s28/s28-public-appointments.png)
+![A published appointment: the applicants' scores and breakdowns, the decision and the admin team's reasons](https://smtop100.blog/uploads/2026/s28-public-appointments.png)
 
 *Published decisions at tournaments.smtop100.blog/appointments. Example data.*
 

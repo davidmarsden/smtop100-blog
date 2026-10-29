@@ -16,6 +16,10 @@ So squad sizes are now checked on every sync:
 - **Anyone can report a squad over 50.** Managers can do it from **Squad & Transfers** in [Manager Portal](https://manager.smtop100.blog/squad). The admin team checks every report, and the club's manager only hears about it if the report is upheld.
 - **If a club went over the limit while it had no manager**, for example with loans taken while it was vacant, that's not held against the manager appointed afterwards. They still need to bring the squad back within the limit.
 
+![Manager Portal, Squad & Transfers: reporting a Top 100 club seen with 51 players](https://smtop100.blog/uploads/2026/s28-squad-report.png)
+
+*Reporting a squad over 50 in Manager Portal, under Squad & Transfers. Example club.*
+
 ## What happens after a breach
 
 The Season 28 case set the standard sanction:
@@ -26,6 +30,10 @@ The Season 28 case set the standard sanction:
 (Soccer Manager bans a player from moving again for a week after a sale to an outside club, and for a month after a move between Top 100 clubs. That's why a required sale has to wait.)
 
 These follow-ups are tracked too. The admin team is told when a squad is back within the limit, when a banned club makes a deal it shouldn't, and when a required sale has been made, or made the wrong way.
+
+![The admin team's squad limit review: a club counted at 51 players on two syncs, with Uphold and Dismiss](https://smtop100.blog/uploads/2026/s28-squad-review.png)
+
+*A breach waiting for the admin team's decision, with the evidence from each sync. Example data.*
 
 ## Gold membership and logins
 
@@ -40,13 +48,21 @@ So we're adding alerts for two things:
 
 Alerts go to the Top 100 admin team: **David Marsden, Regan Thompson (Hertha BSC), Hugo Costa (Celtic) and Chris Meida (CSKA Moskva)**. They all now have an alerts page showing squad limits, follow-ups, Gold and logins in one place.
 
+![Gold and login alerts: Gold ending in 7 days, and a manager not logged in for 7 days](https://smtop100.blog/uploads/2026/s28-alerts.png)
+
+![Gold and logins: each manager's Gold status, days of Gold left, last login and number of game worlds](https://smtop100.blog/uploads/2026/s28-gold-logins.png)
+
+*The admin team's alerts page. Clubs and managers here are examples.*
+
 Alerts to managers come through your [Manager Portal account](https://manager.smtop100.blog/), as reminders do, so make sure you've claimed yours. Compliance alerts can't be switched off.
 
 ## The live table in Stats & History
 
 One more thing Sync has made possible. At the end of every season, the league tables used to be copied by hand into the spreadsheet behind [Stats & History](https://archive.smtop100.blog/).
 
-Now Stats & History shows **the current season live**, straight from the latest sync, alongside the full history. Titles, promotions and sackings only count once all 38 games are played, so a club top of the table with three games left doesn't get a title it hasn't won yet. At the end of the season, the final table can be downloaded ready for the history sheet, so nothing is copied by hand.
+Now Stats & History shows **the current season live**, straight from the latest sync, alongside the full history.
+
+<!-- Screenshot to add: the live S28 table from archive.smtop100.blog (real data, so take it from the live site). --> Titles, promotions and sackings only count once all 38 games are played, so a club top of the table with three games left doesn't get a title it hasn't won yet. At the end of the season, the final table can be downloaded ready for the history sheet, so nothing is copied by hand.
 
 The same data, together with each squad's strength, feeds the reappointment and appointment scores and the Manager of the Season nominations.
 
