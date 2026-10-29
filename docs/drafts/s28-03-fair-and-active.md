@@ -2,7 +2,7 @@
 
 Some of Top 100's rules only work if someone notices when they're broken. Until now, that someone was usually a sharp-eyed manager on WhatsApp or Discord, or nobody at all.
 
-That's changing. The admin team now regularly updates Top 100's records from Soccer Manager by hand, and uses AI to crunch the numbers. That gives us an up-to-date picture of the whole game world, so we can check a lot of things without waiting for a report, and tell people quickly when something needs fixing. ([How we check](https://smtop100.blog/rules/#how-we-check) in the rules explains it.)
+That's changing. The admin team now regularly updates Top 100's records, and uses AI to crunch the numbers. That gives us an up-to-date picture of the whole game world, so we can check a lot of things without waiting for a report, and tell people quickly when something needs fixing. ([How we check](https://smtop100.blog/rules/#how-we-check) in the rules explains it.)
 
 ## The 50-player squad limit
 
@@ -10,7 +10,7 @@ That's changing. The admin team now regularly updates Top 100's records from Soc
 
 This season showed why that matters. Olympique Lyonnais bought two young players who arrived on the same turn and took the squad to 51. A player was sold soon after to bring it back to 50, but the limit had already been broken. Another club went over and nobody noticed at all.
 
-![Rule 4.1, Squad limit: 50 players at all times, the usual sanction for going over, and how squads are checked and reported](https://smtop100.blog/uploads/2026/s28-rules-41.png)
+![Rule 4.1, Squad limit: at most 50 players at all times, the usual sanction for going over, and how squads are checked and reported](https://smtop100.blog/uploads/2026/rules-41.png)
 
 *Rule 4.1 in the [Top 100 rules](https://smtop100.blog/rules/#41-squad-limit).*
 
@@ -35,7 +35,7 @@ The Season 28 case set the standard sanction:
 
 These follow-ups are tracked too. The admin team is told when a squad is back within the limit, when a banned club makes a deal it shouldn't, and when a required sale has been made, or made the wrong way.
 
-![The admin team's squad limit review: a club counted at 51 players on two updates, with Uphold and Dismiss](https://smtop100.blog/uploads/2026/s28-squad-review.png)
+![The admin team's squad limit review: Eastvale United counted at 51 players on the 28 and 29 October updates, transfers suggesting it first went over on 27 October, with Uphold and Dismiss](https://smtop100.blog/uploads/2026/squad-review.png)
 
 *A breach waiting for the admin team's decision, with the evidence from each update. Example data.*
 

@@ -241,7 +241,7 @@ Use **[Contact / Join](/contact/)** or email **admin@smtop100.blog** if a matter
 
 ### How we check
 
-Some rules can be checked without waiting for a report. The administrators regularly update Top 100's records from Soccer Manager by hand: league tables, squads, transfers, Gold membership and logins. AI is then used to crunch the numbers, for example to spot squads over the limit, Gold that is running out and long absences, and to prepare the figures for end-of-season reviews and appointments.
+Some rules can be checked without waiting for a report. Admin regularly update Top 100's records: league tables, squads, transfers, Gold membership and logins. AI is then used to crunch the numbers, for example to spot squads over the limit, expired Gold and long absences, and to prepare the figures for end-of-season reviews and appointments.
 
 When a check finds something, the administrators are told, and so is the manager concerned where it affects them. The checks only flag things; every decision is made by the administrators, as these rules set out.
 
