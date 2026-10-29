@@ -1,6 +1,6 @@
 # Rules
 
-*Last updated: 28 October 2026*
+*Last updated: 29 October 2026*
 
 Top 100 is competitive, but it is also a community. The rules exist to keep the game world fair, active and enjoyable — not to create administration for its own sake.
 
@@ -147,7 +147,7 @@ Going over 50, even briefly, normally means:
 - a one-month transfer ban, during which the only permitted deals are cash sales to clubs outside Top 100;
 - the signing that took the squad over 50 is sold for cash to a club outside Top 100 once that player's own transfer ban ends, and the club may not bid for them again.
 
-Squad sizes are checked automatically from Soccer Manager Sync, and managers are told when a sync finds their squad over the limit. Managers and administrators can also report a squad seen over the limit (Manager Portal, Squad & Transfers); the administrators check each report, and the club's manager is told if it is upheld. A breach that began while a club had no manager, such as loans taken while it was vacant, is not held against the manager who is then appointed, though they must bring the squad back within the limit. Players signed while a club had no manager, if frozen by a transfer ban, do not count towards the limit; they are sold once the ban ends.
+Squad sizes are checked regularly (see [How we check](#how-we-check)), and managers are told when a check finds their squad over the limit. Managers and administrators can also report a squad seen over the limit (Manager Portal, Squad & Transfers); the administrators check each report, and the club's manager is told if it is upheld. A breach that began while a club had no manager, such as loans taken while it was vacant, is not held against the manager who is then appointed, though they must bring the squad back within the limit. Players signed while a club had no manager, if frozen by a transfer ban, do not count towards the limit; they are sold once the ban ends.
 
 ### 4.2 Loans and the squad limit
 
@@ -239,6 +239,12 @@ Reports should be made in good faith. The purpose is to protect the game world, 
 
 Use **[Contact / Join](/contact/)** or email **admin@smtop100.blog** if a matter needs administrator attention.
 
+### How we check
+
+Some rules can be checked without waiting for a report. The administrators regularly update Top 100's records from Soccer Manager by hand: league tables, squads, transfers, Gold membership and logins. AI is then used to crunch the numbers, for example to spot squads over the limit, Gold that is running out and long absences, and to prepare the figures for end-of-season reviews and appointments.
+
+When a check finds something, the administrators are told, and so is the manager concerned where it affects them. The checks only flag things; every decision is made by the administrators, as these rules set out.
+
 ## 9. Rule changes and community decisions
 
 Top 100 has always combined administration with manager democracy.
@@ -251,7 +257,7 @@ When a substantive rule changes, the effective date should be clear. Historical 
 
 ### Change record
 
-**28 October 2026 — Sackings, vacancies, appointments and squad limit breaches.** Section 3.1 records how bottom-three sackings work in practice: each case is reviewed and scored, reappointment is common, and a manager who took over during the season is reappointed unless inactive. Reviews in Divisions 3 to 5 are usually routine (reappointed unless the manager asks to move or step away), with full reviews where there is reason. Reappointment follows the VAR standard from S25: a manager is reappointed unless reappointing them would be a clear and obvious error, with the benefit of the doubt; a second chance is the administrators' decision. Gold membership and regular logins are required, and Gold membership is required to apply for a vacancy. Section 3.2 sets out how vacant clubs are filled, with published eligibility rules, a scored assessment (activity includes focus: managing in no more than three Soccer Manager game worlds in all) and a recorded decision; it first applies to the vacancies at the end of S28. Section 4.1 records the sanction applied to squad limit breaches in S28 (Olympique Lyonnais, 19 October 2026), and that players frozen by a transfer ban do not count towards the limit.
+**28 October 2026 — Sackings, vacancies, appointments and squad limit breaches.** Section 3.1 records how bottom-three sackings work in practice: each case is reviewed and scored, reappointment is common, and a manager who took over during the season is reappointed unless inactive. Reviews in Divisions 3 to 5 are usually routine (reappointed unless the manager asks to move or step away), with full reviews where there is reason. Reappointment follows the VAR standard from S25: a manager is reappointed unless reappointing them would be a clear and obvious error, with the benefit of the doubt; a second chance is the administrators' decision. Gold membership and regular logins are required, and Gold membership is required to apply for a vacancy. Section 3.2 sets out how vacant clubs are filled, with published eligibility rules, a scored assessment (activity includes focus: managing in no more than three Soccer Manager game worlds in all) and a recorded decision; it first applies to the vacancies at the end of S28. Section 4.1 records the sanction applied to squad limit breaches in S28 (Olympique Lyonnais, 19 October 2026), and that players frozen by a transfer ban do not count towards the limit. Section 8 explains how the administrators check the rules (How we check).
 
 **13 September 2026 — Youth Cup fixture arrangements.** The Youth Cup arranging procedure was updated because changes to Soccer Manager mean Wednesday can now be the last opportunity to arrange a Saturday friendly. The obsolete instruction for the away manager to wait until 24 hours before kick-off was replaced by the Sunday-to-Wednesday procedure in the current Youth Cup rules. The clarification applies from 13 September 2026 and does not retrospectively reopen S28 Youth Shield Round of 32 decisions from 12 September 2026.
 

@@ -2,7 +2,7 @@
 
 Some of Top 100's rules only work if someone notices when they're broken. Until now, that someone was usually a sharp-eyed manager on WhatsApp or Discord, or nobody at all.
 
-Soccer Manager Sync changes that. Every sync gives us an up-to-date picture of the whole game world, so we can check a lot of things automatically, and tell people quickly when something needs fixing.
+That's changing. The admin team now regularly updates Top 100's records from Soccer Manager by hand, and uses AI to crunch the numbers. That gives us an up-to-date picture of the whole game world, so we can check a lot of things without waiting for a report, and tell people quickly when something needs fixing. ([How we check](https://smtop100.blog/rules/#how-we-check) in the rules explains it.)
 
 ## The 50-player squad limit
 
@@ -10,9 +10,9 @@ Soccer Manager Sync changes that. Every sync gives us an up-to-date picture of t
 
 This season showed why that matters. Olympique Lyonnais bought two young players who arrived on the same turn and took the squad to 51. A player was sold soon after to bring it back to 50, but the limit had already been broken. Another club went over and nobody noticed at all.
 
-So squad sizes are now checked on every sync:
+So squad sizes are now checked at every update:
 
-- **If a sync counts 51 or more players**, the club's manager gets an alert straight away, and so does the admin team.
+- **If an update counts 51 or more players**, the club's manager gets an alert straight away, and so does the admin team.
 - **Anyone can report a squad over 50.** Managers can do it from **Squad & Transfers** in [Manager Portal](https://manager.smtop100.blog/squad). The admin team checks every report, and the club's manager only hears about it if the report is upheld.
 - **If a club went over the limit while it had no manager**, for example with loans taken while it was vacant, that's not held against the manager appointed afterwards. They still need to bring the squad back within the limit.
 
@@ -31,9 +31,9 @@ The Season 28 case set the standard sanction:
 
 These follow-ups are tracked too. The admin team is told when a squad is back within the limit, when a banned club makes a deal it shouldn't, and when a required sale has been made, or made the wrong way.
 
-![The admin team's squad limit review: a club counted at 51 players on two syncs, with Uphold and Dismiss](https://smtop100.blog/uploads/2026/s28-squad-review.png)
+![The admin team's squad limit review: a club counted at 51 players on two updates, with Uphold and Dismiss](https://smtop100.blog/uploads/2026/s28-squad-review.png)
 
-*A breach waiting for the admin team's decision, with the evidence from each sync. Example data.*
+*A breach waiting for the admin team's decision, with the evidence from each update. Example data.*
 
 ## Gold membership and logins
 
@@ -42,7 +42,7 @@ Soccer Manager removes a manager after **ten days without logging in**. By the t
 So we're adding alerts for two things:
 
 - **Logins.** If a manager hasn't logged in for 7 days, they get a reminder and the admin team gets a heads-up, three days before Soccer Manager would act. At 10 days, the admin team is told. Irregular logins also count as inactivity at the end-of-season review: two or more spells of 7 days or more without logging in during a season means a manager isn't reappointed.
-- **Gold membership.** Every Top 100 manager must be a Gold member, including anyone applying for a club or being reappointed after a bottom-three finish. Sync reads how many days of Gold each manager has left, so you'll get a reminder **14 days and again 7 days before your Gold runs out**, in time to renew, and the admin team will hear if it lapses.
+- **Gold membership.** Every Top 100 manager must be a Gold member, including anyone applying for a club or being reappointed after a bottom-three finish. We keep an eye on Gold membership, so you'll get a reminder **14 days and again 7 days before your Gold runs out**, in time to renew, and the admin team will hear if it lapses.
 
 ## Who gets the alerts
 
@@ -58,13 +58,13 @@ Alerts to managers come through your [Manager Portal account](https://manager.sm
 
 ## The live table in Stats & History
 
-One more thing Sync has made possible. At the end of every season, the league tables used to be copied by hand into the spreadsheet behind [Stats & History](https://archive.smtop100.blog/).
+One more thing the regular updates have made possible. At the end of every season, the league tables used to be copied by hand into the spreadsheet behind [Stats & History](https://archive.smtop100.blog/).
 
-Now Stats & History shows **the current season live**, straight from the latest sync, alongside the full history.
+Now Stats & History shows **the current season live**, straight from the latest update, alongside the full history.
 
 ![Stats & History: the live Season 28 Division 1 table after 35 of 38 games, FC Porto top on 83 points](https://smtop100.blog/uploads/2026/screenshot-20261029-131255.png)
 
-*Season 28 in Stats & History, live from the latest sync.* Titles, promotions and sackings only count once all 38 games are played, so a club top of the table with three games left doesn't get a title it hasn't won yet. At the end of the season, the final table can be downloaded ready for the history sheet, so nothing is copied by hand.
+*Season 28 in Stats & History, live from the latest update.* Titles, promotions and sackings only count once all 38 games are played, so a club top of the table with three games left doesn't get a title it hasn't won yet. At the end of the season, the final table can be downloaded ready for the history sheet, so nothing is copied by hand.
 
 The same data, together with each squad's strength, feeds the reappointment and appointment scores and the Manager of the Season nominations.
 
