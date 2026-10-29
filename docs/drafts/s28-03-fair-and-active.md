@@ -10,6 +10,10 @@ Soccer Manager Sync changes that. Every sync gives us an up-to-date picture of t
 
 This season showed why that matters. Olympique Lyonnais bought two young players who arrived on the same turn and took the squad to 51. A player was sold soon after to bring it back to 50, but the limit had already been broken. Another club went over and nobody noticed at all.
 
+![Rule 4.1, Squad limit: 50 players at all times, the usual sanction for going over, and how squads are checked and reported](https://smtop100.blog/uploads/2026/s28-rules-41.png)
+
+*Rule 4.1 in the [Top 100 rules](https://smtop100.blog/rules/#41-squad-limit).*
+
 So squad sizes are now checked on every sync:
 
 - **If a sync counts 51 or more players**, the club's manager gets an alert straight away, and so does the admin team.

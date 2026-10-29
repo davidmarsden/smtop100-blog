@@ -96,4 +96,8 @@ The aim is simple: the same rules for everyone, decided quickly, and with the re
 
 The rule itself is [section 3.1](https://smtop100.blog/rules/#31-sackings-and-reappointment), and every change is listed in the rules' [change record](https://smtop100.blog/rules/#change-record).
 
+![Rule 3.1, Sackings and reappointment: the VAR standard, never reappointed, clear and obvious errors and outcomes, including routine reviews in Divisions 3 to 5](https://smtop100.blog/uploads/2026/s28-rules-31.png)
+
+*Rule 3.1 in the [Top 100 rules](https://smtop100.blog/rules/#31-sackings-and-reappointment).*
+
 Next: [how vacancies and appointments work](#).

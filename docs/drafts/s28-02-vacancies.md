@@ -73,4 +73,8 @@ We looked at adding a public confirmation vote and decided against it for now: a
 
 The rule itself is [section 3.2](https://smtop100.blog/rules/#32-club-vacancies-and-manager-appointments), and every change is listed in the rules' [change record](https://smtop100.blog/rules/#change-record).
 
+![Rule 3.2, Club vacancies and manager appointments: applying in order of preference, and the three reasons an applicant isn't eligible, including not being a Gold member](https://smtop100.blog/uploads/2026/s28-rules-32.png)
+
+*Rule 3.2 in the [Top 100 rules](https://smtop100.blog/rules/#32-club-vacancies-and-manager-appointments) (the scoring table follows it there).*
+
 Previous: [reappoint unless there's a clear and obvious error](#). Next: [keeping Top 100 fair and active](#).
