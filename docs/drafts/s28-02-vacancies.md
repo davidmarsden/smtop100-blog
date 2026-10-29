@@ -2,7 +2,7 @@
 
 Every summer a few of Top 100's biggest clubs need a new manager. Someone leaves Soccer Manager, someone resigns, someone isn't reappointed. Then the question everyone asks is who gets the job, and why them?
 
-Until now the honest answer has been that the admins talked it over. That usually produced sensible decisions, but it was never clear how, and it made it easy for anyone who missed out to suspect favouritism. So appointments now follow a published process too, in [section 3.2 of the rules](https://smtop100.blog/rules/).
+Until now the honest answer has been that the admins talked it over. That usually produced sensible decisions, but it was never clear how, and it made it easy for anyone who missed out to suspect favouritism. So appointments now follow a published process too, in [section 3.2 of the rules](https://smtop100.blog/rules/#32-club-vacancies-and-manager-appointments).
 
 ## 1. Vacancies are published
 
@@ -70,5 +70,7 @@ That is the point of the whole process. Nobody has to wonder why someone else go
 ## What about the Manager Panel and community votes?
 
 We looked at adding a public confirmation vote and decided against it for now: appointments shouldn't turn into popularity contests. A Manager Panel may come back in future through Manager Portal accounts. For now, the scores are published, the admin team decides the close calls, and the reasons are public.
+
+The rule itself is [section 3.2](https://smtop100.blog/rules/#32-club-vacancies-and-manager-appointments), and every change is listed in the rules' [change record](https://smtop100.blog/rules/#change-record).
 
 Previous: [reappoint unless there's a clear and obvious error](#). Next: [keeping Top 100 fair and active](#).

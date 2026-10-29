@@ -4,7 +4,7 @@ Every season ends the same way for fifteen managers: in the bottom three of thei
 
 In practice, most of them stay. Top 100 has always reappointed far more bottom-three managers than it has sacked. But how that decision was made has never been written down properly, and that has caused real problems: long arguments, decisions that took days, and the feeling that it depended on who you knew.
 
-So from the end of Season 28, it is written down. It is in the rules, in [section 3.1](https://smtop100.blog/rules/), and it works the same way for everyone.
+So from the end of Season 28, it is written down. It is in the rules, in [section 3.1](https://smtop100.blog/rules/#31-sackings-and-reappointment), and it works the same way for everyone.
 
 ## The VAR standard
 
@@ -93,5 +93,7 @@ For every bottom-three manager, we'll publish the errors (if any), the score and
 *Published decisions at tournaments.smtop100.blog/appointments. Example data.*
 
 The aim is simple: the same rules for everyone, decided quickly, and with the reasons visible.
+
+The rule itself is [section 3.1](https://smtop100.blog/rules/#31-sackings-and-reappointment), and every change is listed in the rules' [change record](https://smtop100.blog/rules/#change-record).
 
 Next: [how vacancies and appointments work](#).

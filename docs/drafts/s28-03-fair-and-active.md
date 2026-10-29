@@ -6,7 +6,7 @@ Soccer Manager Sync changes that. Every sync gives us an up-to-date picture of t
 
 ## The 50-player squad limit
 
-[Rule 4.1](https://smtop100.blog/rules/) has always said a club may have at most **50 players**, and loans count both ways (a player you've loaned out still counts). The limit applies **at all times**, including between transfer turns. Soccer Manager's own squad setting doesn't enforce it.
+[Rule 4.1](https://smtop100.blog/rules/#41-squad-limit) has always said a club may have at most **50 players**, and loans count both ways (a player you've loaned out still counts). The limit applies **at all times**, including between transfer turns. Soccer Manager's own squad setting doesn't enforce it.
 
 This season showed why that matters. Olympique Lyonnais bought two young players who arrived on the same turn and took the squad to 51. A player was sold soon after to bring it back to 50, but the limit had already been broken. Another club went over and nobody noticed at all.
 
@@ -62,14 +62,16 @@ One more thing Sync has made possible. At the end of every season, the league ta
 
 Now Stats & History shows **the current season live**, straight from the latest sync, alongside the full history.
 
-<!-- Screenshot to add: the live S28 table from archive.smtop100.blog (real data, so take it from the live site). --> Titles, promotions and sackings only count once all 38 games are played, so a club top of the table with three games left doesn't get a title it hasn't won yet. At the end of the season, the final table can be downloaded ready for the history sheet, so nothing is copied by hand.
+![Stats & History: the live Season 28 Division 1 table after 35 of 38 games, FC Porto top on 83 points](https://smtop100.blog/uploads/2026/screenshot-20261029-131255.png)
+
+*Season 28 in Stats & History, live from the latest sync.* Titles, promotions and sackings only count once all 38 games are played, so a club top of the table with three games left doesn't get a title it hasn't won yet. At the end of the season, the final table can be downloaded ready for the history sheet, so nothing is copied by hand.
 
 The same data, together with each squad's strength, feeds the reappointment and appointment scores and the Manager of the Season nominations.
 
 ## Rules first, tools second
 
-Most of this doesn't change the rules themselves. The squad limit, activity expectations and Soccer Manager's own login rules were already there. The new requirements are Gold membership and regular logins for reappointment ([rule 3.1](https://smtop100.blog/rules/)). What's changed is that everything is now checked the same way for everyone, and quickly enough to fix things before they turn into sanctions.
+Most of this doesn't change the rules themselves. The squad limit, activity expectations and Soccer Manager's own login rules were already there. The new requirements are Gold membership and regular logins for reappointment ([rule 3.1](https://smtop100.blog/rules/#31-sackings-and-reappointment)). What's changed is that everything is now checked the same way for everyone, and quickly enough to fix things before they turn into sanctions.
 
-If you spot something that doesn't look right, a missing alert or one that shouldn't have been sent, tell the admin team.
+If you spot something that doesn't look right, a missing alert or one that shouldn't have been sent, tell the admin team. The rules are [sections 3.1 and 4.1](https://smtop100.blog/rules/#31-sackings-and-reappointment), and every change is listed in the rules' [change record](https://smtop100.blog/rules/#change-record).
 
 Previous: [how vacancies and appointments work](#).
