@@ -62,7 +62,7 @@ One more thing Sync has made possible. At the end of every season, the league ta
 
 Now Stats & History shows **the current season live**, straight from the latest sync, alongside the full history.
 
-![Stats & History: the live Season 28 Division 1 table after 35 of 38 games, FC Porto top on 83 points](https://smtop100.blog/uploads/2026/screenshot-20261029-131255.png)
+![Stats & History: the live Season 28 Division 1 table after 35 of 38 games, FC Porto top on 83 points](https://smtop100.blog/uploads/2026/screenshot-20261029-132946.png)
 
 *Season 28 in Stats & History, live from the latest sync.* Titles, promotions and sackings only count once all 38 games are played, so a club top of the table with three games left doesn't get a title it hasn't won yet. At the end of the season, the final table can be downloaded ready for the history sheet, so nothing is copied by hand.
 
