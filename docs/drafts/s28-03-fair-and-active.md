@@ -10,6 +10,10 @@ That's changing. The admin team now regularly updates Top 100's records from Soc
 
 This season showed why that matters. Olympique Lyonnais bought two young players who arrived on the same turn and took the squad to 51. A player was sold soon after to bring it back to 50, but the limit had already been broken. Another club went over and nobody noticed at all.
 
+![Rule 4.1, Squad limit: 50 players at all times, the usual sanction for going over, and how squads are checked and reported](https://smtop100.blog/uploads/2026/s28-rules-41.png)
+
+*Rule 4.1 in the [Top 100 rules](https://smtop100.blog/rules/#41-squad-limit).*
+
 So squad sizes are now checked at every update:
 
 - **If an update counts 51 or more players**, the club's manager gets an alert straight away, and so does the admin team.
@@ -62,7 +66,7 @@ One more thing the regular updates have made possible. At the end of every seaso
 
 Now Stats & History shows **the current season live**, straight from the latest update, alongside the full history.
 
-![Stats & History: the live Season 28 Division 1 table after 35 of 38 games, FC Porto top on 83 points](https://smtop100.blog/uploads/2026/screenshot-20261029-131255.png)
+![Stats & History: the live Season 28 Division 1 table after 35 of 38 games, FC Porto top on 83 points](https://smtop100.blog/uploads/2026/screenshot-20261029-132946.png)
 
 *Season 28 in Stats & History, live from the latest update.* Titles, promotions and sackings only count once all 38 games are played, so a club top of the table with three games left doesn't get a title it hasn't won yet. At the end of the season, the final table can be downloaded ready for the history sheet, so nothing is copied by hand.
 
