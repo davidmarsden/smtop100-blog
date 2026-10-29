@@ -40,6 +40,8 @@ For everyone else, the S25 decisions tell us what a clear and obvious error look
 
 Divisions 1 and 2 are where most managers want to be, and they carry higher expectations. That was true in Season 25 too. In the review it shows in the score: the line for a low score is **45 in Divisions 1 and 2**, and 40 below that.
 
+In Divisions 3 to 5, reviews are usually routine: the manager is reappointed, without a score or a vote, unless they ask to move or step away, or isn't a Gold member, is inactive or has committed misconduct. The admin team can still review a case in full where there's a reason to, and has done before.
+
 ## Some cases are already decided
 
 - **A manager who took over during the season is reappointed**, as long as they meet the three requirements above. You can't be blamed for a season you only finished. That season will never count against you, here or when you apply for a club.
