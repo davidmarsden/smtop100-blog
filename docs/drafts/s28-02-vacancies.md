@@ -14,6 +14,12 @@ A caretaker can run a club in the meantime, but being caretaker gives no advanta
 
 Current Top 100 managers apply by naming the clubs they want, in order. Applying for just one club is fine: plenty of managers would rather finish a project than move up. Managers from outside Top 100, including Top 100 Regen, are considered for any club still vacant after that.
 
+You apply in Manager Portal, under Appointments: tick the clubs, put them in order, and add a note if you like. You'll get a notification when vacancies open, and you can change or withdraw your application until it closes.
+
+![Manager Portal: applying for two vacant clubs in order of preference](images/s28/s28-apply.png)
+
+*Manager Portal, Appointments. Example clubs.*
+
 There are only three reasons you can't apply:
 
 - you're still in your **first season** at your current club;
@@ -54,6 +60,10 @@ Each applicant is matched with the club they most want that is still open, and t
 ## 5. Everything is published
 
 For each vacancy, we publish the applicants, every score with its breakdown, and the decision. If the decision departs from the scores, we say why.
+
+![A published appointment: the applicants' scores and breakdowns, the decision and the admin team's reasons](images/s28/s28-public-appointments.png)
+
+*Published decisions at tournaments.smtop100.blog/appointments. Example data.*
 
 That is the point of the whole process. Nobody has to wonder why someone else got the job: the reasons are there to read.
 

@@ -49,7 +49,7 @@ In Divisions 3 to 5, reviews are usually routine: the manager is reappointed, wi
 
 ## The review score
 
-Every bottom-three manager also gets a score out of 100. Everyone being reviewed finished in the bottom three, so the score doesn't ask where you finished. It asks how you did with what you had:
+Every bottom-three manager given a full review also gets a score out of 100. Everyone being reviewed finished in the bottom three, so the score doesn't ask where you finished. It asks how you did with what you had:
 
 | | Points |
 |---|---|
@@ -64,11 +64,21 @@ Activity covers the things that keep Top 100 alive: entering competitions, tradi
 
 A score below the line (45 in Divisions 1 and 2, 40 below) counts as one clear and obvious error. If a decision turns on a score within five points of the line, the admin team votes on it, and each admin records a reason. No admin votes on their own case.
 
+That keeps votes to the cases that need them. **No clear and obvious error means reappointed, with no vote.** The admin team only votes on a second chance (one error) or a score close to the line.
+
+![The admin team's review list: each club's score, and whether it's clear or needs a vote, most at risk first](images/s28/s28-admin-summary.png)
+
+*The admin team's review list, most at risk first. Clubs, managers and scores here are examples.*
+
 ## Not reappointed doesn't mean the end
 
 A manager who isn't reappointed (other than for the three requirements above) can apply for any vacant club, including the one they've just left. Their club goes into the vacancy round with everyone else's, and they are offered the clubs still open at the end.
 
-You can also ask to move, or to take a break, whatever your score. That request is recorded with the decision.
+You can also ask to move, or to take a break, whatever your score. That request is recorded with the decision. You tell the admin team in Manager Portal, under Appointments, and you can change your answer until the decision is made.
+
+![Manager Portal: a bottom-three manager tells the admin team they want to stay](images/s28/s28-review-card.png)
+
+*Manager Portal, Appointments. Example data.*
 
 ## Keeping 100 managers
 
@@ -76,7 +86,11 @@ Top 100 aims to have 100 managers, but it isn't a requirement. When a club in Di
 
 ## Everything is published
 
-For every bottom-three manager, we'll publish the errors (if any), the score and its breakdown, and the outcome. Any decision that departs from them has to say why.
+For every bottom-three manager, we'll publish the errors (if any), the score and its breakdown, and the outcome. Any decision that departs from them has to say why. Where the admin team voted, every vote and its reason is published too.
+
+![Published review decisions: the outcome, the score and its breakdown, and each admin's vote and reason](images/s28/s28-public-reviews.png)
+
+*Published decisions at tournaments.smtop100.blog/appointments. Example data.*
 
 The aim is simple: the same rules for everyone, decided quickly, and with the reasons visible.
 
