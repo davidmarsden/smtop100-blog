@@ -54,8 +54,6 @@ Alerts go to the Top 100 admin team: **David Marsden, Regan Thompson (Hertha BSC
 
 ![Gold and login alerts: Gold ending in 7 days, and a manager not logged in for 7 days](https://smtop100.blog/uploads/2026/s28-alerts.png)
 
-![Gold and logins: each manager's Gold status, days of Gold left, last login and number of game worlds](https://smtop100.blog/uploads/2026/s28-gold-logins.png)
-
 *The admin team's alerts page. Clubs and managers here are examples.*
 
 Alerts to managers come through your [Manager Portal account](https://manager.smtop100.blog/), as reminders do, so make sure you've claimed yours. Compliance alerts can't be switched off.
