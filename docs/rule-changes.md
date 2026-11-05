@@ -2,6 +2,17 @@
 
 This file records dated clarifications and substantive changes to current Top 100 rules so historical decisions can be checked against the rules that applied at the time.
 
+## 5 November 2026 — Waiting list and rules agreement
+
+New rules section 3.3. New and returning managers join a waiting list for Top 100 or Top 100 Regen (or both) through a Manager Account:
+
+- They give their Soccer Manager manager name, the game world or worlds, and how they found Top 100.
+- They accept a rules agreement that includes later changes made by a vote of the managers or by the administrators.
+- Returning Top 100 managers come first, then everyone else in order of a published waiting-list score: Top 100 record 40, Top 100 Regen record 20, Gold 15, focus 10 and recommendations 15. Each concern raised by a current manager takes 10 points off, and concerns are confidential to the administrators.
+- Places are confirmed once a season. Offers come with a deadline to accept.
+
+This replaces the Top 100 Regen WhatsApp waiting room.
+
 ## 13 September 2026 — Youth Cup fixture arrangements
 
 The Youth Cup fixture-arrangement procedure was updated after changes to Soccer Manager made the old 24-hours-before-kick-off reminder obsolete for Saturday friendlies.
