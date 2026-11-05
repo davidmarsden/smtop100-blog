@@ -18,6 +18,10 @@ Top 100 Regen is the younger sister game world and has its own routes for prospe
 
 See **[Join Top 100 Regen](/regen/join/)** for the current Game World, managers' group and waiting-list details.
 
+## Already a manager?
+
+Claim your account at the **[Manager Portal](https://manager.smtop100.blog/)**: group chat, admin messages, job applications, tournament registration, fixtures and results. See **[what the Manager Portal is for](/manager-portal/)**.
+
 ## Need help?
 
 For problems with the website, manager accounts, voting, submissions or other Top 100 tools, email:
@@ -28,6 +32,7 @@ The separate [Support](/support/) page is for optional contributions towards the
 
 ## Useful places
 
+- **[Manager Portal](https://manager.smtop100.blog/)** — sign in; [what it's for](/manager-portal/)
 - **[Explore Top 100](/explore/)** — competitions, history, Awards, Community Polls, Search and Categories
 - **[Youth Cup](https://tournaments.smtop100.blog/top-100/youth-cup)** — current fixtures, tables and knockout rounds
 - **[World Club Cup](https://smtop100.blog/categories/world-club-cup/)** — current legacy archive until the competition moves into Tournaments next season

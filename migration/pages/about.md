@@ -39,7 +39,9 @@ The deeper parts of the site remain public. [Explore](/explore/) brings together
 - Manager Awards and Hall of Fame
 - Community Polls
 - Search and Categories
-- Subscribe, Support and the Manager Portal
+- Subscribe and Support
+
+Managers sign in at the **[Manager Portal](https://manager.smtop100.blog/)** for group chat, job applications, tournament registration, fixtures and results. **[What the Manager Portal is for](/manager-portal/)** explains it.
 
 Managers can also [write for Top 100](https://write.smtop100.blog/) and contribute their own club stories, reports and features.
 
