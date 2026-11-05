@@ -10,6 +10,7 @@ Managed pages:
 | `migration/pages/contact.md` | `https://smtop100.blog/contact/` | approved for automatic publishing |
 | `migration/pages/rules.md` | `https://smtop100.blog/rules/` | approved for automatic publishing |
 | `migration/pages/support.md` | `https://smtop100.blog/support/` | approved for automatic publishing |
+| `migration/pages/manager-portal.md` | `https://smtop100.blog/manager-portal/` | validation only until the page is created in Micro.blog |
 
 ## Publishing flow
 
