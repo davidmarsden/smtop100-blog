@@ -1,22 +1,20 @@
 # Contact / Join
 
-## Want to join Top 100?
+## Want to join Top 100 or Top 100 Regen?
 
-Top 100 has 100 clubs, so vacancies only appear when a manager leaves or a club becomes available.
+Both game worlds have 100 clubs, so a club only comes up when a manager leaves. New and returning managers join the **waiting list** in the **[Manager Portal](https://manager.smtop100.blog/)**:
 
-If you are interested in joining the original Top 100 game world, email **admin@smtop100.blog** and say a little about yourself and your Soccer Manager experience.
+1. Sign in with your email.
+2. Choose **Join the waiting list**, give your Soccer Manager manager name, pick Top 100, Top 100 Regen or both, and tell us how you found us.
+3. Accept the rules agreement.
 
-Before applying, please read the current [Rules](/rules/). In particular:
+You can see your place in the queue there, and we email you when a club is offered. New managers are encouraged to start in **[Top 100 Regen](/regen/join/)** and prove themselves there. Former Top 100 managers coming back are offered clubs first; everyone else is ordered by the waiting-list score in [rule 3.3](/rules/).
+
+Before joining, please read the current [Rules](/rules/). In particular:
 
 1. **50-player squad limit.** Loans count both ways: players loaned in *and* players loaned out.
 2. **Agreed deals are binding.** Once both managers clearly agree a transfer, neither side can back out.
 3. **New database players: public bids only.** Maximum £1,000,000 cash, with no hidden bids or side deals.
-
-## Want to join Top 100 Regen?
-
-Top 100 Regen is the younger sister game world and has its own routes for prospective managers.
-
-See **[Join Top 100 Regen](/regen/join/)** for the current Game World, managers' group and waiting-list details.
 
 ## Already a manager?
 
