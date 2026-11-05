@@ -154,7 +154,7 @@ New managers, and former managers who would like to come back, join the waiting 
 | Focus | 10 | Managing in no more than three Soccer Manager game worlds in all, less a point for each further game world |
 | Recommendations | 15 | 5 for each recommendation from a current manager, up to 15 |
 
-A concern raised by a current manager takes 10 points off each time. Concerns are confidential to the administrators. Recommendations and concerns are one per current manager for each applicant.
+Where the records don't yet show Gold or the number of game worlds, half the points are used until they do. A concern raised by a current manager takes 10 points off each time. Concerns are confidential to the administrators. Recommendations and concerns are one per current manager for each applicant.
 
 **Staying on the list.** Confirm once a season that you are still interested, or your place lapses. You can leave the list at any time.
 
