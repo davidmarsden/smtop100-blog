@@ -7,6 +7,7 @@ on:
       - 'migration/pages/contact.md'
       - 'migration/pages/rules.md'
       - 'migration/pages/support.md'
+      - 'migration/pages/manager-portal.md'
       - 'scripts/sync_microblog_pages.py'
       - '.github/workflows/sync-microblog-pages.yml'
   push:
@@ -16,6 +17,7 @@ on:
       - 'migration/pages/contact.md'
       - 'migration/pages/rules.md'
       - 'migration/pages/support.md'
+      - 'migration/pages/manager-portal.md'
       - 'scripts/sync_microblog_pages.py'
       - '.github/workflows/sync-microblog-pages.yml'
   workflow_dispatch:
