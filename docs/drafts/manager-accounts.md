@@ -1,3 +1,5 @@
+> **Merged into the Manager Portal page** (`migration/pages/manager-portal.md`, https://smtop100.blog/manager-portal/). Kept for reference; not published.
+
 # One account. Your Top 100.
 
 Top 100 now has proper manager accounts — and they are starting to become genuinely useful.

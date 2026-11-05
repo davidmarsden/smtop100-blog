@@ -51,13 +51,11 @@ PAGES = {
         "title": "Support Top 100",
         "ready": True,
     },
-    # Create the page in Micro.blog first (the synchroniser only updates existing
-    # pages), then set ready to True.
     "manager-portal": {
         "source": Path("migration/pages/manager-portal.md"),
         "public_url": "https://smtop100.blog/manager-portal/",
         "title": "Manager Portal",
-        "ready": False,
+        "ready": True,
     },
 }
 
