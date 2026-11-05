@@ -51,6 +51,12 @@ PAGES = {
         "title": "Support Top 100",
         "ready": True,
     },
+    "manager-portal": {
+        "source": Path("migration/pages/manager-portal.md"),
+        "public_url": "https://smtop100.blog/manager-portal/",
+        "title": "Manager Portal",
+        "ready": True,
+    },
 }
 
 

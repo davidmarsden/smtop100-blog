@@ -10,12 +10,13 @@ Managed pages:
 | `migration/pages/contact.md` | `https://smtop100.blog/contact/` | approved for automatic publishing |
 | `migration/pages/rules.md` | `https://smtop100.blog/rules/` | approved for automatic publishing |
 | `migration/pages/support.md` | `https://smtop100.blog/support/` | approved for automatic publishing |
+| `migration/pages/manager-portal.md` | `https://smtop100.blog/manager-portal/` | approved for automatic publishing |
 
 ## Publishing flow
 
 `.github/workflows/sync-microblog-pages.yml` validates all managed page sources on pull requests. After an approved managed page change is merged to `main`, the workflow runs `scripts/sync_microblog_pages.py` and updates the existing Micro.blog standalone page through the Micropub API.
 
-Publishing remains explicitly gated by the per-page `ready: True` setting in the synchroniser. All four currently managed standalone pages are now approved for production publishing.
+Publishing remains explicitly gated by the per-page `ready: True` setting in the synchroniser. All currently managed standalone pages are approved for production publishing.
 
 Changes to the page-sync workflow or synchroniser also trigger a production sync when merged to `main`. This is intentional: fixes to the publishing machinery can be exercised immediately against the approved page set. Manual workflow runs are restricted to the `main` branch, and the publish job explicitly checks out `main`.
 
