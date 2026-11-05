@@ -134,6 +134,34 @@ A finishing position counts both within the division and across the 100-club pyr
 
 **Record.** The administrators publish each vacancy, the applicants, every score and its breakdown, and the decision. A decision that departs from the scores must give its reason.
 
+### 3.3 Joining Top 100 or Top 100 Regen: the waiting list
+
+New managers, and former managers who would like to come back, join the waiting list through a **[Manager Account](https://manager.smtop100.blog/)**. You can join the list for either game world, or both. New managers are encouraged to start in **Top 100 Regen** and prove themselves there.
+
+**Joining.** Sign up with your email, give your Soccer Manager manager name, choose the game world or worlds, tell us how you found Top 100, and accept the rules agreement below.
+
+**Rules agreement.** *I have read and understood the Top 100 rules, and the Top 100 Regen rules where they apply, and I agree to follow them. I accept that the rules may change after I join, by a vote of the managers or by decision of the administrators, and that I will follow the rules as they stand at the time.*
+
+**Order.** When a club is still vacant after current managers have applied (3.2), it is offered from the waiting list. Former Top 100 managers returning after a break come first, then everyone else in order of their waiting-list score. The score guides the administrators; it does not make the decision.
+
+**Waiting-list score.** Out of 100, from the records the administrators keep:
+
+| | Points | What counts |
+|---|---|---|
+| Top 100 record | 40 | Half the public-record part of the appointment score (3.2) for any past Top 100 career |
+| Top 100 Regen record | 20 | 5 for each season managed in Top 100 Regen, up to 20 (for the Top 100 list only) |
+| Gold membership | 15 | An active Gold membership, which every manager needs to take a club |
+| Focus | 10 | Managing in no more than three Soccer Manager game worlds in all, less a point for each further game world |
+| Recommendations | 15 | 5 for each recommendation from a current manager, up to 15 |
+
+Where the records don't yet show Gold or the number of game worlds, half the points are used until they do. A concern raised by a current manager takes 10 points off each time. Concerns are confidential to the administrators. Recommendations and concerns are one per current manager for each applicant.
+
+**Staying on the list.** Confirm once a season that you are still interested, or your place lapses. You can leave the list at any time.
+
+**Offers.** An offer of a club comes with a deadline. If it is not accepted in time, the club is offered to the next manager on the list.
+
+**Taking a club.** Once you have taken the club in Soccer Manager, your Manager Account is linked to it and you leave the waiting list for that game world.
+
 ## 4. Squad management
 
 ### 4.1 Squad limit
@@ -256,6 +284,8 @@ Minor clarifications, corrections and administrative procedures may be updated w
 When a substantive rule changes, the effective date should be clear. Historical decisions should be preserved rather than silently rewritten so that an older dispute can be judged against the rule that applied at the time.
 
 ### Change record
+
+**5 November 2026 — Waiting list and rules agreement.** New section 3.3: new and returning managers join a waiting list for Top 100 or Top 100 Regen through a Manager Account, accept the rules agreement (including later changes by vote or by the administrators), are ordered with returning Top 100 managers first and then by a published waiting-list score, confirm their place once a season, and are offered vacant clubs with a deadline to accept.
 
 **31 October 2026 — Appointment scoring.** In section 3.2, an applicant loses 2.5 points from stability and conduct for each forfeit in a Top 100 competition this season, such as the Youth Cup. Community and social activity, and sanctions, are assessed by each administrator separately, and the average is used.
 
