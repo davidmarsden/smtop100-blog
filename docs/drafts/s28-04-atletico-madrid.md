@@ -18,14 +18,7 @@ Gav's review found one clear and obvious error. His review score was 37.6 out of
 | Record and conduct | 15 | 20 |
 | **Total** | **37.6** | **100** |
 
-With one error, the rules leave a second chance to the admin team, and a second chance needs a majority. The suggested outcome was a vote on a second chance.
-
-The admin team voted:
-
-- **David Marsden: not reappointed.** “Gav appears to be inactive apart from occasional negativity on the newsfeed.”
-- **Regan Thompson: second chance.** “Bad season for Atletico, I believe Gav should have another chance to see his rebuild flourish.”
-
-That is no majority for a second chance, so under the rules Gav is not reappointed. I'll be open about why I voted the way I did, though, because I'd have voted the same whatever the score.
+With one error, the rules leave a second chance to the admin team, and a second chance needs a majority of the admin team's votes. There wasn't one, so under the rules Gav is not reappointed. I'll be open about why I voted the way I did, though, because I'd have voted the same whatever the score.
 
 ## On the pitch
 
@@ -61,7 +54,7 @@ We've been here before. After Season 25, João Alves wasn't reappointed at Sport
 
 Gav's case is very similar, and arguably worse. João built something at Sporting, and he talked to me about what was going on for him and responded graciously to the decision. Gav took a top Division 1 side down to Division 3, and he hasn't spoken to me at all. Reappointing Gav after not reappointing João would mean the standards weren't applied to everyone.
 
-I've been here before with other managers whose attitude turned toxic. Reappointing a manager who has failed this badly, and who has made it clear more than once that he won't follow the rules everyone else follows, sends the wrong message about what's acceptable here.
+I've been here before with other managers who stopped playing by the rules. Reappointing a manager who has failed this badly, and who has made it clear more than once that he won't follow the rules everyone else follows, sends the wrong message about what's acceptable here.
 
 I know Gav has friends in Top 100 and is popular. But we set out to stop appointing managers on popularity. It's unfair on managers who are better, who are making an effort, and who deserve a chance more.
 
@@ -85,7 +78,7 @@ NOTES FOR DAVID (delete before publishing):
 
 1. Left out deliberately: Gav's personal circumstances, which Glen shared with you privately. Nothing in the post refers to them, even indirectly. Also left out: "Glen's farm" (it implies something about Glen too), the names of past managers (Roy Keane, Nuno, Scallotti, Dan Wallace) and quotes from the admin chat.
 
-2. Votes: both are quoted from the vote cards, because rule 3.1 says votes and their reasons are published.
+2. Votes: the post no longer lists them or names Regan. Rule 3.1 still publishes every vote and its reason on the decisions page (tournaments.smtop100.blog/appointments) when you press Publish, so Regan's vote and reason will be visible there.
 
 3. The rules and "not coming back to Madrid": rule 3.1 says a manager who isn't reappointed (other than for Gold, logins or misconduct) can apply for any vacancy, including the club he left. To keep him out of Madrid, it either has to be misconduct (option B) or the rule allows it and the vacancy round decides (option A). Pick one.
 
