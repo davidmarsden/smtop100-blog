@@ -1,10 +1,10 @@
 # The Transfer League: who trades with whom in Top 100
 
-Top 100 has always been a trading game world. Now we can measure it. Every completed transfer in our records is counted, and the AI has crunched the numbers: who trades most, who trades with whom, and which deals stood out.
+Top 100 has always been a trading game world. Now we can measure it. Every completed transfer of Season 28, which began on 23 June, is counted, and the AI has crunched the numbers: who trades most, who trades with whom, and which deals stood out.
 
 ## The numbers
 
-Top 100's records hold **2,933 completed transfers**. Most were with clubs outside Top 100, but **312 were between two Top 100 managers**, and those are the ones that matter here.
+Season 28 has seen **2,933 completed transfers** so far. Most were with clubs outside Top 100, but **312 were between two Top 100 managers**, and those are the ones that matter here.
 
 - **85 different managers** sold a player to another Top 100 manager, and **76** bought one.
 - Between them they paid **3.29bn** in fees.
@@ -68,6 +68,7 @@ The big fees and the big names rarely went together. The best players changed ha
 - **C. Palmer (93, 24)**, Aston Villa to São Paulo FC: 2m, plus two players. David Inglis to Scott Mckenzie.
 - **A. Griezmann (93, 35)**, Cruzeiro to Bayern München: 0.25m, plus two players. Steven Allington to Bojan H.
 - **J. Timber (92, 25)**, Leicester City to Barcelona, as a swap. Ash L to Adam.
+- **E. Martínez (93, 34)**, Standard Liège to Hamburger SV, a straight swap for two players. Raymond Reddington to David Marsden, for the joint second-highest-rated goalkeeper in the world.
 
 Gursimran Brar brought three 92–93 rated players to Köln (Díaz, Foden and Havertz). In the same turn as Foden went to Köln, J. García (92) went the other way to Porto. André Guerra also added X. Simons (91) from Genoa on the way to Porto's Division 1 title.
 
@@ -76,17 +77,17 @@ Gursimran Brar brought three 92–93 rated players to Köln (Díaz, Foden and Ha
 - A deal counts as being between two Top 100 managers when both clubs are Top 100 clubs with a manager at the time.
 - Ratings and ages are as they were at the time of the deal.
 - "Plus two players" means other players were part of the deal. The records don't always show which way they went.
-- The records cover the transfers we hold, not necessarily every transfer ever made in Top 100.
+- It covers Season 28's transfer window from 22 June, the day before the season began, to the final games. The season runs for 21 weeks.
 
-Who will top the Transfer League next season?
+Season 29 begins on 17 November. Who will top the Transfer League then?
 
 <!--
 NOTES FOR DAVID (delete before publishing):
 - Source: the Lab's Transfer League, completed deals only, as of 6 November. Nothing here names how the records are collected.
-- Period: the records span more than one season. Soccer Manager's turn numbers restart each season and the dates have no year, so I can't split out S28 reliably. The post says "our records", not "this season". If you know when capture started, add it.
+- Period: transfer dates run from 22 June (four deals the day before S28 began) to the end of the season, so the post treats it all as Season 28. 23 June plus 147 days is 17 November, which is given as the start of S29 at the end. Check that date.
 - Currency: fees are shown as "m" without a currency symbol. Add £ or € if Top 100 uses one.
 - One table row was left out: Paris Saint-Germain's previous manager (14 deals) has no name in the records.
 - "One in every seven of the game world": 15 partners out of roughly 100 managers.
-- Your own deal (E. Martínez, 93, from Standard Liège for two players) is left out of the stars list. Add it if you like.
+- Martínez: "joint second-highest-rated goalkeeper in the world" is your claim; I can't check it from Top 100's records.
 - Ratings are at the time of the deal, so some players will have changed since.
 -->
