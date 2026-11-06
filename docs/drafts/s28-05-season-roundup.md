@@ -98,6 +98,6 @@ NOTES FOR DAVID (delete before publishing):
 - Quotes are from the newsfeed, lightly trimmed. Spelling mistakes inside quotes are kept, except obvious typos ("havnt" etc.).
 - Play-offs: not played yet when this was drafted. Add the four play-off winners.
 - Youth Cup: Glen says it's Espanyol's third in a row. The honours list I can see doesn't include the Youth Cup, so check.
-- Enzo T (Feyenoord), ANMOL SATAM (Augsburg) and Josh McMillan (Man Utd) show as "resigned" on the newsfeed, but that's the automatic bottom-three sacking at the end of the season. All three were reappointed and haven't retaken their clubs yet, so they're not listed as farewells. Check whether any of them has actually decided to leave.
+- Enzo T (Feyenoord), ANMOL SATAM (Augsburg) and Josh McMillan (Man Utd) show as "resigned" on the newsfeed, but that's the automatic bottom-three sacking. All three are being reappointed, so they're not farewells.
 - MAX PALACE "resigned from Juventus after 0 games" on the newsfeed at 07:50 on 6 November. Probably a stranger who briefly took the club; left out.
 -->
