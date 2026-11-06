@@ -29,11 +29,9 @@ That is no majority for a second chance, so under the rules Gav is not reappoint
 
 ## On the pitch
 
-Gav has managed Atlético Madrid for 17 seasons. He inherited a top-ten Division 1 side. In that time Atlético have had 12 seasons in Division 1 but finished in the top half only three times, and have been relegated four times. This season they finished 18th in Division 2 and go down to Division 3.
+Gav has managed Atlético Madrid for 17 seasons, since Season 12. He took over a club that had just finished 5th in Division 1 with the 10th strongest squad in Top 100. Atlético spent his first 12 seasons in Division 1 and finished in the top half only three times. They went down in Season 23, and after five seasons in Division 2 they've now been relegated again, to Division 3.
 
-This isn't his first time in the bottom three, either: Atlético finished 19th in Division 1 in Season 23.
-
-The squad Atlético have now isn't one Gav built. Squad building scored zero in his review.
+The squad is very much Gav's own: he's had 17 seasons to build it. By last season it was only the 34th strongest in Top 100, down from 10th when he took over. This season Atlético finished eight places below where their squad's strength said they should.
 
 ## Off the pitch
 
@@ -95,5 +93,5 @@ NOTES FOR DAVID (delete before publishing):
 
 7. Bojan, in the admin chat, thought Gav's public apology and not "doing a Scallotti" should be enough to keep him. Readers will raise the same point. The post answers it: the apology came with the second chance, and the strike carried on all season anyway.
 
-5. Stats are from this season's saved review (17 seasons at Atlético, 12 in D1, 3 top-half D1 finishes, 4 relegations, score 37.6).
+5. Stats are from this season's saved review (score 37.6, 12 D1 seasons, 3 top-half finishes) and the Stats & History squad-strength archive (Atlético's squad ranked 10th of 100 in S12 and 34th in S27). The review's "4 relegations" counted Gav's whole career; at Atlético it's two (S23 and S28).
 -->
