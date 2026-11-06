@@ -63,11 +63,11 @@ The record fee wasn't for a star. Carlos Miranda paid 125.3m, plus two players, 
 The big fees and the big names rarely went together. The best players changed hands for much less, usually with players going the other way:
 
 - **F. Wirtz (94, 23)**, Leicester City to Genoa CFC, from Ash L to Frank Hirst. Genoa paid 30m plus **M. Rogers** (now 92) and **A. Santos** (now 89).
-- **L. Díaz (93, 29)**, Barcelona to 1. FC Köln, from Adam to Gursimran Brar. Köln paid 28m plus **M. Cancellieri** (now 86) and **J. Derry** (now 73, 19).
-- **P. Foden (93, 26)**, FC Porto to 1. FC Köln, from André Guerra to Gursimran Brar. Köln paid 28m plus **J. García** (92).
+- **L. Díaz (93, 29)**, Barcelona to 1. FC Köln, from Adam to Gursimran Brar, for 28m. It was part of a wider exchange: across several transfers this season, **M. Cancellieri** (86), **Á. Baena** (91) and **J. Derry** (73, 19) went from Köln to Barcelona.
+- **P. Foden (93, 26)**, FC Porto to 1. FC Köln, from André Guerra to Gursimran Brar, for 28m. In the same exchange **J. García** (92) went from Köln to Porto, and across the season **E. Moraes** (91) joined Foden at Köln while **H. Haraldsson** (88) moved the other way.
 - **C. Palmer (93, 24)**, Aston Villa to São Paulo FC, from David Inglis to Scott Mckenzie. São Paulo paid 2m plus **N. Williams** (now 92) and **M. Akliouche** (now 90).
 - **A. Griezmann (93, 35)**, Cruzeiro to Bayern München, from Steven Allington to Bojan H. Bayern paid 0.25m plus **R. Lewandowski** (now 93, 38) and **M. Alleyne** (now 80).
-- **J. Timber (92, 25)**, Leicester City to Barcelona, from Ash L to Adam, as a swap for one player. [Which player? See the notes.]
+- **J. Timber (92, 25)**, Leicester City to Barcelona, from Ash L to Adam, in one of the season's biggest swaps. Over two turns, **J. Timber**, **M. Cunha** (91), **A. Tchouaméni** (93) and **J. Hinshelwood** (88) went to Barcelona, and **E. Anderson** (91), **Á. Baena** (91), **A. Gray** (87) and **N. Schlotterbeck** (92) went to Leicester.
 - **E. Martínez (93, 34)**, the joint second-highest-rated goalkeeper in the world, Standard Liège to Hamburger SV, from Raymond Reddington to David Marsden. A straight swap for **L. Sané** (now 91) and **Y. Bounou** (now 90).
 
 Gursimran Brar brought three 92–93 rated players to Köln (Díaz, Foden and Havertz). André Guerra got García for Foden and added X. Simons (91) from Genoa on the way to Porto's Division 1 title.
@@ -85,9 +85,9 @@ Season 29 begins on 17 November. Who will top the Transfer League then?
 NOTES FOR DAVID (delete before publishing):
 - Players in part-exchanges: the transfer records only count the players offered, not who they were. I worked them out from club records: players who played for both clubs this season and are now back at the selling club. Ratings marked "now" are today's, not at the time of the deal.
   - Confident: Wirtz, Palmer, Griezmann, Martínez (two players each, exactly matching).
-  - Foden: García is recorded as his own deal (Köln to Porto, 14m) in the same turn. He's almost certainly the player in Foden's deal, but check.
-  - Díaz: Cancellieri and Derry are the likely two, but not certain.
-  - Timber: can't tell. Several players moved between Leicester and Barcelona this season (Schlotterbeck, Anderson, Gray, Baena). Fill in or drop the deal.
+  - Foden, Díaz and Timber were multi-player exchanges spread over several transfers, so those bullets list everyone who moved between the two clubs this season. Directions come from the recorded transfers where there is one, and otherwise from the club each player is at now.
+  - Less certain: Moraes (played for both Porto and Köln, now at Köln) and Haraldsson (played for both, now at Genoa, so he may have moved on again). J. Souza also played for Barcelona and Köln this season and is now at Independiente; he's left out.
+  - Ratings in these three bullets are today's ratings.
 - Source: the Lab's Transfer League, completed deals only, as of 6 November. Nothing here names how the records are collected.
 - Period: transfer dates run from 22 June (four deals the day before S28 began) to the end of the season, so the post treats it all as Season 28. 23 June plus 147 days is 17 November, which is given as the start of S29 at the end. Check that date.
 - Currency: fees are shown as "m" without a currency symbol. Add £ or € if Top 100 uses one.
