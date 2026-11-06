@@ -47,7 +47,9 @@ He hasn't asked for his job back, or spoken to me about it at all. Instead he po
 
 ## Why it matters
 
-The situation is very similar to João's at Sporting after Season 25 ([S25 Manager Reappointments](https://smtop100.blog/2025/08/22/s-manager-reappointments/)), and arguably worse. João at least talked to me about what was going on for him.
+We've been here before. After Season 25, João Alves wasn't reappointed at Sporting ([S25 Manager Reappointments](https://smtop100.blog/2025/08/22/s-manager-reappointments/)). João had taken Sporting from Division 3 obscurity to Division 1. He wasn't reappointed because he didn't meet the standards we expect of every manager: playing the mandatory competitions, responding to the admins, taking part in the community and setting his teams. We said then that those standards apply equally to everyone, with higher expectations for the managers of Division 1 and 2 clubs.
+
+Gav's case is very similar, and arguably worse. João built something at Sporting, and he talked to me about what was going on for him and responded graciously to the decision. Gav took a top Division 1 side down to Division 3, and he hasn't spoken to me at all. Reappointing Gav after not reappointing João would mean the standards weren't applied to everyone.
 
 I've been here before with other managers whose attitude turned toxic. Reappointing a manager who has failed this badly, and who has made it clear more than once that he won't follow the rules everyone else follows, sends the wrong message about what's acceptable here.
 
@@ -77,7 +79,7 @@ NOTES FOR DAVID (delete before publishing):
 
 3. The rules and "not coming back to Madrid": rule 3.1 says a manager who isn't reappointed (other than for Gold, logins or misconduct) can apply for any vacancy, including the club he left. To keep him out of Madrid, it either has to be misconduct (option B) or the rule allows it and the vacancy round decides (option A). Pick one.
 
-4. Check: that Atlético were top ten in D1 when Gav took over; that Gav was told S23 was his last chance (the review data shows an S23 D1 19th finish, not a recorded last chance); and the João comparison against the S25 post.
+4. Check: that Atlético were top ten in D1 when Gav took over; that Gav was told S23 was his last chance (the review data shows an S23 D1 19th finish, not a recorded last chance). The João section now uses the S25 post's wording.
 
 5. Stats are from this season's saved review (17 seasons at Atlético, 12 in D1, 3 top-half D1 finishes, 4 relegations, score 37.6).
 -->
