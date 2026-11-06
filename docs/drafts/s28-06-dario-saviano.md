@@ -14,7 +14,7 @@ After three seasons in Division 4, Levante reached Division 3. In Season 11 they
 
 In Season 13 Dario moved to Borussia Dortmund in Division 1. He never left it. Sixteen seasons in Division 1 without a relegation puts him among a handful of managers in Top 100's history.
 
-By the 2020s Dortmund were among the favourites:
+Early on, Dortmund beat the predictions. Later, they were among the favourites to win the title:
 
 | Season | Finish | Predicted |
 |---|---|---|
