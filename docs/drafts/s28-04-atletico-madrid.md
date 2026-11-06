@@ -47,7 +47,9 @@ I told him then that I'd had enough and he was out. In the end I didn't follow t
 
 ## Since then
 
-He did what he said he'd do. For the rest of the season Gav has been deliberately inactive. Activity and contribution used to be his strongest part of the review. This season he entered no Top 100 competitions, did no squad building and helped with nothing.
+He did what he said he'd do. For the rest of the season Gav has been deliberately inactive. Activity and contribution used to be his strongest part of the review. This season he entered none of the optional Top 100 competitions and helped with nothing.
+
+That includes the Youth Cup. Atlético have one of the best youth teams in Top 100, twice Youth Shield winners in recent seasons, and Gav didn't enter it. João was the same at Sporting: a great youth team, and no interest in playing with it.
 
 When he did post on the newsfeed, it was usually to criticise Top 100 and how it's run. He has posted negative comments about other managers and has repeatedly accused other managers of cheating without foundation. At times he has been abusive.
 
