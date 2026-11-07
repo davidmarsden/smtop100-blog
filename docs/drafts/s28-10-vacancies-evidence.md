@@ -39,6 +39,34 @@ A promoted club is more than twice as likely to go straight back down if its man
 
 It's worth weighing when a manager applies to move after a promotion. But even 32% is well below real football.
 
+## And the squads they leave behind?
+
+League positions are only half the argument. The other half is the squad: does a manager leave behind players the next manager can build on, or a team with no pulse?
+
+Stats & History rates every club's squad strength each season, and that rating can be ranked across Top 100 from Season 6 to Season 27. So for every manager who moved club or left, we compared the squad's rank the season before they arrived with its rank in their last season.
+
+| How the spell ended | Spells | Squad rank change | Squad improved | Squad got weaker |
+|---|---|---|---|---|
+| Moved to another club, after managing 5+ clubs | 93 | +2.0 places | 42% | 47% |
+| Moved to another club, after 1–4 clubs | 75 | −1.0 | 52% | 40% |
+| **Left Top 100, after 5+ clubs** | 47 | **−7.5** | 34% | **55%** |
+| Left Top 100, after 1–4 clubs | 50 | +6.5 | 54% | 34% |
+
+On average, managers who move clubs leave the squad about where they found it. The squads that really suffer are, again, the ones left by managers who've hopped between clubs and then quit the game.
+
+**Promotion winners build squads.** This is the clearest finding of all:
+
+| Managers who moved after a spell… | Spells | Squad rank change | Squad improved | Squad got weaker |
+|---|---|---|---|---|
+| **With a promotion** | 64 | **+8.5 places** | **69%** | 30% |
+| Without a promotion | 104 | −4.1 | 33% | 53% |
+
+Managers who won promotion before moving on left their squads **more than eight places stronger** on average, and stronger in more than two cases out of three. The managers who left squads weaker were mostly the ones who moved *without* winning anything.
+
+So a promotion isn't a low bar that lets managers strip a club and move on. It's the best sign we have that a manager builds squads as well as results. It also explains the relegation risk above: those clubs don't go back down because the squad has been stripped. They lose the manager.
+
+**Time helps too.** Managers who stayed six seasons or more before moving left squads nearly four places stronger, more than any other group of movers. Building a squad over several seasons works, and the appointment score already rewards it.
+
 ## How Top 100 compares with real football
 
 **Promoted clubs.** In the Premier League, a little under half of promoted clubs go straight back down: about **44–47%** since 1992 ([The Analyst](https://theanalyst.com/2025/04/premier-league-promoted-sides-relegation-championship); [NBC Sports](https://nbcsports.com/soccer/news/the-history-of-promotion-and-relegation-in-the-premier-league-era-pro-rel)). All three promoted clubs went down in both 2023/24 and 2024/25 ([Tales from the Top Flight](https://www.talesfromthetopflight.com/2025/05/16/how-many-times-have-all-promoted-teams-been-relegated-straight-back-down/)). In Top 100 the figure is about **19%**, and still only 32% when the manager leaves.
@@ -61,7 +89,7 @@ Top 100's Division 1 managers get the most time of anyone, in a game world where
 
 ## What it means for appointments
 
-- **Winning should open doors.** Managers who earn promotions and titles, and leave their clubs higher than they found them, are exactly who should get the bigger jobs. Top 100's records show that most of them do.
+- **Winning should open doors.** Managers who earn promotions and titles leave their clubs higher, and their squads stronger, than they found them. They're exactly who should get the bigger jobs.
 - **Loyalty already counts.** Stability is worth up to 20 points in the appointment score, including credit for seasons at your current club. Squad building counts too, through places climbed in the squad-strength ranking during your current spell.
 - **Some appointments won't work out.** That's true in real football as well. The alternative, a game world where nobody ever gets the chance to step up, would be worse for everyone.
 - **We'll keep an eye on moves straight after a promotion.** That's where the evidence shows a real cost.
@@ -70,7 +98,8 @@ The appointment score and how it works are in the rules, [section 3.2](https://s
 
 <!--
 NOTES FOR DAVID (delete before publishing):
-- Data: every managed club's final table, Seasons 1–28, from Top 100's league history. A spell is consecutive seasons by the same manager at the same club. "Rank inherited" uses the club's rank the season before the spell (spells starting in Season 1 have no inherited rank and are left out of the first table). Rank is (division − 1) × 20 + position, so it measures results, not squads. I can't check squads directly for past seasons.
+- Data: every managed club's final table, Seasons 1–28, from Top 100's league history. A spell is consecutive seasons by the same manager at the same club. "Rank inherited" uses the club's rank the season before the spell (spells starting in Season 1 have no inherited rank and are left out of the first table). Rank is (division − 1) × 20 + position, so it measures results.
+- Squad section: squad strength is the ETOT rating in Stats & History's stats archive (Seasons 6–27), ranked among all clubs each season. "Squad rank change" compares the club's rank the season before the spell (or the first season, if the season before isn't in the archive) with its rank in the manager's last season (Season 27 at the latest). 168 moves and 97 departures could be matched to the archive; club names were matched loosely, so a handful of spells are missing. "With a promotion" means the club went up a division at some point during the spell, including at its end.
 - "Moved" means the manager was at a different club the next season. "Left" means they don't appear in the next season.
 - Promotion table: any club finishing in a promotion place in Divisions 2–5 (Seasons 1–27), then its finish the next season. "Relegated" means finishing 17th–20th in Divisions 1–4.
 - Names like ". ." and "Retired from the game" are left out.
