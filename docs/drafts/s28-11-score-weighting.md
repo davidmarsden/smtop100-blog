@@ -6,7 +6,7 @@ Every applicant for a vacant club gets an appointment score out of 100 ([rule 3.
 |---|---|---|
 | This season | 20 | Where you finished, and how that compared with the prediction |
 | Recent seasons | 15 | The last two completed seasons |
-| Honours | 15 | Titles and promotions |
+| Honours | 15 | League titles, promotions (including play-off wins) and cup wins |
 | Level | 10 | Your record at the vacancy's division or higher |
 | Stability | 20 | Time at your current club, bottom-three finishes, and conduct |
 | Activity | 20 | Competitions, trading with other Top 100 managers, squad building, helping run Top 100, community, and focus |
@@ -26,7 +26,7 @@ We took this round's applications and each applicant's actual score breakdown, a
 | Long record first: honours and level ×1.5 | Yes, same order | No |
 | Loyalty first: stability ×1.5 | Yes, same order | No |
 | Activity first: activity ×1.5 | Yes, same order | No |
-| Every part equal | Yes, 2nd and 3rd swapped | No |
+| Every part equal | Yes, same order | No |
 | Plus a new squad-health part (10 points) | Yes, 1st and 2nd swapped | No |
 
 ## What it shows
@@ -35,7 +35,15 @@ We took this round's applications and each applicant's actual score breakdown, a
 
 **2. Managers' own choices matter more than the weights.** You can only be appointed to a club you applied for, in the order you put them. Some of the strongest managers applied for just one or two clubs, so for some vacancies the real decision was made by who applied, not by the score.
 
-**3. We also tested a squad-health part.** Several managers have argued, on the newsfeed and elsewhere, that the score should reward leaving a squad in good shape: younger players, real market value, not just high ratings bought with older players. So we tried adding a 10-point part for it. It was the only change that altered who came first. But it still didn't change a single appointment.
+**3. Counting cup wins didn't change it either.** Honours now include cup wins as well as league titles and promotions:
+- 3 points for the SMFA cups and the World Club Cup;
+- 2 for the Top 100 Cup and Shield;
+- 1 for the Youth Cup and other cups;
+- half a point for the Youth Shield.
+
+We re-ran every test with cups included. It lifted two applicants' scores and changed the order in the top three, but every appointment stayed the same under every weighting.
+
+**4. We also tested a squad-health part.** Several managers have argued, on the newsfeed and elsewhere, that the score should reward leaving a squad in good shape: younger players, real market value, not just high ratings bought with older players. So we tried adding a 10-point part for it. It was the only change that altered who came first. But it still didn't change a single appointment.
 
 ## Why we're keeping the rules as they are
 
