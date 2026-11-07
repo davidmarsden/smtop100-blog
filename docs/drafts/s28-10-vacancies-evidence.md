@@ -66,7 +66,7 @@ Top 100's Division 1 managers get the most time of anyone, in a game world where
 - **Some appointments won't work out.** That's true in real football as well. The alternative, a game world where nobody ever gets the chance to step up, would be worse for everyone.
 - **We'll keep an eye on moves straight after a promotion.** That's where the evidence shows a real cost.
 
-The appointment score and how it works are in the rules, [section 3.2](https://smtop100.blog/rules/), and the review decisions are at [tournaments.smtop100.blog/appointments](https://tournaments.smtop100.blog/appointments).
+The appointment score and how it works are in the rules, [section 3.2](https://smtop100.blog/rules/#32-club-vacancies-and-manager-appointments), and the review decisions are at [tournaments.smtop100.blog/appointments](https://tournaments.smtop100.blog/appointments).
 
 <!--
 NOTES FOR DAVID (delete before publishing):
@@ -75,5 +75,4 @@ NOTES FOR DAVID (delete before publishing):
 - Promotion table: any club finishing in a promotion place in Divisions 2–5 (Seasons 1–27), then its finish the next season. "Relegated" means finishing 17th–20th in Divisions 1–4.
 - Names like ". ." and "Retired from the game" are left out.
 - Real-world figures: Premier League promotion data varies slightly by source and period (44–47%).
-- Rule 3.2 link goes to the rules page; add the section anchor if you want it exact.
 -->
