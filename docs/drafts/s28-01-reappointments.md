@@ -76,7 +76,7 @@ A manager who isn't reappointed (other than for the three requirements above) ca
 
 You can also ask to move, or to take a break, whatever your score. That request is recorded with the decision. You tell the admin team in Manager Portal, under Appointments, and you can change your answer until the decision is made.
 
-![Manager Portal: a bottom-three manager tells the admin team they want to stay](https://smtop100.blog/uploads/2026/s28-review-card.png)
+![Manager Portal: a bottom-three manager tells the admin team they want to stay](https://smtop100.blog/uploads/2026/cec9f766c0.png)
 
 *Manager Portal, Appointments. Example data.*
 
@@ -88,7 +88,7 @@ Top 100 aims to have 100 managers, but it isn't a requirement. When a club in Di
 
 For every bottom-three manager, we'll publish the errors (if any), the score and its breakdown, and the outcome. Any decision that departs from them has to say why. Where the admin team voted, every vote and its reason is published too.
 
-![Published review decisions: the outcome, the score and its breakdown, and each admin's vote and reason](https://smtop100.blog/uploads/2026/s28-public-reviews.png)
+![Published review decisions: the outcome, the score and its breakdown, and each admin's vote and reason](https://smtop100.blog/uploads/2026/e8f3abcef8.png)
 
 *Published decisions at tournaments.smtop100.blog/appointments. Example data.*
 
@@ -96,7 +96,7 @@ The aim is simple: the same rules for everyone, decided quickly, and with the re
 
 The rule itself is [section 3.1](https://smtop100.blog/rules/#31-sackings-and-reappointment), and every change is listed in the rules' [change record](https://smtop100.blog/rules/#change-record).
 
-![Rule 3.1, Sackings and reappointment: the VAR standard, never reappointed, clear and obvious errors and outcomes, including routine reviews in Divisions 3 to 5](https://smtop100.blog/uploads/2026/s28-rules-31.png)
+![Rule 3.1, Sackings and reappointment: the VAR standard, never reappointed, clear and obvious errors and outcomes, including routine reviews in Divisions 3 to 5](https://smtop100.blog/uploads/2026/3e634bc25e.png)
 
 *Rule 3.1 in the [Top 100 rules](https://smtop100.blog/rules/#31-sackings-and-reappointment).*
 

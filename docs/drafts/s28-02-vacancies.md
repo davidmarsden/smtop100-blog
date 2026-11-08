@@ -16,7 +16,7 @@ Current Top 100 managers apply by naming the clubs they want, in order. Applying
 
 You apply in Manager Portal, under Appointments: tick the clubs, put them in order, and add a note if you like. You'll get a notification when vacancies open, and you can change or withdraw your application until it closes.
 
-![Manager Portal: applying for two vacant clubs in order of preference](https://smtop100.blog/uploads/2026/s28-apply.png)
+![Manager Portal: applying for two vacant clubs in order of preference](https://smtop100.blog/uploads/2026/1557a50861.png)
 
 *Manager Portal, Appointments. Example clubs.*
 
@@ -61,7 +61,7 @@ Each applicant is matched with the club they most want that is still open, and t
 
 For each vacancy, we publish the decision and the team's reason. We also publish one list of every applicant's score, with its breakdown. We don't publish who applied for which club: not everyone applies for every job, so a lower score doesn't mean a manager missed out on a particular one. If the decision departs from the scores, we say why.
 
-![Published appointments: each decision with the team's reason, then one list of every applicant's score and breakdown](https://smtop100.blog/uploads/2026/4f8cf26878.png)
+![Published appointments: each decision with the team's reason, then one list of every applicant's score and breakdown](https://smtop100.blog/uploads/2026/s28-public-appointments-1.png)
 
 *Published decisions at tournaments.smtop100.blog/appointments. Example data.*
 
@@ -73,7 +73,7 @@ We looked at adding a public confirmation vote and decided against it for now: a
 
 The rule itself is [section 3.2](https://smtop100.blog/rules/#32-club-vacancies-and-manager-appointments), and every change is listed in the rules' [change record](https://smtop100.blog/rules/#change-record).
 
-![Rule 3.2, Club vacancies and manager appointments: applying in order of preference, and the three reasons an applicant isn't eligible, including not being a Gold member](https://smtop100.blog/uploads/2026/s28-rules-32.png)
+![Rule 3.2, Club vacancies and manager appointments: applying in order of preference, and the three reasons an applicant isn't eligible, including not being a Gold member](https://smtop100.blog/uploads/2026/c30d995b3c.png)
 
 *Rule 3.2 in the [Top 100 rules](https://smtop100.blog/rules/#32-club-vacancies-and-manager-appointments) (the scoring table follows it there).*
 
