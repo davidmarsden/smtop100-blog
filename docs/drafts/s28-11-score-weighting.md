@@ -72,5 +72,5 @@ The full rules are in [section 3.2](https://smtop100.blog/rules/#32-club-vacanci
 <!--
 NOTES FOR DAVID (delete before publishing):
 - Anonymised: no applicants, scores or appointments are named. The test used this round's real score breakdowns; the table only reports whether the top three and the appointments changed.
-- Method: each part multiplied by its weight and the total rescaled to 100. The squad-health part = 5 + (squad value rank − squad strength rank, among the 100 clubs) ÷ 6, capped at 0–10, with the other parts scaled to 90. Community assessments were blank at the time (half marks for everyone).
+- Method: each part multiplied by its weight and the total rescaled to 100. The squad-health part = 5 + (squad strength rank − squad value rank, among the 100 clubs) ÷ 6, so a squad ranked higher for value than for strength scores more, capped at 0–10, with the other parts scaled to 90. Community assessments were blank at the time (half marks for everyone).
 -->
