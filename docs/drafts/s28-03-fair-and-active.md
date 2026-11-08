@@ -10,7 +10,7 @@ That's changing. The admin team now regularly updates Top 100's records, and use
 
 This season showed why that matters. Olympique Lyonnais bought two young players who arrived on the same turn and took the squad to 51. A player was sold soon after to bring it back to 50, but the limit had already been broken. Another club went over and nobody noticed at all.
 
-![Rule 4.1, Squad limit: at most 50 players at all times, the usual sanction for going over, and how squads are checked and reported](https://smtop100.blog/uploads/2026/rules-41.png)
+![Rule 4.1, Squad limit: at most 50 players at all times, the usual sanction for going over, and how squads are checked and reported](https://smtop100.blog/uploads/2026/a8cfa34839.png)
 
 *Rule 4.1 in the [Top 100 rules](https://smtop100.blog/rules/#41-squad-limit).*
 
@@ -20,7 +20,7 @@ So squad sizes are now checked at every update:
 - **Anyone can report a squad over 50.** Managers can do it from **Squad & Transfers** in [Manager Portal](https://manager.smtop100.blog/squad). The admin team checks every report, and the club's manager only hears about it if the report is upheld.
 - **If a club went over the limit while it had no manager**, for example with loans taken while it was vacant, that's not held against the manager appointed afterwards. They still need to bring the squad back within the limit.
 
-![Manager Portal, Squad & Transfers: reporting a Top 100 club seen with 51 players](https://smtop100.blog/uploads/2026/s28-squad-report.png)
+![Manager Portal, Squad & Transfers: reporting a Top 100 club seen with 51 players](https://smtop100.blog/uploads/2026/43cce912ac.png)
 
 *Reporting a squad over 50 in Manager Portal, under Squad & Transfers. Example club.*
 
@@ -35,7 +35,7 @@ The Season 28 case set the standard sanction:
 
 These follow-ups are tracked too. The admin team is told when a squad is back within the limit, when a banned club makes a deal it shouldn't, and when a required sale has been made, or made the wrong way.
 
-![The admin team's squad limit review: Eastvale United counted at 51 players on the 28 and 29 October updates, transfers suggesting it first went over on 27 October, with Uphold and Dismiss](https://smtop100.blog/uploads/2026/squad-review.png)
+![The admin team's squad limit review: Eastvale United counted at 51 players on the 28 and 29 October updates, transfers suggesting it first went over on 27 October, with Uphold and Dismiss](https://smtop100.blog/uploads/2026/a6275136b0.png)
 
 *A breach waiting for the admin team's decision, with the evidence from each update. Example data.*
 
@@ -52,7 +52,7 @@ So we're adding alerts for two things:
 
 Alerts go to the Top 100 admin team: **David Marsden, Regan Thompson (Hertha BSC), Hugo Costa (Celtic) and Chris Meida (CSKA Moskva)**. They all now have an alerts page showing squad limits, follow-ups, Gold and logins in one place.
 
-![Gold and login alerts: Gold ending in 7 days, and a manager not logged in for 7 days](https://smtop100.blog/uploads/2026/s28-alerts.png)
+![Gold and login alerts: Gold ending in 7 days, and a manager not logged in for 7 days](https://smtop100.blog/uploads/2026/bb0866b949.png)
 
 *The admin team's alerts page. Clubs and managers here are examples.*
 
