@@ -55,13 +55,13 @@ The scores guide the decision; they don't make it on their own.
 
 Each applicant is matched with the club they most want that is still open, and the highest score among those is offered first. Then we repeat for the clubs left. If you move, your old club becomes vacant and is filled in a further round the same way, which is how one big vacancy can lead to several moves.
 
-**If two applicants for the same club are within five points of each other, the admin team votes**, and each admin records a reason. Those reasons are published with the decision.
+**If two applicants for the same club are within five points of each other, the admin team votes**, and each admin records a reason. The team's reason for the decision is always published.
 
-## 5. Everything is published
+## 5. What's published
 
-For each vacancy, we publish the applicants, every score with its breakdown, and the decision. If the decision departs from the scores, we say why.
+For each vacancy, we publish the decision and the team's reason. We also publish one list of every applicant's score, with its breakdown. We don't publish who applied for which club: not everyone applies for every job, so a lower score doesn't mean a manager missed out on a particular one. If the decision departs from the scores, we say why.
 
-![A published appointment: the applicants' scores and breakdowns, the decision and the admin team's reasons](https://smtop100.blog/uploads/2026/s28-public-appointments.png)
+![Published appointments: each decision with the team's reason, then one list of every applicant's score and breakdown](https://smtop100.blog/uploads/2026/s28-public-appointments.png)
 
 *Published decisions at tournaments.smtop100.blog/appointments. Example data.*
 
