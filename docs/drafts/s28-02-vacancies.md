@@ -61,7 +61,7 @@ Each applicant is matched with the club they most want that is still open, and t
 
 For each vacancy, we publish the decision and the team's reason. We also publish one list of every applicant's score, with its breakdown. We don't publish who applied for which club: not everyone applies for every job, so a lower score doesn't mean a manager missed out on a particular one. If the decision departs from the scores, we say why.
 
-![Published appointments: each decision with the team's reason, then one list of every applicant's score and breakdown](https://smtop100.blog/uploads/2026/s28-public-appointments.png)
+![Published appointments: each decision with the team's reason, then one list of every applicant's score and breakdown](https://smtop100.blog/uploads/2026/4f8cf26878.png)
 
 *Published decisions at tournaments.smtop100.blog/appointments. Example data.*
 
