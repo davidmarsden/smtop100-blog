@@ -66,7 +66,7 @@ A score below the line (45 in Divisions 1 and 2, 40 below) counts as one clear a
 
 That keeps votes to the cases that need them. **No clear and obvious error means reappointed, with no vote.** The admin team only votes on a second chance (one error) or a score close to the line.
 
-![The admin team's review list: each club's score, and whether it's clear or needs a vote, most at risk first](https://smtop100.blog/uploads/2026/s28-admin-summary.png)
+![The admin team's review list: each club's score, and whether it's clear or needs a vote, most at risk first](https://smtop100.blog/uploads/2026/30ac559f98.png)
 
 *The admin team's review list, most at risk first. Clubs, managers and scores here are examples.*
 
