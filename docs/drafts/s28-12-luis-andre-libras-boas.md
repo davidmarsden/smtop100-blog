@@ -41,10 +41,6 @@ Five Division 1 titles, four of them in a row from Season 22 to Season 25, and n
 - Top 100 Shield: Seasons 17, 22
 - Charity Shield: Seasons 19, 23, 25
 
-## What the managers said
-
-> 
-
 Thank you, Luís André, and good luck.
 
 <!--
@@ -54,5 +50,4 @@ NOTES FOR DAVID (delete before publishing):
 - His Soccer Manager history has him at AS Monaco from August to December 2017 (Season 6), while the Full History credits him with Hellas's Season 6 relegation from Division 3. The post says he spent Season 6 at Monaco; check which is right.
 - Season 8: the Full History has Hellas 2nd in Division 3 (promoted); the Stats & History archive has 9th. The post follows the Full History.
 - He left Hellas on 16 October 2026, before the end of S28 (Hellas finished 11th). The Top 100 Cup is credited to him in the honours archive; confirm the final was before he left.
-- No farewell quote or managers' messages yet: add them, as for Dario's post, or delete that section.
 -->
