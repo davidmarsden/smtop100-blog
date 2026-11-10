@@ -132,6 +132,8 @@ A finishing position counts both within the division and across the 100-club pyr
 
 **Appointment.** The scores guide the decision; they do not make it. Each applicant is matched to the club they most want that is still open. The highest of those scores is offered first, then the process repeats for the remaining clubs. Where applicants for the same club are within five points of each other, the administrators vote between them; each records a reason, and the reasons are published with the decision. An applicant who moves leaves a vacancy at their old club, which is filled in a further round in the same way.
 
+**Confirming.** An appointment is offered to the manager, who confirms within 24 hours. A manager who declines, or doesn't confirm in time, stays at their current club; the decision is published as declined and the club goes into the next round.
+
 **Record.** The administrators publish each vacancy, the applicants, every score and its breakdown, and the decision. A decision that departs from the scores must give its reason.
 
 ### 3.3 Joining Top 100 or Top 100 Regen: the waiting list
@@ -284,6 +286,8 @@ Minor clarifications, corrections and administrative procedures may be updated w
 When a substantive rule changes, the effective date should be clear. Historical decisions should be preserved rather than silently rewritten so that an older dispute can be judged against the rule that applied at the time.
 
 ### Change record
+
+**10 November 2026 — Confirming an appointment.** In section 3.2, an appointment is offered to the manager, who confirms within 24 hours. A manager who declines, or doesn't confirm in time, stays at their current club; the decision is published as declined and the club goes into the next round.
 
 **5 November 2026 — Waiting list and rules agreement.** New section 3.3: new and returning managers join a waiting list for Top 100 or Top 100 Regen through a Manager Account, accept the rules agreement (including later changes by vote or by the administrators), are ordered with returning Top 100 managers first and then by a published waiting-list score, confirm their place once a season, and are offered vacant clubs with a deadline to accept.
 
