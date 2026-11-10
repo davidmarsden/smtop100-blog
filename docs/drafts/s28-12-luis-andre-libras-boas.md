@@ -25,7 +25,7 @@ After one more promotion, as Division 2 champions in Season 15, Hellas never lef
 | 26 | 3rd | 1st |
 | 27 | 4th | 3rd |
 
-Five Division 1 titles, four of them in a row from Season 22 to Season 25, and only once outside the top four between Seasons 20 and 27.
+Five Division 1 titles, four of them in a row from Season 22 to Season 25, and never outside the top four from Season 20 to Season 27.
 
 ## Honours
 
