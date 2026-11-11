@@ -94,7 +94,7 @@ Where reappointment would turn on a review score less than five points from the 
 |---|---|---|
 | Result against squad strength | 30 | This season's finish against the position the squad's strength predicted |
 | Track record | 20 | Finishes within the division and results against squad strength in the last two seasons (15), and honours (5). A manager new to Top 100 gets half marks |
-| Activity and contribution | 30 | As in 3.2: Top 100 competitions, dealings with other Top 100 managers in the transfer market, squad building, running Top 100, community and social activity, and focus on Top 100 rather than many other game worlds |
+| Activity and contribution | 30 | As in 3.2: Top 100 competitions, dealings with other Top 100 managers in the transfer market, squad building, running Top 100, voting in awards and polls, community and social activity, and focus on Top 100 rather than many other game worlds |
 | Record and conduct | 20 | Earlier bottom-three finishes in the last five seasons (10, minus 5 for each, not counting seasons taken over part-way through), seasons at the club (5) and disciplinary record (5) |
 
 **Filling the places.** Top 100 aims to have 100 managers, but it is not a requirement. Vacancies at bigger clubs, in Divisions 1 and 2, attract existing Top 100 managers and keep the game world active, and the clubs they leave are filled in further rounds and by new managers joining. The administrators publish how many clubs need a manager after the review alongside the decisions.
@@ -126,7 +126,7 @@ A bottom-three finish and a big step up do not rule anyone out. They are weighed
 | Honours | 15 | Division 1 titles (6), other titles (3) and promotions (2), up to 15 |
 | Record at the club's level | 10 | Seasons in the vacant club's division or higher, and top-half finishes there |
 | Stability and conduct | 20 | Seasons at the current club (5), bottom-three finishes in the last five seasons including this one (10, minus 3 for each, not counting seasons taken over part-way through) and disciplinary record (5). Applicants are held to a higher standard on forfeits: 2.5 points off for each forfeit in a Top 100 competition this season, such as the Youth Cup |
-| Activity and contribution | 20 | Top 100 competitions such as the Youth Cup and World Club Cup (4), dealings with other Top 100 managers in the transfer market (4), squad building: the squad's rise in the strength rankings under the manager (4), running Top 100: the game world owner, an administrator or a competition organiser (3), or a former owner or administrator (1.5), community and social activity (3, the average of the administrators' separate assessments), and focus: managing in no more than three Soccer Manager game worlds in all (2, less a quarter point for each further game world) |
+| Activity and contribution | 20 | Top 100 competitions such as the Youth Cup and World Club Cup (4), dealings with other Top 100 managers in the transfer market (4), squad building: the squad's rise in the strength rankings under the manager (4), running Top 100: the game world owner, an administrator or a competition organiser (3), or a former owner or administrator (1.5), voting: the share of the awards votes and polls in the last 12 months the manager could vote in and did (2; not voting counts against), community and social activity (2, the average of the administrators' separate assessments), and focus: managing in no more than three Soccer Manager game worlds in all (1, less an eighth of a point for each further game world) |
 
 A finishing position counts both within the division and across the 100-club pyramid. Squad strength uses the Stats & History ETOT measure.
 
@@ -286,6 +286,8 @@ Minor clarifications, corrections and administrative procedures may be updated w
 When a substantive rule changes, the effective date should be clear. Historical decisions should be preserved rather than silently rewritten so that an older dispute can be judged against the rule that applied at the time.
 
 ### Change record
+
+**10 November 2026 — Voting counts towards activity.** In section 3.2, activity and contribution includes voting in awards votes and polls (2 points: the share of the votes in the last 12 months the manager could take part in and did). Community and social activity is now worth 2 points and focus 1, so activity stays at 20. A vote still open never counts against anyone. How many managers have voted is shown publicly while each vote is open.
 
 **10 November 2026 — Confirming an appointment.** In section 3.2, an appointment is offered to the manager, who confirms within 24 hours. A manager who declines, or doesn't confirm in time, stays at their current club; the decision is published as declined and the club goes into the next round.
 
