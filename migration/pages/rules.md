@@ -138,7 +138,7 @@ A finishing position counts both within the division and across the 100-club pyr
 
 ### 3.3 Joining Top 100 or Top 100 Regen: the waiting list
 
-New managers, and former managers who would like to come back, join the waiting list through a **[Manager Account](https://manager.smtop100.blog/)**. You can join the list for either game world, or both. New managers are encouraged to start in **Top 100 Regen** and prove themselves there.
+New managers, and former managers who would like to come back, join the waiting list through a **[Manager Account](https://manager.smtop100.blog/)**. You can join the list for either game world, or both. New managers are encouraged to start in **Top 100 Regen** and prove themselves there. You can manage one club in each game world: taking a Top 100 club doesn't mean giving up your Top 100 Regen club.
 
 **Joining.** Sign up with your email, give your Soccer Manager manager name, choose the game world or worlds, tell us how you found Top 100, and accept the rules agreement below.
 
@@ -286,6 +286,8 @@ Minor clarifications, corrections and administrative procedures may be updated w
 When a substantive rule changes, the effective date should be clear. Historical decisions should be preserved rather than silently rewritten so that an older dispute can be judged against the rule that applied at the time.
 
 ### Change record
+
+**12 November 2026 — A club in each game world.** Section 3.3 says that a manager can manage one club in each game world, so a Top 100 Regen manager who takes a Top 100 club keeps their Top 100 Regen club.
 
 **10 November 2026 — Voting counts towards activity.** In section 3.2, activity and contribution includes voting in awards votes and polls (2 points: the share of the votes in the last 12 months the manager could take part in and did). Community and social activity is now worth 2 points and focus 1, so activity stays at 20. A vote still open never counts against anyone. How many managers have voted is shown publicly while each vote is open.
 
