@@ -199,7 +199,7 @@ This time I'm picking one set-up and sticking with it.
 | AM | Bidon | 85 | Bidon | 85 |
 | RW | R. Messi | 78 | El-Abdellaoui | 82 |
 | LW | D. Rodríguez | 76 | Gonçalves | 80 |
-| CF | Assomo | 65 | Makama | 82 |
+| CF | Assomo | 65 | R. Messi | 78 |
 
 Behind them, the real-world signs are encouraging. Joane Gadou is a regular at Borussia Dortmund. Lucas Herrington is in the Premier League with Hull and already an Australia international. Kees Smit and Breno Bidon are each valued at €25m. Huguinho's value has gone from €0.3m to €3m at Botafogo, and Miguelito Terceros is a full Bolivia international.
 
@@ -230,7 +230,7 @@ NOTES FOR DAVID (delete before publishing):
 - Player stats come from match snapshots: Ekitiké 34 apps, 6G 5A, 7.59, 8 MotM; Sané 32 apps, 3G 9A, 7.50; KDB 36 apps, 8G 4A, 7.39; Casemiro 35 apps, 8G.
 - Transfer totals are cash only, from 26 Jun onward. Including the 24–25 Jun deals (Abbey £10m etc.), spending was £72.6m against £33.0m received.
 - Season 29 XI assumes Casemiro stays (Celtic were bidding) and Tadić starts on the right. Swap in Almirón, Carrascal or a new signing if that changes. Herrington is in the youth XI, but Milan have bid for him.
-- Youth XI: I assumed under-22s. Check the Youth Cup age rule. Makama (22) may be too old.
+- Youth XI: 21 and under at the start of the season, using current ages. The oldest are Bidon, Idrissi and Gonçalves (all 21).
 - Youth Cup S28: Manager Lab's records for Hamburger's entry conflict (it's registered to Hertha Berlin), so I left the Youth Cup out. Add a line if you want one.
 - Images are placeholders: formations chart, Ekitiké stats.
 -->
