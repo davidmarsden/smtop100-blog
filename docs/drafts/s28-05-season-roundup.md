@@ -4,6 +4,8 @@ Season 28 went to the last night in almost every division. Here's how it finishe
 
 ## Champions
 
+![Season 28 champions: FC Porto, SL Benfica, Sampdoria, SSC Napoli and PSV](https://tournaments.smtop100.blog/roundup/s28/s28-champions.webp)
+
 **Division 1: FC Porto (André Guerra).** 87 points, top all season, with Chelsea four points behind. It's Porto's second Division 1 title.
 
 > "FC Porto is Division 1 Champion!!! What a night, what a campaign! We have been at the top the entire season, but Chelsea pushed us to the limit almost till the end, kudos to James, a top rival. Winning Division 1 one time is a big thing, but to win it twice is an even bigger thing, proving we were not a one season wonder."
@@ -29,6 +31,8 @@ Tonian McGoogan at Valencia: "Absolutely gutted to lose out on the Div 4 title t
 **Division 5: PSV (Chris East).** Champions with 86 points and a goal difference of +42.
 
 ## Promoted
+
+![Going up: the top three and play-off winners from Divisions 2 to 5](https://tournaments.smtop100.blog/roundup/s28/s28-promoted.webp)
 
 Four clubs go up from each of Divisions 2 to 5: the top three, and the play-off winners.
 
@@ -77,6 +81,8 @@ Glen Mullan, RCD Espanyol: "We stayed up against the odds, won our 3rd youth cup
 
 ## Relegated
 
+![Going down: the bottom four from Divisions 1 to 4](https://tournaments.smtop100.blog/roundup/s28/s28-relegated.webp)
+
 Four clubs go down from each of Divisions 1 to 4.
 
 | From | Relegated |
@@ -94,6 +100,8 @@ SC Internacional were relegated but still reached the World Club Cup final. Boja
 
 ## Cups
 
+![Season 28 cup winners](https://tournaments.smtop100.blog/roundup/s28/s28-cups.webp)
+
 - **Charity Shield:** Chelsea (James Mckenzie)
 - **Top 100 Cup:** Hellas Verona (Luís André Libras-Boas)
 - **Top 100 Shield:** Borussia Dortmund (Dario Saviano)
@@ -107,6 +115,8 @@ SC Internacional were relegated but still reached the World Club Cup final. Boja
 Andrew Kelly, Stoke City: "After just missing out on the play-offs and losing in the final of the shield, Stoke fans finally have something to cheer about after a late Ivan Toney strike helped them lift the SM Shield over a strong Levante side."
 
 ## Manager of the Season
+
+![André Guerra, Overall Manager of the Season](https://tournaments.smtop100.blog/awards/s28/mots-s28-overall-guerra.webp)
 
 A record 85 of 96 managers voted (89%).
 
@@ -123,6 +133,12 @@ Full results and vote shares: [S28 Manager of the Season Awards: the results](ht
 
 Three long-serving managers are leaving Top 100:
 
+![Dario Saviano: 24 seasons, 16 in Division 1 with Borussia Dortmund](https://tournaments.smtop100.blog/farewells/s28/farewell-dario.webp)
+
+![Kevin McGregor: from Division 5 to Division 1 in five seasons](https://tournaments.smtop100.blog/farewells/s28/farewell-kevin.webp)
+
+![Gav Harmer: 17 seasons at Atlético Madrid](https://tournaments.smtop100.blog/farewells/s28/farewell-gav.webp)
+
 - **Dario Saviano**, after 24 seasons, the last 16 of them in Division 1 with Borussia Dortmund. His final act was winning the Top 100 Shield. [Link: career highlights]
 - **Kevin McGregor**, after 21 seasons, three league titles and nine seasons at Juventus. [Link: career highlights]
 - **Gav Harmer**, after 17 seasons at Atlético Madrid. [Why Gav hasn't been reappointed at Atlético Madrid](https://smtop100.blog/2026/11/06/why-gav-hasnt-been-reappointed/)
@@ -130,6 +146,8 @@ Three long-serving managers are leaving Top 100:
 ## New managers
 
 Every vacancy has been filled for Season 29.
+
+![New managers for Season 29](https://tournaments.smtop100.blog/roundup/s28/s28-managers.webp)
 
 | Club | Manager |
 |---|---|
@@ -157,6 +175,7 @@ NOTES FOR DAVID (delete before publishing):
 - Quotes are from the newsfeed, lightly trimmed. Spelling mistakes inside quotes are kept, except obvious typos ("havnt" etc.).
 - Play-offs, SMFA cups and the Youth Cup are now confirmed from the game's honours list and the Youth Cup post (updated 15 November).
 - Dario's and Kevin's career highlights posts (s28-06, s28-07) aren't published yet. Link them once they are, or drop the placeholders.
+- Graphics are hosted on tournaments.smtop100.blog (sources in top100-tournaments docs/appointment-cards/s28-roundup-cards.html). Upload them to Micro.blog instead if you prefer.
 - Sassuolo's quote is in Italian, with a translation in brackets.
 - Málaga's manager was The FM when he posted; he's JWD now.
 - Enzo T (Feyenoord), ANMOL SATAM (Augsburg) and Josh McMillan (Man Utd) show as "resigned" on the newsfeed, but that's the automatic bottom-three sacking. All three are being reappointed, so they're not farewells.

@@ -1,5 +1,7 @@
 # Kevin McGregor: from Division 5 to Division 1 in five seasons
 
+![Kevin McGregor: from Division 5 to Division 1 in five seasons](https://tournaments.smtop100.blog/farewells/s28/farewell-kevin.webp)
+
 Kevin McGregor leaves Top 100 after 21 seasons. This season at Juventus is one to forget, but it shouldn't overshadow one of the great climbs in Top 100's history, or the trophies that came with it.
 
 ## The early years (Seasons 6–10)
