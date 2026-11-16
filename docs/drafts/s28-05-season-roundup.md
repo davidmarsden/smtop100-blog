@@ -131,7 +131,7 @@ Full results and vote shares: [S28 Manager of the Season Awards: the results](ht
 
 ## Farewells
 
-Three long-serving managers are leaving Top 100:
+Four long-serving managers are leaving Top 100:
 
 ![Dario Saviano: 24 seasons, 16 in Division 1 with Borussia Dortmund](https://tournaments.smtop100.blog/farewells/s28/farewell-dario.webp)
 
@@ -139,9 +139,12 @@ Three long-serving managers are leaving Top 100:
 
 ![Gav Harmer: 17 seasons at Atlético Madrid](https://tournaments.smtop100.blog/farewells/s28/farewell-gav.webp)
 
+![Luís André Libras-Boas: 27 seasons, five Division 1 titles with Hellas Verona](https://tournaments.smtop100.blog/farewells/s28/farewell-luis.webp)
+
 - **Dario Saviano**, after 24 seasons, the last 16 of them in Division 1 with Borussia Dortmund. His final act was winning the Top 100 Shield. [Link: career highlights]
 - **Kevin McGregor**, after 21 seasons, three league titles and nine seasons at Juventus. [Link: career highlights]
 - **Gav Harmer**, after 17 seasons at Atlético Madrid. [Why Gav hasn't been reappointed at Atlético Madrid](https://smtop100.blog/2026/11/06/why-gav-hasnt-been-reappointed/)
+- **Luís André Libras-Boas**, after 27 seasons, almost all of them at Hellas Verona: five Division 1 titles, four in a row, and 26 honours. His last was this season's Top 100 Cup. [Link: career highlights]
 
 ## New managers
 
