@@ -141,10 +141,10 @@ Four long-serving managers are leaving Top 100:
 
 ![Luís André Libras-Boas: 27 seasons, five Division 1 titles with Hellas Verona](https://tournaments.smtop100.blog/farewells/s28/farewell-luis.webp)
 
-- **Dario Saviano**, after 24 seasons, the last 16 of them in Division 1 with Borussia Dortmund. His final act was winning the Top 100 Shield. [Link: career highlights]
-- **Kevin McGregor**, after 23 seasons, three league titles and nine seasons at Juventus. [Link: career highlights]
+- **Dario Saviano**, after 24 seasons, the last 16 of them in Division 1 with Borussia Dortmund. His final act was winning the Top 100 Shield. [Dario Saviano: 24 seasons, 16 in Division 1](https://smtop100.blog/2026/11/16/dario-saviano-seasons-in-division/)
+- **Kevin McGregor**, after 23 seasons, three league titles and nine seasons at Juventus. [Kevin McGregor: from Division 5 to Division 1 in five seasons](https://smtop100.blog/2026/11/16/kevin-mcgregor-from-division-to/)
 - **Gav Harmer**, after 28 seasons, the last 17 at Atlético Madrid. [Why Gav hasn't been reappointed at Atlético Madrid](https://smtop100.blog/2026/11/06/why-gav-hasnt-been-reappointed/)
-- **Luís André Libras-Boas**, after 27 seasons, almost all of them at Hellas Verona: five Division 1 titles, four in a row, and 26 honours. His last was this season's Top 100 Cup. [Link: career highlights]
+- **Luís André Libras-Boas**, after 27 seasons, almost all of them at Hellas Verona: five Division 1 titles, four in a row, and 26 honours. His last was this season's Top 100 Cup. [Luís André Libras-Boas: Hellas Verona's champion](https://smtop100.blog/2026/11/16/lus-andr-librasboas-hellas-veronas/)
 
 ## New managers
 
@@ -177,7 +177,6 @@ Bring on Season 29.
 NOTES FOR DAVID (delete before publishing):
 - Quotes are from the newsfeed, lightly trimmed. Spelling mistakes inside quotes are kept, except obvious typos ("havnt" etc.).
 - Play-offs, SMFA cups and the Youth Cup are now confirmed from the game's honours list and the Youth Cup post (updated 15 November).
-- Dario's and Kevin's career highlights posts (s28-06, s28-07) aren't published yet. Link them once they are, or drop the placeholders.
 - Graphics are hosted on tournaments.smtop100.blog (sources in top100-tournaments docs/appointment-cards/s28-roundup-cards.html). Upload them to Micro.blog instead if you prefer.
 - Sassuolo's quote is in Italian, with a translation in brackets.
 - Málaga's manager was The FM when he posted; he's JWD now.
