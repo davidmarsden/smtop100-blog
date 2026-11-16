@@ -1,5 +1,7 @@
 # Dario Saviano: 24 seasons, 16 in Division 1
 
+![Dario Saviano: 24 seasons, 16 in Division 1 with Borussia Dortmund](https://tournaments.smtop100.blog/farewells/s28/farewell-dario.webp)
+
 > "After almost 17 years it's time to leave the game. This GW has been the only reason not to leave before, thank you all."
 
 Dario Saviano is leaving Top 100 after 24 seasons. He finishes the way few managers get to: with a trophy, the Top 100 Shield, in his last season.
