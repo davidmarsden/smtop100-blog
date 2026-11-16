@@ -1,6 +1,11 @@
 # Luís André Libras-Boas: Hellas Verona's champion
 
+![Luís André Libras-Boas: 27 seasons, five Division 1 titles with Hellas Verona](https://tournaments.smtop100.blog/farewells/s28/farewell-luis.webp)
+
 Luís André Libras-Boas has left Top 100 after 27 seasons, almost all of them at Hellas Verona. He took Hellas from Division 4 to five Division 1 titles, four of them in a row, and won 26 honours along the way. His last was the Top 100 Cup, which Hellas won this season.
+
+
+![Luís André Libras-Boas's career: overall rank by season, from Division 4 to five Division 1 titles with Hellas Verona](https://tournaments.smtop100.blog/farewells/s28/career-luis.webp)
 
 ## From Division 4 to Division 1 (Seasons 2–12)
 
