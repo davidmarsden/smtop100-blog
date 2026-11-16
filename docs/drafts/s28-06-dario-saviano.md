@@ -6,6 +6,9 @@
 
 Dario Saviano is leaving Top 100 after 24 seasons. He finishes the way few managers get to: with a trophy, the Top 100 Shield, in his last season.
 
+
+![Dario Saviano's career: overall rank by season, from Levante in Division 5 to Borussia Dortmund in Division 1](https://tournaments.smtop100.blog/farewells/s28/career-dario.webp)
+
 ## Levante: from Division 5 to Division 2 (Seasons 5–12)
 
 Dario arrived in Season 5 at Levante UD in Division 5, and went up through the play-offs in his first season.

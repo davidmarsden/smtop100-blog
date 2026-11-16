@@ -4,6 +4,9 @@
 
 Luís André Libras-Boas has left Top 100 after 27 seasons, almost all of them at Hellas Verona. He took Hellas from Division 4 to five Division 1 titles, four of them in a row, and won 26 honours along the way. His last was the Top 100 Cup, which Hellas won this season.
 
+
+![Luís André Libras-Boas's career: overall rank by season, from Division 4 to five Division 1 titles with Hellas Verona](https://tournaments.smtop100.blog/farewells/s28/career-luis.webp)
+
 ## From Division 4 to Division 1 (Seasons 2–12)
 
 Luís André began at Boca Juniors in Season 2 and moved to Hellas Verona, then in Division 4, before the season was out. In Season 4 Hellas won Division 4 with 79 points.

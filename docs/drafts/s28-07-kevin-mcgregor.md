@@ -4,6 +4,9 @@
 
 Kevin McGregor leaves Top 100 after 21 seasons. This season at Juventus is one to forget, but it shouldn't overshadow one of the great climbs in Top 100's history, or the trophies that came with it.
 
+
+![Kevin McGregor's career: overall rank by season, with his titles, promotions and cups](https://tournaments.smtop100.blog/farewells/s28/career-kevin.webp)
+
 ## The early years (Seasons 6–10)
 
 Kevin started at Beşiktaş in Season 6, then had two seasons at Newcastle United in Division 2. Newcastle won the Top 100 Shield with him in Season 9.
