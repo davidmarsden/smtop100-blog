@@ -154,17 +154,17 @@ Every vacancy has been filled for Season 29.
 
 | Club | Manager |
 |---|---|
-| Borussia Dortmund | Scott Mckenzie |
+| Borussia Dortmund | Scott Mckenzie, from São Paulo FC |
 | Hellas Verona | Sir Stephen Beddows, from Sampdoria |
 | Juventus | Mister TRX, from Sevilla FC |
-| Atlético Madrid | Simon Thomas |
+| Atlético Madrid | Simon Thomas, from AC Milan |
 | São Paulo FC | Neil Frankland, from Udinese Calcio |
-| AC Milan | Kevin Trapp |
+| AC Milan | Kevin Trapp, from Southampton |
 | Sampdoria | Chris East, from PSV |
-| Udinese Calcio | Giuseppe Trovato |
+| Udinese Calcio | Giuseppe Trovato, from Paris Saint-Germain |
 | Paris Saint-Germain | Jay Jones, from AS Monaco |
 | Southampton | Carlo Ancelotti |
-| AS Monaco | Francesco Senesi |
+| AS Monaco | Francesco Senesi, from FC Basel |
 | PSV | Anton I |
 | FC Basel | MAX PALACE |
 | Sevilla FC | Vituz __ |
