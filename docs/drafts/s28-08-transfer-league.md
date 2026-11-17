@@ -1,15 +1,16 @@
 # The Transfer League: who trades with whom in Top 100
 
-Top 100 has always been a trading game world. Now we can measure it. Every completed transfer of Season 28, which began on 23 June, is counted, and the AI has crunched the numbers: who trades most, who trades with whom, and which deals stood out.
+Top 100 has always been a trading game world. Now we can measure it. Every completed transfer of Season 28, from 23 June to the last day of the season, is counted, and the AI has crunched the numbers: who traded most, who traded with whom, and which deals stood out.
 
 ## The numbers
 
-Season 28 has seen **2,933 completed transfers** so far. Most were with clubs outside Top 100, but **312 were between two Top 100 managers**, and those are the ones that matter here.
+Season 28 saw **3,227 completed transfers**. Most were with clubs outside Top 100, but **391 were between two Top 100 managers**, and those are the ones that matter here.
 
-- **85 different managers** sold a player to another Top 100 manager, and **76** bought one.
-- Between them they paid **3.29bn** in fees.
-- The typical (median) fee was **5.6m**.
-- **186** of the 312 deals included other players as well as the main one, and **50** were straight swaps with no cash at all.
+- **93 different managers** sold a player to another Top 100 manager, and **81** bought one.
+- Between them they paid **4.20bn** in fees.
+- The typical (median) fee was **5.0m**.
+- **237** of the 391 deals included other players as well as the main one, and **68** were straight swaps with no cash at all.
+- **81** of them, one in five, came after the last league games on 5 November, worth 907m between them.
 
 ## The most active traders
 
@@ -17,50 +18,65 @@ Deals with other Top 100 managers, and how many different managers each traded w
 
 | Manager | Club | Deals | Trading partners |
 |---|---|---|---|
-| Sheene Ralspunsky | Girondins Bordeaux | 21 | 15 |
-| Walter gogh | Dynamo Moskva | 20 | 15 |
-| Glen Mullan | RCD Espanyol | 19 | 12 |
-| Francesco Garofalo | Spartak Moskva | 19 | 12 |
-| The FM | Málaga CF | 17 | 14 |
-| Gianluca Ghio | Independiente | 17 | 10 |
-| Ash L | Leicester City | 17 | 12 |
+| JWD | Málaga CF | 25 | 19 |
+| Glen Mullan | RCD Espanyol | 24 | 18 |
+| Sheene Ralspunsky | Girondins Bordeaux | 24 | 16 |
+| Pedro Vilar | Tottenham Hotspur | 23 | 18 |
+| Walter Gogh | Dynamo Moskva | 22 | 17 |
+| Francesco Garofalo | Spartak Moskva | 19 | 13 |
+| Gianluca Ghio | Independiente | 18 | 13 |
 | Hugo Costa | Celtic | 17 | 15 |
-| Rob Ryan | Real Madrid, VfB Stuttgart | 16 | 12 |
-| Pedro Vilar | Tottenham Hotspur | 15 | 12 |
-| Carlos Miranda | SL Benfica | 15 | 12 |
-| Davy Vandendriessche | Club Brugge KV | 15 | 11 |
+| Ash L | Leicester City | 17 | 12 |
+| Rob Ryan | Real Madrid, VfB Stuttgart | 17 | 12 |
+| Frank Hirst | Genoa CFC | 17 | 8 |
+| Pane Trifunov | River Plate | 16 | 10 |
 
-Sheene Ralspunsky tops the table with 21 deals across 15 different managers, one in every seven of the game world. Walter gogh and Hugo Costa also traded with 15 different managers each.
+JWD tops the table with 25 deals across 19 different managers, nearly one in five of the game world. Glen Mullan and Pedro Vilar traded with 18 each. Sheene Ralspunsky, who led the table when the league games finished, ended joint second on deals.
 
 It matters for more than bragging rights. Trading with other Top 100 managers is part of the activity score used in reappointment reviews and vacancy applications ([rule 3](https://smtop100.blog/rules/#3-manager-activity-and-conduct)).
 
 ## Favourite trading partners
 
-Some managers keep coming back to each other:
+Some managers kept coming back to each other:
 
-- **Adam (Barcelona) and Ash L (Leicester City):** 4 deals
-- **André Guerra (FC Porto) and Frank Hirst (Genoa CFC):** 4 deals, 27.4m in fees
+- **Anthony Guardiola (TSG 1899 Hoffenheim) and Frank Hirst (Genoa CFC):** 4 deals, 29.4m in fees
 - **James Mckenzie (Chelsea) and Sheene Ralspunsky (Girondins Bordeaux):** 4 deals, 29.0m
+- **André Guerra (FC Porto) and Frank Hirst (Genoa CFC):** 4 deals, 27.4m
 - **Glen Mullan (RCD Espanyol) and Yamil Mc02 (Beşiktaş JK):** 4 deals, 24.1m
-- **Adam (Barcelona) and Gursimran Brar (1. FC Köln):** 3 deals, 56.0m
+- **Adam (Barcelona) and Ash L (Leicester City):** 4 deals
+- **Tom Lee (FC Schalke 04) and Rob Ryan (VfB Stuttgart):** 3 deals, all to Stuttgart, 80.0m
 
 ## The biggest fees
 
 | Player | Rating, age | From | To | Fee |
 |---|---|---|---|---|
+| T. Ernst | 83, 23 | Málaga CF (JWD) | Athletic Club (Wayne Bullough) | 150.0m |
+| M. Svilar | 90, 27 | AS Saint-Etienne (Raul A.) | US Sassuolo (Luciano Catalano) | 150.0m, plus a player |
 | M. Figueireido | 75, 18 | Dnipro (Everton Luiz) | SL Benfica (Carlos Miranda) | 125.3m, plus two players |
 | C. Starfelt | 88, 31 | Fenerbahçe (Alexandre Costa) | Sevilla (Mister TRX) | 100.4m, plus a player |
+| T. Kleindienst | 89, 31 | Paris Saint-Germain (previous manager) | Santos FC (Paolo Everland) | 100.0m, plus two players |
 | A. Caci | 87, 29 | Olympique Lyonnais (Bruno Neto^^) | Liverpool (The Godfather) | 100.0m |
 | B. Mayoral | 88, 29 | Liverpool (The Godfather) | SL Benfica (Carlos Miranda) | 85.5m |
 | G. Simeone | 88, 31 | Liverpool (The Godfather) | Manchester United (Josh McMillan) | 80.0m |
-| L. Danilo | 88, 35 | AS Monaco (Jay Jones) | VfB Stuttgart (Rob Ryan) | 75.0m |
-| P. Maia | 87, 24 | Beşiktaş (Yamil Mc02) | Dinamo Zagreb (Paddyd) | 75.0m |
 
-The record fee wasn't for a star. Carlos Miranda paid 125.3m, plus two players, for an 18-year-old rated 75. Benfica have just won Division 2, so perhaps he knows something. The Godfather was the market's big mover, buying Caci for 100m and selling Mayoral and Simeone for 165.5m between them.
+The two biggest fees came in the last days of the season. Wayne Bullough paid 150m in cash for T. Ernst, a 23-year-old rated 83, on the season's final day. Two days earlier, Luciano Catalano paid the same, plus a player, for goalkeeper M. Svilar.
 
-## The stars who moved
+For most of the season the record belonged to Carlos Miranda, who paid 125.3m, plus two players, for an 18-year-old rated 75. Benfica went on to win Division 2. The Godfather was the market's big mover, buying Caci for 100m and selling Mayoral and Simeone for 165.5m between them.
 
-The big fees and the big names rarely went together. The best players changed hands for much less, usually with players going the other way:
+## The final ten days
+
+Once the league games were over, the market came alive. The best players in the game world changed hands for small fees, with players going the other way:
+
+- **E. Haaland (96, 26)**, Hellas Verona to Borussia Dortmund, from Sir Stephen Beddows (God) to Scott Mckenzie, for 20m plus a player.
+- **F. Vitinha (95, 26)**, Sporting CP to Chelsea, from Carl Martin to James Mckenzie, for 12m plus a player.
+- **K. De Bruyne (93, 35)**, Hamburger SV to Bayern München, from David Marsden to Bojan H, a straight swap for one player.
+- **C. Ronaldo (91, 41)**, Atlético Madrid to Real Madrid, from simon thomas to Jamie Alldridge, for 0.29m plus a player.
+
+Sir Stephen Beddows (God) rebuilt Hellas Verona at speed: 14 deals with other Top 100 managers after taking over, selling Haaland, R. Neves (91) and G. Di Lorenzo (91) and bringing in G. Simeone (91), M. Retegui (91) and M. van de Ven (91). Zé Quim's Swansea City took Neves, Di Lorenzo and G. Martinelli (91).
+
+## The stars who moved earlier
+
+The big fees and the big names rarely went together. Earlier in the season, too, the best players changed hands for much less, usually with players going the other way:
 
 - **F. Wirtz (94, 23)**, Leicester City to Genoa CFC, from Ash L to Frank Hirst. Genoa paid 30m plus **M. Rogers** (now 92) and **A. Santos** (now 89).
 - **L. Díaz (93, 29)**, Barcelona to 1. FC Köln, from Adam to Gursimran Brar, for 28m. It was part of a wider exchange: across several transfers this season, **M. Cancellieri** (86), **Á. Baena** (91) and **J. Derry** (73, 19) went from Köln to Barcelona.
@@ -77,22 +93,27 @@ Gursimran Brar brought three 92–93 rated players to Köln (Díaz, Foden and Ha
 - A deal counts as being between two Top 100 managers when both clubs are Top 100 clubs with a manager at the time.
 - Ratings and ages are as they were at the time of the deal.
 - "Plus two players" means other players were part of the deal. The records don't always show which way they went.
-- It covers Season 28's transfer window from 22 June, the day before the season began, to the final games. The season runs for 21 weeks.
+- It covers Season 28 from 22 June, the day before the season began, to 16 November, its last day.
 
-Season 29 begins on 17 November. Who will top the Transfer League then?
+Season 29 began on 17 November. Who will top the Transfer League this time?
 
 <!--
 NOTES FOR DAVID (delete before publishing):
-- Players in part-exchanges: the transfer records only count the players offered, not who they were. I worked them out from club records: players who played for both clubs this season and are now back at the selling club. Ratings marked "now" are today's, not at the time of the deal.
+- Updated 17 November with the full season: completed deals dated 22 June to 16 November. The 102 deals done on 17 November (S29 day one, none between two Top 100 managers) are left out.
+- Changes since the 6 November version: 312 → 391 deals between managers; JWD now tops the table; two new 150m record fees (Ernst, Svilar); Kleindienst (100m) is now in the fees table; new section on the final ten days; the earlier "stars" section is unchanged.
+- JWD is the same Soccer Manager account as "The FM" in the earlier draft (Málaga), renamed.
+- Kleindienst: Paris Saint-Germain's previous manager has no name in the records (the same one left out of the traders table before). Name them if you know who it was.
+- Svilar and Koulibaly (30.2m) went to Sassuolo on 14–15 November. Luciano Catalano is now transfer banned for being over the squad limit; the post doesn't mention it. Check you're happy with Sassuolo in the fees table.
+- "The final ten days" players: the records only count players offered, not who they were, so the bullets say "plus a player" without naming them.
+- Haaland went to Dortmund, where Scott Mckenzie has taken over for S29 (he was at São Paulo when he signed Palmer). Hellas Verona's new manager is Sir Stephen Beddows (God).
+- De Bruyne is your own deal. Keep it or drop it as you like.
+- Ratings marked "now" in the earlier section are from 6 November.
+- Players in part-exchanges (earlier section): worked out from club records: players who played for both clubs this season and are now back at the selling club.
   - Confident: Wirtz, Palmer, Griezmann, Martínez (two players each, exactly matching).
-  - Foden, Díaz and Timber were multi-player exchanges spread over several transfers, so those bullets list everyone who moved between the two clubs this season. Directions come from the recorded transfers where there is one, and otherwise from the club each player is at now.
-  - Less certain: Moraes (played for both Porto and Köln, now at Köln) and Haraldsson (played for both, now at Genoa, so he may have moved on again). J. Souza also played for Barcelona and Köln this season and is now at Independiente; he's left out.
-  - Ratings in these three bullets are today's ratings.
-- Source: the Lab's Transfer League, completed deals only, as of 6 November. Nothing here names how the records are collected.
-- Period: transfer dates run from 22 June (four deals the day before S28 began) to the end of the season, so the post treats it all as Season 28. 23 June plus 147 days is 17 November, which is given as the start of S29 at the end. Check that date.
+  - Foden, Díaz and Timber were multi-player exchanges spread over several transfers, so those bullets list everyone who moved between the two clubs this season.
+  - Less certain: Moraes and Haraldsson. J. Souza also played for Barcelona and Köln this season and is now at Independiente; he's left out.
+- Source: the Lab's Transfer League, completed deals only. Nothing here names how the records are collected.
 - Currency: fees are shown as "m" without a currency symbol. Add £ or € if Top 100 uses one.
-- One table row was left out: Paris Saint-Germain's previous manager (14 deals) has no name in the records.
-- "One in every seven of the game world": 15 partners out of roughly 100 managers.
+- "Nearly one in five of the game world": 19 partners out of roughly 100 managers.
 - Martínez: "joint second-highest-rated goalkeeper in the world" is your claim; I can't check it from Top 100's records.
-- Ratings are at the time of the deal, so some players will have changed since.
 -->
