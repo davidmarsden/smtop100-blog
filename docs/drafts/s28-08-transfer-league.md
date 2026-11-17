@@ -52,16 +52,16 @@ Some managers kept coming back to each other:
 |---|---|---|---|---|
 | T. Ernst | 83, 23 | Málaga CF (JWD) | Athletic Club (Wayne Bullough) | 150.0m |
 | M. Svilar | 90, 27 | AS Saint-Etienne (Raul A.) | US Sassuolo (Luciano Catalano) | 150.0m, plus L. Hornicek (87) |
-| M. Figueireido | 75, 18 | Dnipro (Everton Luiz) | SL Benfica (Carlos Miranda) | 125.3m, plus two players |
-| C. Starfelt | 88, 31 | Fenerbahçe (Alexandre Costa) | Sevilla (Mister TRX) | 100.4m, plus a player |
-| T. Kleindienst | 89, 31 | Paris Saint-Germain (Tharanidharan) | Santos FC (Paolo Everland) | 100.0m, plus two players |
+| M. Figueireido | 75, 18 | Dnipro (Everton Luiz) | SL Benfica (Carlos Miranda) | 125.3m, plus T. Moffi (88) and Y. Bissouma (87) |
+| C. Starfelt | 88, 31 | Fenerbahçe (Alexandre Costa) | Sevilla (Mister TRX) | 100.4m, plus D. Agustien (70) |
+| T. Kleindienst | 89, 31 | Paris Saint-Germain (Tharanidharan) | Santos FC (Paolo Everland) | 100.0m, plus J. Porter (70) and G. Shepherd (65) |
 | A. Caci | 87, 29 | Olympique Lyonnais (Bruno Neto^^) | Liverpool (The Godfather) | 100.0m |
 | B. Mayoral | 88, 29 | Liverpool (The Godfather) | SL Benfica (Carlos Miranda) | 85.5m |
 | G. Simeone | 88, 31 | Liverpool (The Godfather) | Manchester United (Josh McMillan) | 80.0m |
 
 The two biggest fees came in the last days of the season. Wayne Bullough paid 150m in cash for T. Ernst, a 23-year-old rated 83, on the season's final day. Two days earlier, Luciano Catalano paid the same, plus L. Hornicek, for goalkeeper M. Svilar.
 
-For most of the season the record belonged to Carlos Miranda, who paid 125.3m, plus two players, for an 18-year-old rated 75. Benfica went on to win Division 2. The Godfather was the market's big mover, buying Caci for 100m and selling Mayoral and Simeone for 165.5m between them.
+For most of the season the record belonged to Carlos Miranda, who paid 125.3m, plus T. Moffi (88) and Y. Bissouma (87), for an 18-year-old rated 75. Benfica went on to win Division 2. The Godfather was the market's big mover, buying Caci for 100m and selling Mayoral and Simeone for 165.5m between them.
 
 ## The final ten days
 
@@ -104,7 +104,7 @@ NOTES FOR DAVID (delete before publishing):
 - JWD is the same Soccer Manager account as "The FM" in the earlier draft (Málaga), renamed.
 - Kleindienst: Tharanidharan managed Paris Saint-Germain from 21 July to 9 September (from the club's manager history), so he sold Kleindienst on 22 August.
 - Svilar and Koulibaly (30.2m) went to Sassuolo on 14–15 November. Luciano Catalano is now transfer banned for being over the squad limit; the post doesn't mention it. Check you're happy with Sassuolo in the fees table.
-- Players in the final-ten-days deals and Svilar's deal are named from Soccer Manager's newsfeed transfer items (Bellingham, Caicedo, Jauregizar, Santos Daiber, Hornicek); "now" ratings are today's. The newsfeed only goes back to late October, so Figueireido, Starfelt and Kleindienst (June–August) still say "plus a player/two players": the names are in Top 100 Chat if you want to add them.
+- Players exchanged in the fees table and the final-ten-days section are named from Soccer Manager's transfer records (newsfeed and your Top 100 Chat list). Ratings in brackets are today's; all five players in the June–August deals are still at the selling clubs.
 - Haaland went to Dortmund, where Scott Mckenzie has taken over for S29 (he was at São Paulo when he signed Palmer). Hellas Verona's new manager is Sir Stephen Beddows (God).
 - De Bruyne is your own deal. Keep it or drop it as you like.
 - Ratings marked "now" in the earlier section are from 6 November.
