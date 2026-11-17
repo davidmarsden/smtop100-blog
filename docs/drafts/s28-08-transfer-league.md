@@ -102,7 +102,7 @@ Season 29 began on 17 November. Who will top the Transfer League this time?
 
 <!--
 NOTES FOR DAVID (delete before publishing):
-- Hellas screenshot and quotes: from Stephen Beddows' messages of 17 November. The image is in top100-tournaments PR (public/transfer-league/s28/); merge that before publishing or the image won't load. Check he's happy to be quoted.
+- Hellas screenshot and quotes: from Stephen Beddows' messages of 17 November. The image is in top100-tournaments PR (public/transfer-league/s28/); merge that before publishing or the image won't load. He is happy to be quoted.
 - Updated 17 November with the full season: completed deals dated 22 June to 16 November. The 102 deals done on 17 November (S29 day one, none between two Top 100 managers) are left out.
 - Changes since the 6 November version: 312 → 391 deals between managers; JWD now tops the table; two new 150m record fees (Ernst, Svilar); Kleindienst (100m) is now in the fees table; new section on the final ten days; the earlier "stars" section is unchanged.
 - JWD is the same Soccer Manager account as "The FM" in the earlier draft (Málaga), renamed.
