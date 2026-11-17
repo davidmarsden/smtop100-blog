@@ -51,7 +51,7 @@ Some managers kept coming back to each other:
 | Player | Rating, age | From | To | Fee |
 |---|---|---|---|---|
 | T. Ernst | 83, 23 | Málaga CF (JWD) | Athletic Club (Wayne Bullough) | 150.0m |
-| M. Svilar | 90, 27 | AS Saint-Etienne (Raul A.) | US Sassuolo (Luciano Catalano) | 150.0m, plus a player |
+| M. Svilar | 90, 27 | AS Saint-Etienne (Raul A.) | US Sassuolo (Luciano Catalano) | 150.0m, plus L. Hornicek (87) |
 | M. Figueireido | 75, 18 | Dnipro (Everton Luiz) | SL Benfica (Carlos Miranda) | 125.3m, plus two players |
 | C. Starfelt | 88, 31 | Fenerbahçe (Alexandre Costa) | Sevilla (Mister TRX) | 100.4m, plus a player |
 | T. Kleindienst | 89, 31 | Paris Saint-Germain (Tharanidharan) | Santos FC (Paolo Everland) | 100.0m, plus two players |
@@ -59,18 +59,18 @@ Some managers kept coming back to each other:
 | B. Mayoral | 88, 29 | Liverpool (The Godfather) | SL Benfica (Carlos Miranda) | 85.5m |
 | G. Simeone | 88, 31 | Liverpool (The Godfather) | Manchester United (Josh McMillan) | 80.0m |
 
-The two biggest fees came in the last days of the season. Wayne Bullough paid 150m in cash for T. Ernst, a 23-year-old rated 83, on the season's final day. Two days earlier, Luciano Catalano paid the same, plus a player, for goalkeeper M. Svilar.
+The two biggest fees came in the last days of the season. Wayne Bullough paid 150m in cash for T. Ernst, a 23-year-old rated 83, on the season's final day. Two days earlier, Luciano Catalano paid the same, plus L. Hornicek, for goalkeeper M. Svilar.
 
 For most of the season the record belonged to Carlos Miranda, who paid 125.3m, plus two players, for an 18-year-old rated 75. Benfica went on to win Division 2. The Godfather was the market's big mover, buying Caci for 100m and selling Mayoral and Simeone for 165.5m between them.
 
 ## The final ten days
 
-Once the league games were over, the market came alive. The best players in the game world changed hands for small fees, with players going the other way:
+Once the league games were over, the market came alive. The best players in the game world changed hands for small fees, with top players going the other way:
 
-- **E. Haaland (96, 26)**, Hellas Verona to Borussia Dortmund, from Sir Stephen Beddows (God) to Scott Mckenzie, for 20m plus a player.
-- **F. Vitinha (95, 26)**, Sporting CP to Chelsea, from Carl Martin to James Mckenzie, for 12m plus a player.
-- **K. De Bruyne (93, 35)**, Hamburger SV to Bayern München, from David Marsden to Bojan H, a straight swap for one player.
-- **C. Ronaldo (91, 41)**, Atlético Madrid to Real Madrid, from simon thomas to Jamie Alldridge, for 0.29m plus a player.
+- **E. Haaland (96, 26)**, Hellas Verona to Borussia Dortmund, from Sir Stephen Beddows (God) to Scott Mckenzie, for 20m plus **J. Bellingham** (now 95, 23). Two of the highest-rated players in the game world swapped clubs in one deal.
+- **F. Vitinha (95, 26)**, Sporting CP to Chelsea, from Carl Martin to James Mckenzie, for 12m plus **M. Caicedo** (now 93, 25).
+- **K. De Bruyne (93, 35)**, Hamburger SV to Bayern München, from David Marsden to Bojan H, a straight swap for **M. Jauregizar** (now 89, 23).
+- **C. Ronaldo (91, 41)**, Atlético Madrid to Real Madrid, from simon thomas to Jamie Alldridge, for 0.29m plus youngster **D. Santos Daiber** (now 73, 19).
 
 Sir Stephen Beddows (God) rebuilt Hellas Verona at speed: 14 deals with other Top 100 managers after taking over, selling Haaland, R. Neves (91) and G. Di Lorenzo (91) and bringing in G. Simeone (91), M. Retegui (91) and M. van de Ven (91). Zé Quim's Swansea City took Neves, Di Lorenzo and G. Martinelli (91).
 
@@ -104,7 +104,7 @@ NOTES FOR DAVID (delete before publishing):
 - JWD is the same Soccer Manager account as "The FM" in the earlier draft (Málaga), renamed.
 - Kleindienst: Tharanidharan managed Paris Saint-Germain from 21 July to 9 September (from the club's manager history), so he sold Kleindienst on 22 August.
 - Svilar and Koulibaly (30.2m) went to Sassuolo on 14–15 November. Luciano Catalano is now transfer banned for being over the squad limit; the post doesn't mention it. Check you're happy with Sassuolo in the fees table.
-- "The final ten days" players: the records only count players offered, not who they were, so the bullets say "plus a player" without naming them.
+- Players in the final-ten-days deals and Svilar's deal are named from Soccer Manager's newsfeed transfer items (Bellingham, Caicedo, Jauregizar, Santos Daiber, Hornicek); "now" ratings are today's. The newsfeed only goes back to late October, so Figueireido, Starfelt and Kleindienst (June–August) still say "plus a player/two players": the names are in Top 100 Chat if you want to add them.
 - Haaland went to Dortmund, where Scott Mckenzie has taken over for S29 (he was at São Paulo when he signed Palmer). Hellas Verona's new manager is Sir Stephen Beddows (God).
 - De Bruyne is your own deal. Keep it or drop it as you like.
 - Ratings marked "now" in the earlier section are from 6 November.
