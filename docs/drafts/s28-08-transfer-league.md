@@ -92,7 +92,6 @@ Gursimran Brar brought three 92–93 rated players to Köln (Díaz, Foden and Ha
 
 - A deal counts as being between two Top 100 managers when both clubs are Top 100 clubs with a manager at the time.
 - Ratings and ages are as they were at the time of the deal.
-- "Plus two players" means other players were part of the deal. The records don't always show which way they went.
 - It covers Season 28 from 22 June, the day before the season began, to 16 November, its last day.
 
 Season 29 began on 17 November. Who will top the Transfer League this time?
