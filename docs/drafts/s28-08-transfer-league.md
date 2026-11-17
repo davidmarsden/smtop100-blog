@@ -54,7 +54,7 @@ Some managers kept coming back to each other:
 | M. Svilar | 90, 27 | AS Saint-Etienne (Raul A.) | US Sassuolo (Luciano Catalano) | 150.0m, plus a player |
 | M. Figueireido | 75, 18 | Dnipro (Everton Luiz) | SL Benfica (Carlos Miranda) | 125.3m, plus two players |
 | C. Starfelt | 88, 31 | Fenerbahçe (Alexandre Costa) | Sevilla (Mister TRX) | 100.4m, plus a player |
-| T. Kleindienst | 89, 31 | Paris Saint-Germain (previous manager) | Santos FC (Paolo Everland) | 100.0m, plus two players |
+| T. Kleindienst | 89, 31 | Paris Saint-Germain (Tharanidharan) | Santos FC (Paolo Everland) | 100.0m, plus two players |
 | A. Caci | 87, 29 | Olympique Lyonnais (Bruno Neto^^) | Liverpool (The Godfather) | 100.0m |
 | B. Mayoral | 88, 29 | Liverpool (The Godfather) | SL Benfica (Carlos Miranda) | 85.5m |
 | G. Simeone | 88, 31 | Liverpool (The Godfather) | Manchester United (Josh McMillan) | 80.0m |
@@ -102,7 +102,7 @@ NOTES FOR DAVID (delete before publishing):
 - Updated 17 November with the full season: completed deals dated 22 June to 16 November. The 102 deals done on 17 November (S29 day one, none between two Top 100 managers) are left out.
 - Changes since the 6 November version: 312 → 391 deals between managers; JWD now tops the table; two new 150m record fees (Ernst, Svilar); Kleindienst (100m) is now in the fees table; new section on the final ten days; the earlier "stars" section is unchanged.
 - JWD is the same Soccer Manager account as "The FM" in the earlier draft (Málaga), renamed.
-- Kleindienst: Paris Saint-Germain's previous manager has no name in the records (the same one left out of the traders table before). Name them if you know who it was.
+- Kleindienst: Tharanidharan managed Paris Saint-Germain from 21 July to 9 September (from the club's manager history), so he sold Kleindienst on 22 August.
 - Svilar and Koulibaly (30.2m) went to Sassuolo on 14–15 November. Luciano Catalano is now transfer banned for being over the squad limit; the post doesn't mention it. Check you're happy with Sassuolo in the fees table.
 - "The final ten days" players: the records only count players offered, not who they were, so the bullets say "plus a player" without naming them.
 - Haaland went to Dortmund, where Scott Mckenzie has taken over for S29 (he was at São Paulo when he signed Palmer). Hellas Verona's new manager is Sir Stephen Beddows (God).
