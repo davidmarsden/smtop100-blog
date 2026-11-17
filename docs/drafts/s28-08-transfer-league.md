@@ -74,6 +74,10 @@ Once the league games were over, the market came alive. The best players in the 
 
 Sir Stephen Beddows (God) rebuilt Hellas Verona at speed: 14 deals with other Top 100 managers after taking over, selling Haaland, R. Neves (91) and G. Di Lorenzo (91) and bringing in G. Simeone (91), M. Retegui (91) and M. van de Ven (91). Zé Quim's Swansea City took Neves, Di Lorenzo and G. Martinelli (91).
 
+![Some of Hellas Verona's new arrivals, with the dates their transfer bans end](https://tournaments.smtop100.blog/transfer-league/s28/hellas-beddows-signings.webp)
+
+Beddows was pleased with the result: "Happy with our work as a Fiat Panda driver!" And on the squad he's left behind: "Cut the age massively! 2x over 30s left!"
+
 ## The stars who moved earlier
 
 The big fees and the big names rarely went together. Earlier in the season, too, the best players changed hands for much less, usually with players going the other way:
@@ -98,6 +102,7 @@ Season 29 began on 17 November. Who will top the Transfer League this time?
 
 <!--
 NOTES FOR DAVID (delete before publishing):
+- Hellas screenshot and quotes: from Stephen Beddows' messages of 17 November. The image is in top100-tournaments PR (public/transfer-league/s28/); merge that before publishing or the image won't load. Check he's happy to be quoted.
 - Updated 17 November with the full season: completed deals dated 22 June to 16 November. The 102 deals done on 17 November (S29 day one, none between two Top 100 managers) are left out.
 - Changes since the 6 November version: 312 → 391 deals between managers; JWD now tops the table; two new 150m record fees (Ernst, Svilar); Kleindienst (100m) is now in the fees table; new section on the final ten days; the earlier "stars" section is unchanged.
 - JWD is the same Soccer Manager account as "The FM" in the earlier draft (Málaga), renamed.
