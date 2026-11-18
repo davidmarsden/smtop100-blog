@@ -18,7 +18,7 @@ We went down with a game to spare.
 
 The summer plan looked sensible on paper. De Bruyne would pull the strings in a 4-3-3 alongside Casemiro and Kees Smit. Against the stronger sides we'd return to the 5-2-3 low block that had served us so well at the end of S27.
 
-Our first-team XI averaged 90.2. That's not a relegation squad.
+Our first-team XI averaged 90.4. That's not a relegation squad.
 
 After six games we were 12th, which felt about right.
 
@@ -172,7 +172,7 @@ The aim is simple: go straight back up, without going backwards on youth.
 
 ## First Team Starting XIs
 
-| Position | Season 28 (4-3-3) | Rat | Season 29 (4-3-3) | Rat |
+| Position | Season 28 (4-2-3-1 B) | Rat | Season 29 (4-2-3-1 B) | Rat |
 | --- | --- | --- | --- | --- |
 | GK | Bounou | 90 | E. Martínez | 93 |
 | RB | Semedo | 89 | Semedo | 89 |
@@ -180,12 +180,12 @@ The aim is simple: go straight back up, without going backwards on youth.
 | CB | Orbán | 90 | Rodon | 87 |
 | LB | Gayá | 89 | Gayá | 89 |
 | DM | Casemiro | 90 | Casemiro | 90 |
-| CM | Smit | 86 | Smit | 86 |
-| CM / AM | De Bruyne | 93 | Jauregizar | 89 |
+| DM | Partey | 88 | Smit | 86 |
+| AM | De Bruyne | 93 | Jauregizar | 89 |
 | RW | Sané | 92 | Tadić | 89 |
 | LW | Greenwood | 91 | Greenwood | 91 |
 | CF | Ekitiké | 91 | Ekitiké | 91 |
-| **Average** | | **90.2** | | **89.5** |
+| **Average** | | **90.4** | | **89.5** |
 
 On paper we're weaker than the side that went down. In Division 2, where best-XI averages run from about 87.7 to 90.5, we're near the top.
 
@@ -238,6 +238,7 @@ NOTES FOR DAVID (delete before publishing):
 - Tactics numbers are from the S28 tactics draft (34 recorded games). Add the link once that post is live.
 - Player stats come from match snapshots: Ekitiké 34 apps, 6G 5A, 7.59, 8 MotM; Sané 32 apps, 3G 9A, 7.50; KDB 36 apps, 8G 4A, 7.39; Casemiro 35 apps, 8G.
 - Transfer totals are cash only, from 26 Jun onward. Including the 24–25 Jun deals (Abbey £10m etc.), spending was £72.6m against £33.0m received.
+- XI tables use our usual 4-2-3-1 B for both seasons (two DMs). S28: Casemiro and Partey (88) at DM, so the average is 90.4. S29: Casemiro and Smit, with Jauregizar at AM.
 - Season 29 XI assumes Casemiro stays (Celtic were bidding) and Tadić starts on the right. Swap in Almirón, Carrascal or a new signing if that changes. Herrington is in the youth XI, but Milan have bid for him.
 - Youth XI: 21 and under at the start of the season, using current ages. The oldest are Bidon, Idrissi and Gonçalves (all 21).
 - Youth Cup S28: Manager Lab's records for Hamburger's entry conflict (it's registered to Hertha Berlin), so I left the Youth Cup out. Add a line if you want one.
