@@ -20,6 +20,8 @@ Before the mavericks, the two things every manager has to play with: the quality
 | 3 points stronger | 55% | 19% | 26% | 1.84 |
 | 4+ points stronger | 88% | 12% | 0% | 2.77 |
 
+![Home points per game by the gap between the two starting XIs' average ratings: 0.24 with an XI four or more points weaker, 1.44 level, 2.77 four or more points stronger](https://tournaments.smtop100.blog/roundup/s28/s28-tactics-ratings.webp)
+
 On average, every point of average rating is worth about a sixth of a point a game. Once the gap reaches four points, the stronger side almost always wins: not one home side with an XI four or more points stronger lost all season.
 
 **Home advantage is real, but smaller.** Home sides took **1.45** points a game (41% wins) against **1.33** away (37%). With level XIs, home sides won 40% and away sides 37%. Playing at home is worth a bit less than one point of average rating, roughly two extra points over a season's home games.
@@ -82,9 +84,13 @@ It wasn't just me. Across Top 100:
 - The **61 clubs that switched more often** finished **−0.10** below it.
 - When those switchers did change their set-up, they did worse than expected **in every situation**: against stronger XIs (−0.22), against level XIs (−0.26) and against weaker ones (−0.27). In their usual set-up they were right where their line-ups predicted.
 
+![Stick or switch: clubs that kept one set-up finished 0.16 points a game above what their line-ups predicted, clubs that switched 0.10 below, and switchers who changed their set-up 0.22 to 0.27 below](https://tournaments.smtop100.blog/roundup/s28/s28-tactics-switching.webp)
+
 Struggling teams may switch *because* they're struggling, so this doesn't prove switching costs points. But the managers who picked a plan and stuck to it did best, and the ones trying to out-think every opponent, me included, did worst.
 
 ## One more thing: morale
+
+Thanks to **Mister TRX** for the heads-up on this one. He noticed how well low-rated teams can do when their players' morale is high, and how poorly strong teams can do without it.
 
 Player morale has only been recorded since late September, so this covers about 300 matches from the second half of the season. With two XIs of the same strength, the side whose players had much higher morale (four points or more on average) won **50%** and took **1.74** points a game. The side with much lower morale won **26%** and took **1.02**. Weaker XIs with much higher morale did better than stronger XIs with much lower morale.
 
@@ -100,7 +106,7 @@ Who'll be Season 29's maverick?
 NOTES FOR DAVID (delete before publishing):
 - Updated 18 Nov with every Season 28 league match (1,900, from Season Lab) instead of the 1,348 the first draft had. What changed: Benfica +0.66 → +0.43 (no longer "only three clubs did better"); Villarreal (+0.10) and Manchester City (−0.03) dropped out of the mavericks table; Napoli up to +0.50; Lyon (+0.63) joins the "played it straight" group; Juventus is now the biggest underperformer; Brugge's goals per game 4.5 → 3.89 and not the highest (Boca Juniors 4.34); Bordeaux used seven formations, not five; Hamburger 32 from 38 against 43 expected, nine set-ups; home advantage now about two points a season, not three.
 - What's deliberately left out: the league-wide table of which settings beat expectations (mentality, tempo, pressing, defensive line, counter-attack and so on). It's in Manager Lab's Season Lab page now, for every club and by underdog/matched/favourite.
-- The morale section is new and optional: cut it if it gives too much away. Within a single club, morale above its own usual level is only weakly linked with results so far, which is why it's framed as "may be a sign rather than the reason".
+- The morale section is new, with Mister TRX credited for the heads-up (his observation started the Morale Lab). Within a single club, morale above its own usual level is only weakly linked with results so far, which is why it's framed as "may be a sign rather than the reason".
 - Club descriptions stick to formation, mentality and depth, and don't name the instructions that matter most. The descriptions of Feyenoord and Juventus ("neither attacking nor defensive") hint at one finding. Cut that if it gives too much away.
 - Fair test: the gap between the two starting XIs' average ratings, rounded to the nearest point (capped at ±6), home or away, gives the expected points (the average for every team in that situation). Starting XI = the first 11 players listed for each side. Points totals match the official final tables.
 - "Set-up" = formation, mentality, tempo, pressing, defensive line and counter-attack together.
