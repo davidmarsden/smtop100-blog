@@ -87,6 +87,22 @@ We finished four points behind Manchester City in 17th.
 
 * * *
 
+# Cup Comfort
+
+Away from the league, Hamburg looked like a different team.
+
+In the **SMFA Shield**, our reward for last season's goals, we topped Group H unbeaten: five wins and a draw, 20 scored and 4 conceded against Cremonese, FC København and Slavia Praha. Then we drew Manchester City in Round 1 and lost both legs 2-1.
+
+The **Top 100 Cup** was the run of the season. We beat Shakhtar Donetsk 2-1, Villarreal 3-2 and champions-to-be FC Porto 2-0 at the Volksparkstadion. We got past Swansea after a 3-3 draw, and won 2-1 at AC Milan in the quarter-final.
+
+The semi-final at Hellas Verona was a step too far. We lost 3-0 to the eventual winners.
+
+The **Top 100 Shield** was brief: 2-0 at West Brom in Round 2.
+
+A Cup semi-final and an unbeaten Shield group don't make up for relegation. But they do suggest the squad was better than the league table, and the manager rather worse.
+
+* * *
+
 # Player of the Season: Hugo Ekitiké
 
 * * *
@@ -240,6 +256,7 @@ NOTES FOR DAVID (delete before publishing):
 - Tactics numbers are from the S28 tactics draft (34 recorded games). Add the link once that post is live.
 - Player stats come from match snapshots: Ekitiké 34 apps, 6G 5A, 7.59, 8 MotM; Sané 32 apps, 3G 9A, 7.50; KDB 36 apps, 8G 4A, 7.39; Casemiro 35 apps, 8G.
 - Transfer totals are cash only, from 26 Jun onward. Including the 24–25 Jun deals (Abbey £10m etc.), spending was £72.6m against £33.0m received.
+- Cup results are from Manager Lab match snapshots. Swansea (Top 100 Cup R4) finished 3-3 and Hamburg went through; I assume on penalties, so check. Porto were D1 champions, and Verona won the Cup.
 - XI tables (first team and youth) use 4-2-3-1 B, which started 24 of 38 league games (4-3-3 B 5, 3-2-2-2-1 5, 5-4-1 B 4), per Manager Lab match snapshots. Youth S29: Baker-Whiting (77) at RB over Pališčák (76), S. Martínez (76) at DM over Huguinho (73). S28: Casemiro and Partey (88) at DM, so the average is 90.4. S29: Casemiro and Smit, with Jauregizar at AM.
 - Season 29 XI assumes Casemiro stays (Celtic were bidding) and Tadić starts on the right. Swap in Almirón, Carrascal or a new signing if that changes. Herrington is in the youth XI, but Milan have bid for him.
 - Youth XI: 21 and under at the start of the season, using current ages. The oldest are Bidon, Idrissi and Gonçalves (all 21).
