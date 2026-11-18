@@ -209,7 +209,13 @@ The aim is simple: go straight back up, without going backwards on youth.
 | CF | Ekitiké | 91 | Ekitiké | 91 |
 | **Average** | | **90.4** | | **89.5** |
 
-On paper we're weaker than the side that went down. In Division 2, where best-XI averages run from about 87.7 to 90.5, we## Youth Starting XIs
+On paper we're weaker than the side that went down. In Division 2, where best-XI averages run from about 87.7 to 90.5, we're near the top.
+
+That's the plan. It was also the plan last season.
+
+This time I'm picking one set-up and sticking with it.
+
+## Youth Starting XIs
 
 | Position | Season 28 (4-2-3-1 B) | Rat | Season 29 (4-2-3-1 B) | Rat |
 | --- | --- | --- | --- | --- |
@@ -225,11 +231,6 @@ On paper we're weaker than the side that went down. In Division 2, where best-XI
 | LW | D. Rodríguez | 76 | Gonçalves | 80 |
 | CF | Assomo | 65 | R. Messi | 78 |
 | **Average** | | **79.6** | | **79.8** |
-
-
-| RW | R. Messi | 78 | El-Abdellaoui | 82 |
-| LW | D. Rodríguez | 76 | Gonçalves | 80 |
-| CF | Assomo | 65 | R. Messi | 78 |
 
 Behind them, the real-world signs are encouraging. Joane Gadou is a regular at Borussia Dortmund. Lucas Herrington is in the Premier League with Hull and already an Australia international. Kees Smit and Breno Bidon are each valued at €25m. Huguinho's value has gone from €0.3m to €3m at Botafogo, and Miguelito Terceros is a full Bolivia international.
 
