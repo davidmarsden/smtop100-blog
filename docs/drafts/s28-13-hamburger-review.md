@@ -55,7 +55,7 @@ Our matches still produced 3.08 goals a game, mid-table for chaos, but this time
 
 # Trying to Outwit the Match Engine
 
-_![](IMAGE: Hamburg formations / set-up chart)_
+![Hamburger SV Season 28 points per game by starting formation](images/hsv-s28-formations.png)
 
 I wrote about this in the [tactics review](LINK: S28 tactics post), so I'll be brief, and honest.
 
@@ -63,7 +63,7 @@ I changed formation and tactics game by game, depending on the opponent and whet
 
 In the 34 games recorded, our line-ups were good enough for **47 points**. We took **29**.
 
-Our usual 4-2-3-1 was the closest to par: 18 points from 15 games, against 27 expected. The clever stuff was worse. The 3-2-2-2-1 brought 3 points from 5 games. The 5-4-1 brought 1 from 4.
+Our usual 4-2-3-1 B took 23 points from its 24 starts. That's 0.96 a game, survival pace and no more. The clever stuff was worse. The 3-2-2-2-1 brought 3 points from 5 games. The 5-4-1 brought 1 from 4.
 
 Across the whole of Top 100, the clubs that picked a plan and stuck to it finished above what their line-ups predicted. The tinkerers finished below it.
 
@@ -107,7 +107,7 @@ A Cup semi-final and an unbeaten Shield group don't make up for relegation. But 
 
 * * *
 
-_![](IMAGE: Ekitiké season stats)_
+![Hugo Ekitiké, Hamburger SV Player of Season 28: 7.59 average, 8 of 11 Man of the Match awards](images/hsv-s28-ekitike.png)
 
 * * *
 
@@ -261,5 +261,5 @@ NOTES FOR DAVID (delete before publishing):
 - Season 29 XI assumes Casemiro stays (Celtic were bidding) and Tadić starts on the right. Swap in Almirón, Carrascal or a new signing if that changes. Herrington is in the youth XI, but Milan have bid for him.
 - Youth XI: 21 and under at the start of the season, using current ages. The oldest are Bidon, Idrissi and Gonçalves (all 21).
 - Youth Cup S28: Manager Lab's records for Hamburger's entry conflict (it's registered to Hertha Berlin), so I left the Youth Cup out. Add a line if you want one.
-- Images are placeholders: formations chart, Ekitiké stats.
+- Images: docs/drafts/images/hsv-s28-formations.png and hsv-s28-ekitike.png (2400×1350, HSV blue, white and black). Upload them to micro.blog and swap in the upload URLs.
 -->
