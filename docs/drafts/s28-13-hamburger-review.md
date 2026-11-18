@@ -41,9 +41,9 @@ The decline was brutal.
 | Points | 50 | 32 | −18 |
 | Position | 12th | 18th | −6 |
 
-The defence was a little better. It was still the second-worst in the division.
+Our defence has been absolutely woeful for all three of our seasons in Division 1. We conceded 85 in S26, 77 in S27 and 73 this season: a little better each time, and still the second-worst in the division.
 
-The real problem was at the other end. Last season we scored 72. This season we managed 44, and only Juventus, Manchester City and CSKA were less potent.
+The difference was at the other end. In the two previous seasons our forwards scored enough to keep us up, and last time they even got us into the SMFA Shield. This season they didn't fire at all, while we carried on shipping goals at an alarming rate. Last season we scored 72. This season we managed 44, and only Juventus, Manchester City and CSKA were less potent.
 
 The Entertainers had become the Spectators.
 
@@ -121,9 +121,17 @@ The supporters, for once, are on their side.
 
 # The Clear-Out
 
-Relegation forced the issue, and the rebuild started the day we went down.
+Having sealed relegation at relegation rivals Aston Villa, it was time to refresh the team for Division 2.
 
-**Iñigo Martínez** (35, 90) went to Celtic, with Denil Castillo coming the other way. **Stefan de Vrij** (34, 90) went to Stuttgart for £10m and Jones El-Abdellaoui. **Juan Jesus** (35, 88) went to Rubin Kazan for £15.1m.
+I don't want to put all the blame on my ageing centre-backs, but the time had come to move them on. This season I had three 90-rated CBs, all in their mid-30s. Meanwhile young Joane Gadou is knocking on the first-team door, Alessandro Marcandalli is developing nicely, Joe Rodon looks underrated, and Lucas Herrington and Jahmai Simpson-Pusey are pushing on too.
+
+**Iñigo Martínez** (35, 90) went to Celtic, in return for young Ecuador midfielder Denil Castillo.
+
+**Stefan de Vrij** (34, 90) brought a massive cash offer. The cash would have helped build more seats in the stadium and improve the training facilities, but I'd always rather take a punt on a player. So he went to Stuttgart for £10m and 20-year-old winger Jones El-Abdellaoui.
+
+Thanks to Hugo and Rob for those deals.
+
+**Juan Jesus** (35, 88) had a remarkable year, rising from 86 to 88 in his mid-30s. He went to Rubin Kazan for £15.1m.
 
 The biggest decision was **Kevin De Bruyne**.
 
@@ -223,6 +231,7 @@ See you soon.
 
 <!--
 NOTES FOR DAVID (delete before publishing):
+- Your chat post (relegation night) is worked in: the three-season defence and forwards framing in "What the Numbers Say", and the centre-backs, "take a punt on a player", the thanks to Hugo and Rob, and Juan Jesus 86 to 88 in "The Clear-Out". "Massive cash offer" for de Vrij is kept general; name Stuttgart's £200m bid if you want.
 - Style: same format as "The Entertainers" (standfirst, H1 sections, metrics table, Player of the Season, XI tables), with fewer one-line paragraphs and a little more analysis.
 - League figures are from Manager Lab's final S28 table and all 38 match snapshots: 18th, 8-8-22, 44-73, 32 pts; 17th Man City 36; relegated with Internacional (31) and Juventus (13). Home 6-3-10, away 2-5-12.
 - "Only Juventus, Manchester City and CSKA were less potent": Juventus scored 24 and CSKA 40; Man City scored 44, the same as us. Reword if you'd rather say "joint third-lowest".
