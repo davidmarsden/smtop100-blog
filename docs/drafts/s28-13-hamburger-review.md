@@ -18,6 +18,8 @@ We went down with a game to spare.
 
 The summer plan looked sensible on paper. De Bruyne would pull the strings in a 4-3-3 alongside Casemiro and Kees Smit. Against the stronger sides we'd return to the 5-2-3 low block that had served us so well at the end of S27.
 
+In practice the 4-3-3 started only five league games. I soon went back to the familiar 4-2-3-1 B, which started 24 of our 38.
+
 Our first-team XI averaged 90.4. That's not a relegation squad.
 
 After six games we were 12th, which felt about right.
@@ -187,24 +189,24 @@ The aim is simple: go straight back up, without going backwards on youth.
 | CF | Ekitiké | 91 | Ekitiké | 91 |
 | **Average** | | **90.4** | | **89.5** |
 
-On paper we're weaker than the side that went down. In Division 2, where best-XI averages run from about 87.7 to 90.5, we're near the top.
+On paper we're weaker than the side that went down. In Division 2, where best-XI averages run from about 87.7 to 90.5, we## Youth Starting XIs
 
-That's the plan. It was also the plan last season.
-
-This time I'm picking one set-up and sticking with it.
-
-## Youth Starting XIs
-
-| Position | Season 28 | Rat | Season 29 | Rat |
+| Position | Season 28 (4-2-3-1 B) | Rat | Season 29 (4-2-3-1 B) | Rat |
 | --- | --- | --- | --- | --- |
 | GK | Whatmuff | 70 | Whatmuff | 70 |
-| RB | Mimović | 80 | Pališčák | 76 |
-| LB | Espinosa | 80 | Idrissi | 80 |
+| RB | Mimović | 80 | Baker-Whiting | 77 |
 | CB | Gadou | 83 | Gadou | 83 |
 | CB | Simpson-Pusey | 80 | Herrington | 81 |
-| DM | Huguinho | 73 | Huguinho | 73 |
-| CM | Smit | 86 | Smit | 86 |
+| LB | Espinosa | 80 | Idrissi | 80 |
+| DM | Smit | 86 | Smit | 86 |
+| DM | Huguinho | 73 | S. Martínez | 76 |
 | AM | Bidon | 85 | Bidon | 85 |
+| RW | R. Messi | 78 | El-Abdellaoui | 82 |
+| LW | D. Rodríguez | 76 | Gonçalves | 80 |
+| CF | Assomo | 65 | R. Messi | 78 |
+| **Average** | | **79.6** | | **79.8** |
+
+
 | RW | R. Messi | 78 | El-Abdellaoui | 82 |
 | LW | D. Rodríguez | 76 | Gonçalves | 80 |
 | CF | Assomo | 65 | R. Messi | 78 |
@@ -238,7 +240,7 @@ NOTES FOR DAVID (delete before publishing):
 - Tactics numbers are from the S28 tactics draft (34 recorded games). Add the link once that post is live.
 - Player stats come from match snapshots: Ekitiké 34 apps, 6G 5A, 7.59, 8 MotM; Sané 32 apps, 3G 9A, 7.50; KDB 36 apps, 8G 4A, 7.39; Casemiro 35 apps, 8G.
 - Transfer totals are cash only, from 26 Jun onward. Including the 24–25 Jun deals (Abbey £10m etc.), spending was £72.6m against £33.0m received.
-- XI tables use our usual 4-2-3-1 B for both seasons (two DMs). S28: Casemiro and Partey (88) at DM, so the average is 90.4. S29: Casemiro and Smit, with Jauregizar at AM.
+- XI tables (first team and youth) use 4-2-3-1 B, which started 24 of 38 league games (4-3-3 B 5, 3-2-2-2-1 5, 5-4-1 B 4), per Manager Lab match snapshots. Youth S29: Baker-Whiting (77) at RB over Pališčák (76), S. Martínez (76) at DM over Huguinho (73). S28: Casemiro and Partey (88) at DM, so the average is 90.4. S29: Casemiro and Smit, with Jauregizar at AM.
 - Season 29 XI assumes Casemiro stays (Celtic were bidding) and Tadić starts on the right. Swap in Almirón, Carrascal or a new signing if that changes. Herrington is in the youth XI, but Milan have bid for him.
 - Youth XI: 21 and under at the start of the season, using current ages. The oldest are Bidon, Idrissi and Gonçalves (all 21).
 - Youth Cup S28: Manager Lab's records for Hamburger's entry conflict (it's registered to Hertha Berlin), so I left the Youth Cup out. Add a line if you want one.
