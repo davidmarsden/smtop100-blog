@@ -55,9 +55,9 @@ Our matches still produced 3.08 goals a game, mid-table for chaos, but this time
 
 # Trying to Outwit the Match Engine
 
-![Hamburger SV Season 28 points per game by starting formation](images/hsv-s28-formations.png)
+![Hamburger SV Season 28 points per game by starting formation](https://smtop100.blog/uploads/2026/hsv-s28-formations.png)
 
-I wrote about this in the [tactics review](LINK: S28 tactics post), so I'll be brief, and honest.
+I wrote about this in the [tactics review](https://smtop100.blog/2026/11/18/playing-it-differently-the-mavericks/), so I'll be brief, and honest.
 
 I changed formation and tactics game by game, depending on the opponent and whether we were home or away. Attacking at home. A back five or a back three away at stronger sides. By the end of the season Hamburg had used **eight different set-ups**, and the most common one in only a quarter of games.
 
@@ -107,15 +107,19 @@ A Cup semi-final and an unbeaten Shield group don't make up for relegation. But 
 
 * * *
 
-![Hugo Ekitiké, Hamburger SV Player of Season 28: 7.59 average, 8 of 11 Man of the Match awards](images/hsv-s28-ekitike.png)
+![Hugo Ekitiké, Hamburger SV Player of Season 28: 7.59 average, 8 of 11 Man of the Match awards](https://smtop100.blog/uploads/2026/hsv-s28-ekitike.png)
 
 * * *
 
 In a season with very little to celebrate, Hugo Ekitiké was the exception.
 
+It didn't start that way. He scored twice in the first three weeks, then went two and a half months without a league goal, from mid-July to early October. Then, just as the season was slipping away, he found his touch: four goals in five games in October.
+
 His 6 goals and 5 assists don't jump off the page in a team that scored 44, but his 7.59 average was the best in the squad. He won **8 of the team's 11 Man of the Match awards**.
 
 When Hamburg played well, Ekitiké usually had something to do with it. When we didn't, he was usually the only one trying.
+
+The same couldn't be said of Mason Greenwood, our Player of the Season last time. He laid on 8 assists but didn't score a single league goal all season. His only goals came in the cups: two in the SMFA Shield group in early July, and one at Swansea in the Top 100 Cup. Last season he had 11 league goals and 21 assists. That drop alone goes a long way to explaining where our 28 missing goals went.
 
 Honourable mentions go to Leroy Sané (9 assists, 7.50 average) before he left in the Emiliano Martínez deal. They also go to Kevin De Bruyne (8 goals, 7.39), who gave us one excellent season and then a very good transfer.
 
@@ -261,5 +265,6 @@ NOTES FOR DAVID (delete before publishing):
 - Season 29 XI assumes Casemiro stays (Celtic were bidding) and Tadić starts on the right. Swap in Almirón, Carrascal or a new signing if that changes. Herrington is in the youth XI, but Milan have bid for him.
 - Youth XI: 21 and under at the start of the season, using current ages. The oldest are Bidon, Idrissi and Gonçalves (all 21).
 - Youth Cup S28: Manager Lab's records for Hamburger's entry conflict (it's registered to Hertha Berlin), so I left the Youth Cup out. Add a line if you want one.
-- Images: docs/drafts/images/hsv-s28-formations.png and hsv-s28-ekitike.png (2400×1350, HSV blue, white and black). Upload them to micro.blog and swap in the upload URLs.
+- Images now use the micro.blog upload URLs.
+- Ekitiké's league goals: 28 Jun and 16 Jul, then 4, 8, 15 and 22 Oct (match snapshots). Greenwood: 0 league goals in 32 apps (8 assists); cup goals 29 Jun and 6 Jul (SMFA Shield) and 25 Aug (Top 100 Cup R4 at Swansea). You remembered him scoring in the final games, but the records show no league goal at all. Check if you think one is missing.
 -->
