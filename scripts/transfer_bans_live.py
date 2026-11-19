@@ -110,7 +110,7 @@ def table_text(table: dict) -> str:
     if totals:
         lines.append(f"*{totals.get('bans')} bans for {totals.get('managers')} managers on record since {totals.get('firstYear')}, "
                      f"about {round((totals.get('days') or 0) / 365.25, 1)} years of transfer bans in all. Ranked by bans, then time banned. "
-                     "Records cover 2019 to 2021 and July 2023 onwards.*")
+                     "Records from before 2023 may be incomplete.*")
     return "\n".join(lines) + "\n\n"
 
 
