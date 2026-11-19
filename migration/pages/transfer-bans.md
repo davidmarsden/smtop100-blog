@@ -1,6 +1,6 @@
 # Transfer Bans
 
-Transfer bans enforce Top 100's squad limit and transfer rules ([rules 4.1 and 5](https://smtop100.blog/rules/#41-squad-limit)). A manager is banned for going over the 50-player squad limit, even briefly, or for cancelling an accepted deal. A bid accepted in error and cancelled within the same minute does not lead to a ban.
+Transfer bans enforce Top 100's squad limit and transfer rules ([rules 4.1 and 5](https://smtop100.blog/rules/#41-squad-limit)). A manager is banned for going over the 50-player squad limit, even briefly, or for cancelling an agreed deal ([rule 5.1](https://smtop100.blog/rules/#51-agreed-deals-are-binding)). A genuine mistake on a system bid, with no prior agreement between the managers, can be cancelled within five minutes without a ban ([rule 5.2](https://smtop100.blog/rules/#52-genuine-mistakes)).
 
 Signed-in managers can always see the up-to-date list of bans in force on the [Manager Portal](https://manager.smtop100.blog/). Don't offer deals to a club under a ban, or accept theirs.
 
