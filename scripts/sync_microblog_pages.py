@@ -57,15 +57,14 @@ PAGES = {
         "title": "Manager Portal",
         "ready": True,
     },
-    # A dated post rather than a standalone page (it came from the old site), so it's updated
-    # at its public URL instead of being found in the pages channel (Micropub's q=source
-    # lookup doesn't find it; the editorial publisher updates posts the same way).
+    # Replaces the 2025 post carried over from the old site, which Micro.blog can't update.
+    # Created on first sync if it doesn't exist yet.
     "transfer-bans": {
         "source": Path("migration/pages/transfer-bans.md"),
-        "public_url": "https://smtop100.blog/2025/02/26/transfer-bans/",
+        "public_url": "https://smtop100.blog/transfer-bans/",
         "title": "Transfer Bans",
         "ready": True,
-        "post": True,
+        "create_if_missing": True,
     },
 }
 
@@ -188,6 +187,36 @@ def resolve_page_url(key: str, discovered: list[dict]) -> str:
     )
 
 
+def create_page(token: str, key: str, content: str) -> None:
+    """Create a standalone page through Micropub's pages channel."""
+    page = PAGES[key]
+    form = urllib.parse.urlencode(
+        {
+            "h": "entry",
+            "name": page["title"],
+            "content": content,
+            "mp-channel": "pages",
+            "mp-destination": MICROPUB_DESTINATION,
+        }
+    ).encode("utf-8")
+    headers = micropub_headers(token)
+    headers["Content-Type"] = "application/x-www-form-urlencoded; charset=utf-8"
+    request = urllib.request.Request(MICROPUB_ENDPOINT, data=form, method="POST", headers=headers)
+    try:
+        with urllib.request.urlopen(request, timeout=30) as response:
+            status = response.status
+            location = response.headers.get("Location", "")
+    except urllib.error.HTTPError as exc:
+        body = exc.read().decode("utf-8", errors="replace").strip()
+        raise RuntimeError(
+            f"Micro.blog refused to create {key} ({exc.code}): {body or exc.reason}. "
+            f"Create a page titled {page['title']!r} in Micro.blog and run the sync again."
+        ) from exc
+    except urllib.error.URLError as exc:
+        raise RuntimeError(f"Could not reach Micro.blog to create {key}: {exc.reason}") from exc
+    print(f"Created {key}: {location or page['public_url']} (HTTP {status})")
+
+
 def publish_page(
     token: str,
     key: str,
@@ -202,7 +231,7 @@ def publish_page(
         state = "ready" if page["ready"] else "validation-only"
         print(
             f"DRY RUN {key} [{state}]: {page['source']} -> "
-            f"{'update the post at its URL' if page.get('post') else 'discover from Micropub pages channel'} (public {page['public_url']}; "
+            f"{'discover from Micropub pages channel' + (', create if missing' if page.get('create_if_missing') else '')} (public {page['public_url']}; "
             f"{len(content)} chars)"
         )
         return
@@ -214,9 +243,13 @@ def publish_page(
     if discovered is None:
         raise RuntimeError("Standalone pages were not discovered before publishing")
 
-    target_url = (
-        page["public_url"] if page.get("post") else resolve_page_url(key, discovered)
-    )
+    try:
+        target_url = resolve_page_url(key, discovered)
+    except RuntimeError:
+        if not page.get("create_if_missing"):
+            raise
+        create_page(token, key, content)
+        return
     # Name the blog explicitly: without mp-destination Micro.blog resolves the
     # update against the account's default blog, which may not be smtop100.
     payload = {

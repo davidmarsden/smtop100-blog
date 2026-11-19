@@ -186,7 +186,7 @@ The length of the ban rises with each offence:
 | Third | 4 months |
 | Fourth | 6 months |
 
-A manager who doesn't break the transfer rules for six months after a ban ends moves back down one level, and down another for each further six months. Current and past bans are listed on the [Transfer Bans](https://smtop100.blog/2025/02/26/transfer-bans/) page.
+A manager who doesn't break the transfer rules for six months after a ban ends moves back down one level, and down another for each further six months. Current and past bans are listed on the [Transfer Bans](https://smtop100.blog/transfer-bans/) page.
 
 Squad sizes are checked regularly (see [How we check](#how-we-check)), and managers are told when a check finds their squad over the limit. Managers and administrators can also report a squad seen over the limit (Manager Portal, Squad & Transfers); the administrators check each report, and the club's manager is told if it is upheld. A breach that began while a club had no manager, such as loans taken while it was vacant, is not held against the manager who is then appointed, though they must bring the squad back within the limit. Players signed while a club had no manager, if frozen by a transfer ban, do not count towards the limit; they are sold once the ban ends.
 
