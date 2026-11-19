@@ -18,10 +18,17 @@ Signed-in managers can always see the up-to-date list of bans in force on the [M
 
 The managers banned most often, and how long they spent banned.
 
+![Most transfer bans: the ten managers banned most often, with their number of bans, total and longest time banned, and latest ban](https://tournaments.smtop100.blog/.netlify/functions/transfer-bans-image)
+
+<details>
+<summary>Show as a table</summary>
+
 <!-- live:table -->
 *The table is rebuilt every day from the ban records.*
 
 <!-- /live:table -->
+</details>
+
 ## How bans work
 
 During a transfer ban the only permitted deals are **cash sales to clubs outside Top 100**. A banned manager may not deal with any other Top 100 manager, even by selling for cash, until the ban ends.
