@@ -34,7 +34,8 @@ def fetch_register(url: str = FEED_URL) -> list[dict]:
     try:
         with urllib.request.urlopen(request, timeout=30) as response:
             payload = json.loads(response.read().decode("utf-8"))
-    except (urllib.error.URLError, json.JSONDecodeError) as exc:
+    # URLError and read timeouts are OSErrors; bad JSON or encoding are ValueErrors.
+    except (OSError, ValueError) as exc:
         raise RuntimeError(f"Could not read the transfer ban register at {url}: {exc}") from exc
     bans = payload.get("bans")
     if not isinstance(bans, list):
