@@ -1,6 +1,6 @@
 # Rules
 
-*Last updated: 29 October 2026*
+*Last updated: 19 November 2026*
 
 Top 100 is competitive, but it is also a community. The rules exist to keep the game world fair, active and enjoyable — not to create administration for its own sake.
 
@@ -172,10 +172,21 @@ A club may have a maximum of **50 players** associated with its squad.
 
 The limit is intended to prevent player hoarding and protect competitive balance. Managers are responsible for keeping their squad compliant. The limit applies at all times, including between transfer turns, and Soccer Manager's own squad setting does not enforce it.
 
-Going over 50, even briefly, normally means:
+Going over 50, even briefly, means:
 
-- a one-month transfer ban, during which the only permitted deals are cash sales to clubs outside Top 100;
+- a transfer ban, during which the only permitted deals are cash sales to clubs outside Top 100;
 - the signing that took the squad over 50 is sold for cash to a club outside Top 100 once that player's own transfer ban ends, and the club may not bid for them again.
+
+The length of the ban rises with each offence:
+
+| Offence | Transfer ban |
+|---|---|
+| First | 1 month |
+| Second | 3 months |
+| Third | 4 months |
+| Fourth | 6 months |
+
+A manager who doesn't break the transfer rules for six months after a ban ends moves back down one level, and down another for each further six months. Current and past bans are listed on the [Transfer Bans](https://smtop100.blog/2025/02/26/transfer-bans/) page.
 
 Squad sizes are checked regularly (see [How we check](#how-we-check)), and managers are told when a check finds their squad over the limit. Managers and administrators can also report a squad seen over the limit (Manager Portal, Squad & Transfers); the administrators check each report, and the club's manager is told if it is upheld. A breach that began while a club had no manager, such as loans taken while it was vacant, is not held against the manager who is then appointed, though they must bring the squad back within the limit. Players signed while a club had no manager, if frozen by a transfer ban, do not count towards the limit; they are sold once the ban ends.
 

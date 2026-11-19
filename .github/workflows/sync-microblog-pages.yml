@@ -8,6 +8,7 @@ on:
       - 'migration/pages/rules.md'
       - 'migration/pages/support.md'
       - 'migration/pages/manager-portal.md'
+      - 'migration/pages/transfer-bans.md'
       - 'scripts/sync_microblog_pages.py'
       - '.github/workflows/sync-microblog-pages.yml'
   push:
@@ -18,6 +19,7 @@ on:
       - 'migration/pages/rules.md'
       - 'migration/pages/support.md'
       - 'migration/pages/manager-portal.md'
+      - 'migration/pages/transfer-bans.md'
       - 'scripts/sync_microblog_pages.py'
       - '.github/workflows/sync-microblog-pages.yml'
   workflow_dispatch:
