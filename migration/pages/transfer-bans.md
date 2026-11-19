@@ -73,6 +73,27 @@ A manager who doesn't break the transfer rules for **six months after a ban ends
 - Attilio Bonicci (Lokomotiv Moskva) - one month ban for first level offence from 11 September 2023 to 10 October 2023, and sell Nikola ĆETKOVIĆ to external club 20 November 2023.
 - Pedro (Feyenoord/Tottenham Hotspur) - three month ban for second level offence from 7 July 2023 to 5 October 2023, and and sell Tiziano FULVI to external club 15 September 2023 (no longer possible as Pedro moved clubs),
 
+## Completed bans, 2021 to 2023
+
+From the administrators' records; the reasons weren't recorded with these.
+
+- Niall Taylor (Manchester United): one-month ban from 30 July 2023 to 29 August 2023, and sell J. ADAMS to an external club.
+- Nuno Bento (Partizan): one-month ban from 7 July 2023 to 6 August 2023, and sell Iacopo REGONESI to an external club.
+- Gursimran Brar (Köln): ban from 17 June 2023 to 7 July 2023, and sell Bruce DEUWEL to an external club.
+- Stephen Beddows (Sampdoria): three-month ban from 20 February 2023 to 21 May 2023, and sell Youns EL HILALI to an external club.
+- yamil Mc02 (Besiktas): one-month ban from 29 January 2023 to 28 February 2023, and sell MUZAMBO to an external club.
+- Mark Phelps (Flamengo): one-month ban from 25 January 2023 to 24 February 2023, and sell CAMARGO to an external club.
+- Hugo Costa (Celtic): one-month ban from 16 January 2023 to 15 February 2023, and sell Kendry PAEZ to an external club.
+- Stephen Beddows (Sampdoria): one-month ban from 8 January 2023 to 7 February 2023, and sell MONTEVAGO to an external club.
+- Attilio Bonnici (Lokomotiv Moskva): two-month ban from 9 December 2022 to 7 February 2023, and sell BRUNNER to an external club.
+- Attilio Bonnici (Lokomotiv Moskva): one-month ban from 24 June 2022 to 24 July 2022, and sell MAGNANI to an external club.
+- Josh McMillan (Basel): one-month ban from 23 May 2022 to 22 June 2022.
+- DouDou (Schalke): one-month ban from 22 April 2022 to 22 May 2022.
+- Hugo Costa (Celtic): one-month ban from 7 April 2022 to 7 May 2022, and sell Joe HUGILL to an external club.
+- Adam (Aston Villa): one-month ban from 7 April 2022 to 7 May 2022, and sell Adama TRAORÉ to an external club.
+- J Walker (Crystal Palace): one-month ban from 29 October 2021 to 28 November 2021, and sell Gentil JADER to an external club.
+- Dario Saviano (Borussia Dortmund): one-month ban from 10 October 2021 to 9 November 2021, and sell Álvaro BASTIDA to an external club.
+
 ## Completed bans, 2019 to 2021
 
 - Walter Gogh (FK Partizan) - one month ban for first level offence from 24 August 2021 to 23 September 2021, and return the loan of Mohamad Simakan to parent club 24 August 2021.
