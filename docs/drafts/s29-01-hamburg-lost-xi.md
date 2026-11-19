@@ -31,6 +31,8 @@ It took a while.
 | CF | Julián Álvarez | Dec 2019 | 78 | 94 |
 | **Average** | | | | **91.4** |
 
+![Hamburg's Lost XI in a 4-2-3-1: eleven players Hamburg sold, now averaging 91.4](images/hsv-lost-xi.png)
+
 Lined up in our usual 4-2-3-1 B, the Lost XI averages **91.4**. Our actual first team averages 89.5.
 
 The ones that got away are nearly two points better than the ones that stayed.
@@ -122,6 +124,30 @@ He's since dropped to 89, so I can live with that one.
 
 * * *
 
+# On the Plus Side
+
+There is one thing this list proves: I can spot a player.
+
+Nine of them cost Hamburg less than £1.5m each, bought from external clubs or straight off the new-player list:
+
+| Player | Signed | Fee | Now |
+| --- | --- | --- | --- |
+| Maxence Lacroix | Jan 2020, Sochaux | £399k | 90 |
+| Pedro Porro | Jun 2018, Girona | £479k | 91 |
+| Moisés Caicedo | Mar 2020, Independiente del Valle | £479k | 93 |
+| Samu Aghehowa | Aug 2023, Granada | £479k | 89 |
+| Giorgio Scalvini | May 2021, new player | £599k | 90 |
+| Mario Gila | Jan 2022, Valencia | £600k | 90 |
+| Waldemar Anton | May 2016, Hannover | £639k | 90 |
+| Julián Álvarez | Jan 2019, new player | £1.4m | 94 |
+| John McGinn | Feb 2016, Hibernian | £1.4m | 91 |
+
+That's **£6.5m for nine players now rated 89 to 94**.
+
+The scouting was never the problem. The patience was.
+
+* * *
+
 # The Lesson
 
 Look at the "At" column again. Álvarez went at 78. Gila at 78. Scalvini at 75. Pubill at 76. João Pedro, Cardoso and Aghehowa at 82.
@@ -154,5 +180,6 @@ NOTES FOR DAVID (delete before publishing):
 - "More than £50m": 20 + 12 + 10 + 5 + 3.2 + 2.4 + 1 + 1 = £54.6m, plus £0.8m in the Cardoso deal.
 - "Seven players now rated 90+": Stiller, Caicedo, Kudus, Lee, Scalvini, João Pedro and Porro (Pubill is 89).
 - Lost XI in 4-2-3-1 B: Semenyo (AM(RL), F(RLC)) on the right, João Pedro (AM, F(LC)) on the left, Gibbs-White at AM.
-- Images: none yet. A Lost XI team-sheet graphic in HSV colours, like the review graphics, would work well. Say if you want one.
+- Image: docs/drafts/images/hsv-lost-xi.png. Upload it to micro.blog and swap in the upload URL (as with the review graphics).
+- "On the Plus Side" fees are Hamburg's original cash signings from the transfer histories. Other future 90s came in swaps or bigger packages (Pacho £1m + Stindl, Semenyo £3m, Stiller £5m, João Pedro and Kudus together for £5m + Kossounou), so they're left out of the £6.5m.
 -->
