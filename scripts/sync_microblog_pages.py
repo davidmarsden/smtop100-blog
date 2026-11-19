@@ -22,6 +22,8 @@ import urllib.parse
 import urllib.request
 from pathlib import Path
 
+import transfer_bans_live
+
 MICROPUB_ENDPOINT = "https://micro.blog/micropub"
 MICROPUB_DESTINATION = "https://smtop100.micro.blog/"
 DISCOVERY_PAGE_SIZE = 100
@@ -65,6 +67,8 @@ PAGES = {
         "title": "Transfer Bans",
         "ready": True,
         "create_if_missing": True,
+        # Current and recent bans come from the Manager Portal's public register.
+        "live": True,
     },
 }
 
@@ -223,9 +227,12 @@ def publish_page(
     *,
     discovered: list[dict] | None = None,
     dry_run: bool = False,
+    require_live: bool = False,
 ) -> None:
     page = PAGES[key]
     content = page_body(page["source"])
+    if page.get("live"):
+        content = transfer_bans_live.apply(content, require=require_live)
 
     if dry_run:
         state = "ready" if page["ready"] else "validation-only"
@@ -310,6 +317,11 @@ def main() -> int:
         help="Select all managed pages. Intended for validation; unready pages still cannot publish.",
     )
     parser.add_argument("--dry-run", action="store_true", help="Validate sources without publishing.")
+    parser.add_argument(
+        "--require-live",
+        action="store_true",
+        help="Fail rather than fall back to the repo text if a page's live data can't be read.",
+    )
     args = parser.parse_args()
 
     if args.all and args.pages:
@@ -335,7 +347,7 @@ def main() -> int:
     try:
         discovered = None if args.dry_run else discover_pages(token)
         for key in selected:
-            publish_page(token, key, discovered=discovered, dry_run=args.dry_run)
+            publish_page(token, key, discovered=discovered, dry_run=args.dry_run, require_live=args.require_live)
     except (RuntimeError, ValueError) as exc:
         print(str(exc), file=sys.stderr)
         return 1
