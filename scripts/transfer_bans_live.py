@@ -4,6 +4,7 @@ migration/pages/transfer-bans.md marks two blocks:
 
     <!-- live:current -->  ...  <!-- /live:current -->
     <!-- live:recent -->   ...  <!-- /live:recent -->
+    <!-- live:table -->    ...  <!-- /live:table -->
 
 At publish time each block is replaced with the bans from the Manager Portal's public register
 (bans in force, and bans ended since September 2026, with their required sales and whether each
@@ -29,7 +30,7 @@ MONTH_WORDS = {1: "one", 2: "two", 3: "three", 4: "four", 5: "five", 6: "six"}
 ORDINALS = {1: "first", 2: "second", 3: "third", 4: "fourth"}
 
 
-def fetch_register(url: str = FEED_URL) -> list[dict]:
+def fetch_register(url: str = FEED_URL) -> dict:
     request = urllib.request.Request(url, headers={"Accept": "application/json", "User-Agent": "smtop100-page-sync/1.4"})
     try:
         with urllib.request.urlopen(request, timeout=30) as response:
@@ -40,7 +41,7 @@ def fetch_register(url: str = FEED_URL) -> list[dict]:
     bans = payload.get("bans")
     if not isinstance(bans, list):
         raise RuntimeError(f"The transfer ban register at {url} returned no list of bans")
-    return bans
+    return payload
 
 
 def long_date(value: str) -> str:
@@ -80,7 +81,42 @@ def ban_text(ban: dict) -> str:
     return text
 
 
-def render(bans: list[dict], today: dt.date) -> dict[str, str]:
+def months_text(days: int) -> str:
+    months = max(1, round(int(days) / 30.4))
+    return f"{months} month{'' if months == 1 else 's'}"
+
+
+def table_text(table: dict) -> str:
+    """The managers with the most bans: a Markdown table plus the totals."""
+    totals = table.get("totals") or {}
+    rows = table.get("managers") or []
+    lines = [
+        "| | Manager | Bans | Time banned | Longest ban | Latest ban |",
+        "|---|---|---|---|---|---|",
+    ]
+    rank = 0
+    previous = None
+    for index, row in enumerate(rows, 1):
+        key = (row.get("bans"), row.get("days"))
+        if key != previous:
+            rank, previous = index, key
+        latest = dt.date.fromisoformat(str(row["lastStarted"])[:10]).strftime("%B %Y")
+        name = row.get("manager") or "Unknown manager"
+        if row.get("bannedNow"):
+            name += " (banned now)"
+        lines.append(f"| {rank} | {name} | {row.get('bans')} | {months_text(row.get('days') or 0)} | "
+                     f"{months_text(row.get('longestDays') or 0)} | {latest} |")
+    lines.append("")
+    if totals:
+        lines.append(f"*{totals.get('bans')} bans for {totals.get('managers')} managers on record since {totals.get('firstYear')}, "
+                     f"about {round((totals.get('days') or 0) / 365.25, 1)} years of transfer bans in all. Ranked by bans, then time banned. "
+                     "Records cover 2019 to 2021 and July 2023 onwards.*")
+    return "\n".join(lines) + "\n\n"
+
+
+def render(payload, today: dt.date) -> dict[str, str]:
+    bans = payload.get("bans", []) if isinstance(payload, dict) else payload
+    table = payload.get("table") if isinstance(payload, dict) else None
     current = [b for b in bans if b.get("current")]
     recent = [b for b in bans if not b.get("current")]
 
@@ -102,10 +138,14 @@ def render(bans: list[dict], today: dt.date) -> dict[str, str]:
     else:
         lines.append("No transfer bans are in force.")
 
-    return {
+    blocks = {
         "current": "\n".join(lines) + "\n\n",
         "recent": "".join(f"- {ban_text(ban)}\n" for ban in recent),
     }
+    # Without the table (an older feed, or it failed), the repo's fallback text stays.
+    if table and table.get("managers"):
+        blocks["table"] = table_text(table)
+    return blocks
 
 
 def apply(text: str, *, require: bool = False, today: dt.date | None = None) -> str:

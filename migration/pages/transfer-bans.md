@@ -14,6 +14,14 @@ Signed-in managers can always see the up-to-date list of bans in force on the [M
 - **Bruno Neto^^ (Olympique Lyonnais):** one-month ban for a first level offence, from 20 October 2026 to 20 November 2026. Sell Y. IDDER to an external club for cash when his own ban ends.
 
 <!-- /live:current -->
+## Most bans
+
+The managers banned most often, and how long they spent banned.
+
+<!-- live:table -->
+*The table is rebuilt every day from the ban records.*
+
+<!-- /live:table -->
 ## How bans work
 
 During a transfer ban the only permitted deals are **cash sales to clubs outside Top 100**. A banned manager may not deal with any other Top 100 manager, even by selling for cash, until the ban ends.
