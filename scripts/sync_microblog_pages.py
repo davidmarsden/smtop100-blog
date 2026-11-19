@@ -57,6 +57,15 @@ PAGES = {
         "title": "Manager Portal",
         "ready": True,
     },
+    # A dated post rather than a standalone page (it came from the old site), so it's looked up
+    # by its URL instead of in the pages channel.
+    "transfer-bans": {
+        "source": Path("migration/pages/transfer-bans.md"),
+        "public_url": "https://smtop100.blog/2025/02/26/transfer-bans/",
+        "title": "Transfer Bans",
+        "ready": True,
+        "post": True,
+    },
 }
 
 
@@ -146,6 +155,27 @@ def first_property(item: dict, name: str) -> str:
     return ""
 
 
+def lookup_post_url(token: str, public_url: str) -> str:
+    """Return Micro.blog's update URL for a post, looked up by its public URL."""
+    params = urllib.parse.urlencode(
+        {"q": "source", "url": public_url, "mp-destination": MICROPUB_DESTINATION}
+    )
+    request = urllib.request.Request(
+        f"{MICROPUB_ENDPOINT}?{params}", method="GET", headers=micropub_headers(token)
+    )
+    try:
+        with urllib.request.urlopen(request, timeout=30) as response:
+            payload = json.loads(response.read().decode("utf-8", errors="replace"))
+    except urllib.error.HTTPError as exc:
+        body = exc.read().decode("utf-8", errors="replace").strip()
+        raise RuntimeError(f"Micro.blog could not find the post {public_url} ({exc.code}): {body or exc.reason}") from exc
+    except urllib.error.URLError as exc:
+        raise RuntimeError(f"Could not reach Micro.blog to look up {public_url}: {exc.reason}") from exc
+    except json.JSONDecodeError as exc:
+        raise RuntimeError(f"Micro.blog returned invalid JSON for {public_url}") from exc
+    return first_property(payload, "url") or public_url
+
+
 def resolve_page_url(key: str, discovered: list[dict]) -> str:
     """Match a managed page to Micro.blog's exact update URL."""
     page = PAGES[key]
@@ -192,7 +222,7 @@ def publish_page(
         state = "ready" if page["ready"] else "validation-only"
         print(
             f"DRY RUN {key} [{state}]: {page['source']} -> "
-            f"discover from Micropub pages channel (public {page['public_url']}; "
+            f"{'look up the post' if page.get('post') else 'discover from Micropub pages channel'} (public {page['public_url']}; "
             f"{len(content)} chars)"
         )
         return
@@ -204,7 +234,9 @@ def publish_page(
     if discovered is None:
         raise RuntimeError("Standalone pages were not discovered before publishing")
 
-    target_url = resolve_page_url(key, discovered)
+    target_url = (
+        lookup_post_url(token, page["public_url"]) if page.get("post") else resolve_page_url(key, discovered)
+    )
     # Name the blog explicitly: without mp-destination Micro.blog resolves the
     # update against the account's default blog, which may not be smtop100.
     payload = {
