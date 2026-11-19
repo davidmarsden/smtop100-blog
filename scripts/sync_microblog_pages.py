@@ -57,9 +57,8 @@ PAGES = {
         "title": "Manager Portal",
         "ready": True,
     },
-    # A dated post rather than a standalone page (it came from the old site), so it's updated
-    # at its public URL instead of being found in the pages channel (Micropub's q=source
-    # lookup doesn't find it; the editorial publisher updates posts the same way).
+    # Dated like a post (it came from the old site): found in the pages channel by its path or
+    # title if it's there, else updated at its public URL.
     "transfer-bans": {
         "source": Path("migration/pages/transfer-bans.md"),
         "public_url": "https://smtop100.blog/2025/02/26/transfer-bans/",
@@ -188,6 +187,16 @@ def resolve_page_url(key: str, discovered: list[dict]) -> str:
     )
 
 
+def resolve_post_url(key: str, discovered: list[dict]) -> str:
+    """A post imported from the old site may sit in the pages channel; use its entry there if so,
+    else its public URL."""
+    try:
+        return resolve_page_url(key, discovered)
+    except RuntimeError as exc:
+        print(f"{key}: not in the pages channel, updating at its public URL ({exc})")
+        return PAGES[key]["public_url"]
+
+
 def publish_page(
     token: str,
     key: str,
@@ -202,7 +211,7 @@ def publish_page(
         state = "ready" if page["ready"] else "validation-only"
         print(
             f"DRY RUN {key} [{state}]: {page['source']} -> "
-            f"{'update the post at its URL' if page.get('post') else 'discover from Micropub pages channel'} (public {page['public_url']}; "
+            f"{'pages channel, else its public URL' if page.get('post') else 'discover from Micropub pages channel'} (public {page['public_url']}; "
             f"{len(content)} chars)"
         )
         return
@@ -215,7 +224,7 @@ def publish_page(
         raise RuntimeError("Standalone pages were not discovered before publishing")
 
     target_url = (
-        page["public_url"] if page.get("post") else resolve_page_url(key, discovered)
+        resolve_post_url(key, discovered) if page.get("post") else resolve_page_url(key, discovered)
     )
     # Name the blog explicitly: without mp-destination Micro.blog resolves the
     # update against the account's default blog, which may not be smtop100.
