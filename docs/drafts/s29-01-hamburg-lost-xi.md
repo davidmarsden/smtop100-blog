@@ -31,7 +31,7 @@ It took a while.
 | CF | Julián Álvarez | Dec 2019 | 78 | 94 |
 | **Average** | | | | **91.4** |
 
-![Hamburg's Lost XI in a 4-2-3-1: eleven players Hamburg sold, now averaging 91.4](images/hsv-lost-xi.png)
+![Hamburg's Lost XI in a 4-2-3-1: eleven players Hamburg sold, now averaging 91.4](https://smtop100.blog/uploads/2026/hsv-lost-xi.png)
 
 Lined up in our usual 4-2-3-1 B, the Lost XI averages **91.4**. Our actual first team averages 89.5.
 
@@ -180,6 +180,6 @@ NOTES FOR DAVID (delete before publishing):
 - "More than £50m": 20 + 12 + 10 + 5 + 3.2 + 2.4 + 1 + 1 = £54.6m, plus £0.8m in the Cardoso deal.
 - "Seven players now rated 90+": Stiller, Caicedo, Kudus, Lee, Scalvini, João Pedro and Porro (Pubill is 89).
 - Lost XI in 4-2-3-1 B: Semenyo (AM(RL), F(RLC)) on the right, João Pedro (AM, F(LC)) on the left, Gibbs-White at AM.
-- Image: docs/drafts/images/hsv-lost-xi.png. Upload it to micro.blog and swap in the upload URL (as with the review graphics).
+- Image now uses the micro.blog upload URL.
 - "On the Plus Side" fees are Hamburg's original cash signings from the transfer histories. Other future 90s came in swaps or bigger packages (Pacho £1m + Stindl, Semenyo £3m, Stiller £5m, João Pedro and Kudus together for £5m + Kossounou), so they're left out of the £6.5m.
 -->
