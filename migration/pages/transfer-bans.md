@@ -6,12 +6,14 @@ Signed-in managers can always see the up-to-date list of bans in force on the [M
 
 ## Current bans
 
+<!-- live:current -->
 *As of 19 November 2026.*
 
 - **Luciano Catalano (US Sassuolo):** three-month ban for a second level offence, from 16 November 2026 to 16 February 2027. Sell K. KOULIBALY to an external club for cash when he can next be sold, and sell one of E. FORSBERG or L. ALBERTO to an external club for cash (from the first ban below).
 - **Alessio Tonato (SSC Napoli):** one-month ban for a first level offence (more than six months since his last ban), from 9 November 2026 to 9 December 2026. Sell J. GOUWELEEUW and B. DAVIES to external clubs for cash from 7 December 2026.
 - **Bruno Neto^^ (Olympique Lyonnais):** one-month ban for a first level offence, from 20 October 2026 to 20 November 2026. Sell Y. IDDER to an external club for cash when his own ban ends.
 
+<!-- /live:current -->
 ## How bans work
 
 During a transfer ban the only permitted deals are **cash sales to clubs outside Top 100**. A banned manager may not deal with any other Top 100 manager, even by selling for cash, until the ban ends.
@@ -31,7 +33,9 @@ A manager who doesn't break the transfer rules for **six months after a ban ends
 
 ## Recently completed bans
 
+<!-- live:recent -->
 - **Luciano Catalano (US Sassuolo):** one-month ban for a first level offence, from 8 October 2026 to 7 November 2026, and sell one of E. FORSBERG or L. ALBERTO to an external club for cash.
+<!-- /live:recent -->
 - Attilio Bonnici (Standard Liege) one month ban for first offence from 27 October 2025 to 26 November 2025, and sell Floyd SAMBA to external club 24 November 2025.
 - Alessio Tonato (Napoli) one month ban for first offence from 14 September 2025 to 13 October 2025, and sell Montrell CULBREATH to external club 12 October 2025.
 - Golden Bear (Valencia) one month ban for first offence from 12 September 2025 to 11 October 2025, and sell Miguelito TERCEROS to external club 10 October 2025.

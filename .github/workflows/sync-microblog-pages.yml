@@ -10,6 +10,7 @@ on:
       - 'migration/pages/manager-portal.md'
       - 'migration/pages/transfer-bans.md'
       - 'scripts/sync_microblog_pages.py'
+      - 'scripts/transfer_bans_live.py'
       - '.github/workflows/sync-microblog-pages.yml'
   push:
     branches: [main]
@@ -21,8 +22,13 @@ on:
       - 'migration/pages/manager-portal.md'
       - 'migration/pages/transfer-bans.md'
       - 'scripts/sync_microblog_pages.py'
+      - 'scripts/transfer_bans_live.py'
       - '.github/workflows/sync-microblog-pages.yml'
   workflow_dispatch:
+  # Every day just after midnight UK time: rebuild the Transfer Bans page from the live register,
+  # so bans that have ended, sales that have been made and new bans show without an edit.
+  schedule:
+    - cron: '37 0 * * *'
 
 permissions:
   contents: read
@@ -56,3 +62,21 @@ jobs:
         env:
           MICROBLOG_TOKEN: ${{ secrets.MICROBLOG_TOKEN }}
         run: python scripts/sync_microblog_pages.py
+
+  refresh-transfer-bans:
+    if: github.event_name == 'schedule'
+    runs-on: ubuntu-latest
+    concurrency:
+      group: microblog-page-publishing
+      cancel-in-progress: false
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Rebuild the Transfer Bans page from the live register
+        env:
+          MICROBLOG_TOKEN: ${{ secrets.MICROBLOG_TOKEN }}
+        run: python scripts/sync_microblog_pages.py transfer-bans --require-live
