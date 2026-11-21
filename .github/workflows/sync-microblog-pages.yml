@@ -27,8 +27,12 @@ on:
   workflow_dispatch:
   # Every day just after midnight UK time: rebuild the Transfer Bans page from the live register,
   # so bans that have ended, sales that have been made and new bans show without an edit.
+  # GitHub can start scheduled runs hours late (the 00:37 run once started at 07:42), so two
+  # later runs keep the page current by the morning whichever of them goes first.
   schedule:
     - cron: '37 0 * * *'
+    - cron: '13 3 * * *'
+    - cron: '13 6 * * *'
 
 permissions:
   contents: read
