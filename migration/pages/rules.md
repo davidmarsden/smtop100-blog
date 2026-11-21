@@ -146,6 +146,8 @@ New managers, and former managers who would like to come back, join the waiting 
 
 **Order.** When a club is still vacant after current managers have applied (3.2), it is offered from the waiting list. Former Top 100 managers returning after a break come first, then everyone else in order of their waiting-list score. The score guides the administrators; it does not make the decision.
 
+**Choosing clubs.** On the waiting list you can see which clubs are free in each game world and choose up to three, in order of preference, in your Manager Account. The administrators take your choices into account when they offer a club; they don't change your place on the list.
+
 **Waiting-list score.** Out of 100, from the records the administrators keep:
 
 | | Points | What counts |
@@ -297,6 +299,8 @@ Minor clarifications, corrections and administrative procedures may be updated w
 When a substantive rule changes, the effective date should be clear. Historical decisions should be preserved rather than silently rewritten so that an older dispute can be judged against the rule that applied at the time.
 
 ### Change record
+
+**21 November 2026 — Choosing clubs from the waiting list.** Section 3.3 says that managers on the waiting list can see the free clubs in each game world and choose up to three, in order of preference.
 
 **12 November 2026 — A club in each game world.** Section 3.3 says that a manager can manage one club in each game world, so a Top 100 Regen manager who takes a Top 100 club keeps their Top 100 Regen club.
 
