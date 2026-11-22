@@ -1,6 +1,6 @@
 # Rules
 
-*Last updated: 19 November 2026*
+*Last updated: 22 November 2026*
 
 Top 100 is competitive, but it is also a community. The rules exist to keep the game world fair, active and enjoyable — not to create administration for its own sake.
 
@@ -257,7 +257,13 @@ For Saturday fixtures, managers must now work to the current Soccer Manager arra
 
 ### World Club Cup
 
-Historical World Club Cup coverage is preserved in the **[World Club Cup archive](/categories/world-club-cup/)**. Current tournament administration will move through the Tournament Centre as the competition is brought into the newer system.
+The **[World Club Cup](https://tournaments.smtop100.blog/top-100/world-club-cup)** is administered through the Tournament Centre. It is **mandatory** for every Top 100 club. Managers can see their fixtures and results in the **[Manager Portal](https://manager.smtop100.blog/)**.
+
+From Season 29 it starts with a league stage: every club plays six matches (two against clubs from its own pot, one against each other pot, three at home and three away), with pots set by division. Clubs 1–8 in the table go into the Cup last 16, 9–24 into a Cup play-off, and 25–56 into the Shield last 32. Knockout ties are played over two legs, with the higher-placed club at home in the second leg.
+
+Every match is a friendly played on its Wednesday. The **home manager sends the friendly request** as soon as the fixture can be arranged; the away manager checks proactively and chases if no request has arrived. Results are collected automatically. An unplayed match counts as a 3-0 win for a club that tried to arrange it, or a 0-3 defeat for both clubs if neither did; evidence of a timely request or message may distinguish an individual forfeit from a double failure.
+
+A knockout tie that is level on aggregate is decided on away goals and then, if still level, by **Fictional Extra Time**, as in the Youth Cup: one goal for the team with the most possession, one for the team with the most shots on target, and, if still level, one more for the team with the highest combined possession and shots on target.
 
 ## 7. Breaches and sanctions
 
@@ -299,6 +305,8 @@ Minor clarifications, corrections and administrative procedures may be updated w
 When a substantive rule changes, the effective date should be clear. Historical decisions should be preserved rather than silently rewritten so that an older dispute can be judged against the rule that applied at the time.
 
 ### Change record
+
+**22 November 2026 — World Club Cup.** Section 6 sets out the World Club Cup from Season 29: a mandatory league stage for every club, then Cup and Shield knockouts over two legs; the home manager sends the friendly request; unplayed matches count as forfeits; and level knockout ties are decided on away goals and then by Fictional Extra Time, as in the Youth Cup.
 
 **21 November 2026 — Choosing clubs from the waiting list.** Section 3.3 says that managers on the waiting list can see the free clubs in each game world and choose up to three, in order of preference.
 
