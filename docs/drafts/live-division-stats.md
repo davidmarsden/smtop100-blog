@@ -4,7 +4,7 @@
 
 Every season, **Mister TRX** does Top 100 a huge favour. Before a ball is kicked he rates every squad, predicts where each club will finish, and at the end of the season reviews who beat the prediction and who fell short.
 
-Those predictions and reviews are some of the most-read posts we publish. Thanks to Malcolm's dataset, every season from S2 to S28 is already on the Stats Archive: predicted finish, actual finish and value added, plus squad strength for every season up to S27 (S28's squad ratings are on their way).
+Those predictions and reviews are some of the most-read posts we publish. Thanks to Malcolm's dataset, every season from S2 to S28 is already on the Stats Archive: squad strength, predicted finish, actual finish and value added.
 
 One thing has been missing, though. **What does it look like right now, halfway through a season?**
 
